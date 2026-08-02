@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:03:28",
+  "last_updated": "2026-08-02T12:05:14",
   "html": {
     "https://web.archive.org/web/20260726065522if_/https://twitter.com/AngelMayLies/status/2081272144890327229": {
       "status": "done",
@@ -1763,9 +1763,9 @@
         "20260727194429_twitter_com_AngelMayLies_status_2081828086728004089.json",
         "20260727194714_twitter_com_AngelMayLies_status_2081828780830838980.json"
       ],
-      "last_updated": "2026-08-02T11:40:33",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260727194714/https://pbs.twimg.com/media/HOQjnNfb0AAdsP3.jpg",
-      "miss_count": 4
+      "last_updated": "2026-08-02T12:04:58",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260727194429/https://pbs.twimg.com/media/HOQjnNfb0AAdsP3.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HOQkPlibMAIg4Ud.jpg": {
       "status": "done",
@@ -2076,9 +2076,9 @@
       "referenced_by": [
         "20260729162606_twitter_com_AngelMayLies_status_2082502941114802230.json"
       ],
-      "last_updated": "2026-08-02T11:40:33",
+      "last_updated": "2026-08-02T12:05:02",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260729162606/https://pbs.twimg.com/media/HOYhOgDboAAwpv9.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOZKaUaboAA7csu.jpg": {
       "status": "done",
@@ -2114,9 +2114,9 @@
         "20260729171902_twitter_com_AngelMayLies_status_2082516260643119308.json",
         "20260729171944_twitter_com_AngelMayLies_status_2082516437474906362.json"
       ],
-      "last_updated": "2026-08-02T11:40:32",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260729171944/https://pbs.twimg.com/media/HOaRqI-aoAArwsE.jpg",
-      "miss_count": 4
+      "last_updated": "2026-08-02T12:05:05",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260729171902/https://pbs.twimg.com/media/HOaRqI-aoAArwsE.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HLFiUp5XQAAgZPX.jpg": {
       "status": "done",
@@ -2175,22 +2175,22 @@
       "last_updated": "2026-08-02T11:25:24"
     },
     "https://pbs.twimg.com/media/HOgOdPYb0AAoFAE.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260730204600_twitter_com_AngelMayLies_status_2082930734705324115.json"
       ],
-      "last_updated": "2026-08-02T11:40:32",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260730204600/https://pbs.twimg.com/media/HOgOdPYb0AAoFAE.jpg",
-      "miss_count": 2
+      "last_updated": "2026-08-02T12:05:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730204600im_/https://pbs.twimg.com/media/HOgOdPYb0AAoFAE.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f39712ae2a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOgOdQyboAA9peC.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260730204600_twitter_com_AngelMayLies_status_2082930734705324115.json"
       ],
-      "last_updated": "2026-08-02T11:40:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730204600/https://pbs.twimg.com/media/HOgOdQyboAA9peC.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7efd40846d20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:05:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730204600im_/https://pbs.twimg.com/media/HOgOdQyboAA9peC.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f39712f0f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOgMDf6XoAAFVS0.jpg": {
       "status": "done",
