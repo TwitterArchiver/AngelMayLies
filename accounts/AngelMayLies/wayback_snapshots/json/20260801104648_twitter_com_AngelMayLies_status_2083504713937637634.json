@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083372091504578560",
+        "3_2083372098550964224",
+        "3_2083372105903587328",
+        "3_2083372111565852672"
+      ],
+      "media_source_tweet_id": [
+        "2083372116502544872",
+        "2083372116502544872",
+        "2083372116502544872",
+        "2083372116502544872"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2083504713937637634",
+    "created_at": "2026-08-01T10:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083504713937637634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910794202075598848",
+          "start": 3,
+          "username": "sofilvergil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HoWrI0giBc",
+          "end": 78,
+          "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+          "media_key": "3_2083372091504578560",
+          "start": 55,
+          "url": "https://t.co/HoWrI0giBc"
+        },
+        {
+          "display_url": "pic.x.com/HoWrI0giBc",
+          "end": 78,
+          "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+          "media_key": "3_2083372098550964224",
+          "start": 55,
+          "url": "https://t.co/HoWrI0giBc"
+        },
+        {
+          "display_url": "pic.x.com/HoWrI0giBc",
+          "end": 78,
+          "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+          "media_key": "3_2083372105903587328",
+          "start": 55,
+          "url": "https://t.co/HoWrI0giBc"
+        },
+        {
+          "display_url": "pic.x.com/HoWrI0giBc",
+          "end": 78,
+          "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+          "media_key": "3_2083372111565852672",
+          "start": 55,
+          "url": "https://t.co/HoWrI0giBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083504713937637634",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083372116502544872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sofilvergil: vergil en el manga es tan precioso :( https://t.co/HoWrI0giBc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2083372091504578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmf4QkX0AAekjn.jpg",
+        "width": 736
+      },
+      {
+        "height": 736,
+        "media_key": "3_2083372098550964224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmf4q0XIAAJNTp.jpg",
+        "width": 736
+      },
+      {
+        "height": 440,
+        "media_key": "3_2083372105903587328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmf5GNXQAA9TeX.jpg",
+        "width": 440
+      },
+      {
+        "height": 797,
+        "media_key": "3_2083372111565852672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmf5bTWkAAlejG.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083372091504578560",
+            "3_2083372098550964224",
+            "3_2083372105903587328",
+            "3_2083372111565852672"
+          ]
+        },
+        "author_id": "1910794202075598848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2083372116502544872",
+        "created_at": "2026-08-01T01:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083372116502544872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 61,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372091504578560",
+              "start": 38,
+              "url": "https://t.co/HoWrI0giBc"
+            },
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 61,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372098550964224",
+              "start": 38,
+              "url": "https://t.co/HoWrI0giBc"
+            },
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 61,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372105903587328",
+              "start": 38,
+              "url": "https://t.co/HoWrI0giBc"
+            },
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 61,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372111565852672",
+              "start": 38,
+              "url": "https://t.co/HoWrI0giBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083372116502544872",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "vergil en el manga es tan precioso :( https://t.co/HoWrI0giBc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083372091504578560",
+            "3_2083372098550964224",
+            "3_2083372105903587328",
+            "3_2083372111565852672"
+          ],
+          "media_source_tweet_id": [
+            "2083372116502544872",
+            "2083372116502544872",
+            "2083372116502544872",
+            "2083372116502544872"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2083504713937637634",
+        "created_at": "2026-08-01T10:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083504713937637634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910794202075598848",
+              "start": 3,
+              "username": "sofilvergil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 78,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372091504578560",
+              "start": 55,
+              "url": "https://t.co/HoWrI0giBc"
+            },
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 78,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372098550964224",
+              "start": 55,
+              "url": "https://t.co/HoWrI0giBc"
+            },
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 78,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372105903587328",
+              "start": 55,
+              "url": "https://t.co/HoWrI0giBc"
+            },
+            {
+              "display_url": "pic.x.com/HoWrI0giBc",
+              "end": 78,
+              "expanded_url": "https://x.com/sofilvergil/status/2083372116502544872/photo/1",
+              "media_key": "3_2083372111565852672",
+              "start": 55,
+              "url": "https://t.co/HoWrI0giBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083504713937637634",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083372116502544872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sofilvergil: vergil en el manga es tan precioso :( https://t.co/HoWrI0giBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 40,
+          "like_count": 693,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T20:38:00.000Z",
+        "description": "escribo mis delirios mentales\n\nselective sharing ⠀⠀⠀⠀⠀17 yrs\n\nฺ⠀⠀⊹ ࣪ ˖ #yumeship #selfship ⠀⠀⠀⠀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "yumeship"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "tag": "selfship"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "espositadevergil.straw.page",
+                "end": 23,
+                "expanded_url": "https://espositadevergil.straw.page",
+                "start": 0,
+                "url": "https://t.co/l3ye1s65yh"
+              }
+            ]
+          }
+        },
+        "id": "1910794202075598848",
+        "location": "proship/spardacest DNI.🇦🇷",
+        "name": "sofia wachita de vergil",
+        "pinned_tweet_id": "2076478194526392706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083371921773645824/C6qnCAEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 68,
+          "like_count": 7636,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 4936
+        },
+        "url": "https://t.co/l3ye1s65yh",
+        "username": "sofilvergil",
+        "verified": false
+      }
+    ]
+  }
+}

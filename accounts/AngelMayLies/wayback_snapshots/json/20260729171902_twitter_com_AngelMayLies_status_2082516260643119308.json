@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082512030855241728"
+      ],
+      "media_source_tweet_id": [
+        "2082512039927497134"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082516260643119308",
+    "created_at": "2026-07-29T17:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082516260643119308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082353016120942592",
+          "start": 3,
+          "username": "K1llTheS0uLl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8cNsH6qR3O",
+          "end": 51,
+          "expanded_url": "https://x.com/K1llTheS0uLl/status/2082512039927497134/photo/1",
+          "media_key": "3_2082512030855241728",
+          "start": 28,
+          "url": "https://t.co/8cNsH6qR3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082516260643119308",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082512039927497134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1llTheS0uLl: i luv u❤️ https://t.co/8cNsH6qR3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082512030855241728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaRqI-aoAArwsE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082512030855241728"
+          ]
+        },
+        "author_id": "2082353016120942592",
+        "conversation_id": "2082512039927497134",
+        "created_at": "2026-07-29T17:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082512039927497134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cNsH6qR3O",
+              "end": 33,
+              "expanded_url": "https://x.com/K1llTheS0uLl/status/2082512039927497134/photo/1",
+              "media_key": "3_2082512030855241728",
+              "start": 10,
+              "url": "https://t.co/8cNsH6qR3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082512039927497134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "i luv u❤️ https://t.co/8cNsH6qR3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082512030855241728"
+          ],
+          "media_source_tweet_id": [
+            "2082512039927497134"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082516260643119308",
+        "created_at": "2026-07-29T17:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082516260643119308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082353016120942592",
+              "start": 3,
+              "username": "K1llTheS0uLl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cNsH6qR3O",
+              "end": 51,
+              "expanded_url": "https://x.com/K1llTheS0uLl/status/2082512039927497134/photo/1",
+              "media_key": "3_2082512030855241728",
+              "start": 28,
+              "url": "https://t.co/8cNsH6qR3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082516260643119308",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082512039927497134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1llTheS0uLl: i luv u❤️ https://t.co/8cNsH6qR3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 23,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T06:32:57.000Z",
+        "description": "09\n158/42\n@K1llTheSOul0827",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "K1llTheSOul0827"
+              }
+            ]
+          }
+        },
+        "id": "2082353016120942592",
+        "name": "Yunina",
+        "pinned_tweet_id": "2082388419737735549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082355015684112384/62707lpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "K1llTheS0uLl",
+        "verified": false
+      }
+    ]
+  }
+}

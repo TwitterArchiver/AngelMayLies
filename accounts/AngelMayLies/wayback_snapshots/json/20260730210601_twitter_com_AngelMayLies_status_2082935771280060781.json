@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082716241391734784"
+      ],
+      "media_source_tweet_id": [
+        "2082716244893909466"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082935771280060781",
+    "created_at": "2026-07-30T21:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082935771280060781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2054082414872248320",
+          "start": 3,
+          "username": "Dante_Te_Sparda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tb3Xq1R3KQ",
+          "end": 131,
+          "expanded_url": "https://x.com/Dante_Te_Sparda/status/2082716244893909466/photo/1",
+          "media_key": "3_2082716241391734784",
+          "start": 108,
+          "url": "https://t.co/Tb3Xq1R3KQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082935771280060781",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082716244893909466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dante_Te_Sparda: “I’m hungry… Very hungry. Can someone buy me a pizza? I’ll give you a kiss in return!” https://t.co/Tb3Xq1R3KQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_2082716241391734784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdLYwgXUAADebt.jpg",
+        "width": 562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082716241391734784"
+          ]
+        },
+        "author_id": "2054082414872248320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082716244893909466",
+        "created_at": "2026-07-30T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082716244893909466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tb3Xq1R3KQ",
+              "end": 110,
+              "expanded_url": "https://x.com/Dante_Te_Sparda/status/2082716244893909466/photo/1",
+              "media_key": "3_2082716241391734784",
+              "start": 87,
+              "url": "https://t.co/Tb3Xq1R3KQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082716244893909466",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1266,
+          "like_count": 128,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“I’m hungry… Very hungry. Can someone buy me a pizza? I’ll give you a kiss in return!” https://t.co/Tb3Xq1R3KQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082716241391734784"
+          ],
+          "media_source_tweet_id": [
+            "2082716244893909466"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082935771280060781",
+        "created_at": "2026-07-30T21:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082935771280060781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054082414872248320",
+              "start": 3,
+              "username": "Dante_Te_Sparda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tb3Xq1R3KQ",
+              "end": 131,
+              "expanded_url": "https://x.com/Dante_Te_Sparda/status/2082716244893909466/photo/1",
+              "media_key": "3_2082716241391734784",
+              "start": 108,
+              "url": "https://t.co/Tb3Xq1R3KQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082935771280060781",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082716244893909466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dante_Te_Sparda: “I’m hungry… Very hungry. Can someone buy me a pizza? I’ll give you a kiss in return!” https://t.co/Tb3Xq1R3KQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 30,
+          "like_count": 424,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T06:14:53.000Z",
+        "description": "\"ₑₐₛy, Fᵢdₒ! ₕₒw ₐbₒᵤₜ ᵢ ₜₐₖₑ yₒᵤ ₒᵤₜ fₒᵣ ₐ wₐₗₖ? Cₒₘₑ ₒₙ ₚᵤₚₚy, ₗₑₜ'ₛ gₒ!\"\n#DMCRP\nMostly SFW RP (MDNI)\nSpardacest DNI\nPfp: @DominicArtss",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "DMCRP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "DominicArtss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dante.te.spard…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dante.te.spardala?igsh=MWQ4a242d2Jydzgybw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BquRmkeeo6"
+              }
+            ]
+          }
+        },
+        "id": "2054082414872248320",
+        "name": "¤ø,¸ᴅᴀɴᴛᴇ.ꜱᴘᴀʀᴅᴀ¸,ø¤",
+        "pinned_tweet_id": "2054093332679213112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082842983175507968/qwWJqrDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 324,
+          "like_count": 1727,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/BquRmkeeo6",
+        "username": "Dante_Te_Sparda",
+        "verified": false
+      }
+    ]
+  }
+}

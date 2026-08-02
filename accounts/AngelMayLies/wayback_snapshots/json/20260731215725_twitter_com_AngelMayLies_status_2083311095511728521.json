@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082753427583401984",
+        "3_2082753532747276289"
+      ],
+      "media_source_tweet_id": [
+        "2082753568969240893",
+        "2082753568969240893"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083311095511728521",
+    "created_at": "2026-07-31T21:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083311095511728521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1674631009600512000",
+          "start": 3,
+          "username": "wizardslop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QvP6FA3Tgs",
+          "end": 39,
+          "expanded_url": "https://x.com/wizardslop/status/2082753568969240893/photo/1",
+          "media_key": "3_2082753427583401984",
+          "start": 16,
+          "url": "https://t.co/QvP6FA3Tgs"
+        },
+        {
+          "display_url": "pic.x.com/QvP6FA3Tgs",
+          "end": 39,
+          "expanded_url": "https://x.com/wizardslop/status/2082753568969240893/photo/1",
+          "media_key": "3_2082753532747276289",
+          "start": 16,
+          "url": "https://t.co/QvP6FA3Tgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083311095511728521",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082753568969240893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wizardslop: https://t.co/QvP6FA3Tgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 867,
+        "media_key": "3_2082753427583401984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdtNR3WAAAx0Z2.jpg",
+        "width": 1091
+      },
+      {
+        "height": 214,
+        "media_key": "3_2082753532747276289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdtTZoXYAEaWod.png",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082753427583401984",
+            "3_2082753532747276289"
+          ]
+        },
+        "author_id": "1674631009600512000",
+        "conversation_id": "2082753568969240893",
+        "created_at": "2026-07-30T09:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082753568969240893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvP6FA3Tgs",
+              "end": 23,
+              "expanded_url": "https://x.com/wizardslop/status/2082753568969240893/photo/1",
+              "media_key": "3_2082753427583401984",
+              "start": 0,
+              "url": "https://t.co/QvP6FA3Tgs"
+            },
+            {
+              "display_url": "pic.x.com/QvP6FA3Tgs",
+              "end": 23,
+              "expanded_url": "https://x.com/wizardslop/status/2082753568969240893/photo/1",
+              "media_key": "3_2082753532747276289",
+              "start": 0,
+              "url": "https://t.co/QvP6FA3Tgs"
+            },
+            {
+              "display_url": "x.com/Dante_Te_Spard…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Dante_Te_Sparda/status/2082675915557925105",
+              "start": 24,
+              "url": "https://t.co/Uckd03LuCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082753568969240893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3128,
+          "like_count": 309,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082675915557925105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QvP6FA3Tgs https://t.co/Uckd03LuCJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082753427583401984",
+            "3_2082753532747276289"
+          ],
+          "media_source_tweet_id": [
+            "2082753568969240893",
+            "2082753568969240893"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083311095511728521",
+        "created_at": "2026-07-31T21:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083311095511728521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1674631009600512000",
+              "start": 3,
+              "username": "wizardslop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvP6FA3Tgs",
+              "end": 39,
+              "expanded_url": "https://x.com/wizardslop/status/2082753568969240893/photo/1",
+              "media_key": "3_2082753427583401984",
+              "start": 16,
+              "url": "https://t.co/QvP6FA3Tgs"
+            },
+            {
+              "display_url": "pic.x.com/QvP6FA3Tgs",
+              "end": 39,
+              "expanded_url": "https://x.com/wizardslop/status/2082753568969240893/photo/1",
+              "media_key": "3_2082753532747276289",
+              "start": 16,
+              "url": "https://t.co/QvP6FA3Tgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083311095511728521",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082753568969240893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wizardslop: https://t.co/QvP6FA3Tgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132585065271296/6sQOqBIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 38,
+          "like_count": 597,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T04:08:53.000Z",
+        "description": "don't follow me unless you are okay with crossover art that i can't explain. i do not ship spardacest!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wizardslop.straw.page",
+                "end": 23,
+                "expanded_url": "https://wizardslop.straw.page/",
+                "start": 0,
+                "url": "https://t.co/D4KzkXCrDQ"
+              }
+            ]
+          }
+        },
+        "id": "1674631009600512000",
+        "location": "18+ / MDNI!",
+        "name": "wiz",
+        "pinned_tweet_id": "2074607650747060274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078049743331024896/YchsVJ5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 81,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/D4KzkXCrDQ",
+        "username": "wizardslop",
+        "verified": false
+      }
+    ]
+  }
+}

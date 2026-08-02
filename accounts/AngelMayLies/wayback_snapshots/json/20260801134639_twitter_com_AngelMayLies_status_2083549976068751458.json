@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083220991795441664"
+      ],
+      "media_source_tweet_id": [
+        "2083221000884486255"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083549976068751458",
+    "created_at": "2026-08-01T13:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083549976068751458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263352509025759233",
+          "start": 3,
+          "username": "SuperSisi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNsNkKjz18",
+          "end": 38,
+          "expanded_url": "https://x.com/SuperSisi/status/2083221000884486255/photo/1",
+          "media_key": "3_2083220991795441664",
+          "start": 15,
+          "url": "https://t.co/mNsNkKjz18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549976068751458",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1629
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083221000884486255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SuperSisi: https://t.co/mNsNkKjz18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1357,
+        "media_key": "3_2083220991795441664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkWdGSasAAYRbp.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083220991795441664"
+          ]
+        },
+        "author_id": "1263352509025759233",
+        "conversation_id": "2083221000884486255",
+        "created_at": "2026-07-31T15:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083221000884486255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNsNkKjz18",
+              "end": 23,
+              "expanded_url": "https://x.com/SuperSisi/status/2083221000884486255/photo/1",
+              "media_key": "3_2083220991795441664",
+              "start": 0,
+              "url": "https://t.co/mNsNkKjz18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083221000884486255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1276,
+          "impression_count": 1589252,
+          "like_count": 32643,
+          "quote_count": 50,
+          "reply_count": 76,
+          "retweet_count": 1629
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mNsNkKjz18"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083220991795441664"
+          ],
+          "media_source_tweet_id": [
+            "2083221000884486255"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083549976068751458",
+        "created_at": "2026-08-01T13:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083549976068751458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263352509025759233",
+              "start": 3,
+              "username": "SuperSisi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNsNkKjz18",
+              "end": 38,
+              "expanded_url": "https://x.com/SuperSisi/status/2083221000884486255/photo/1",
+              "media_key": "3_2083220991795441664",
+              "start": 15,
+              "url": "https://t.co/mNsNkKjz18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549976068751458",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1629
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083221000884486255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SuperSisi: https://t.co/mNsNkKjz18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 42,
+          "like_count": 721,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T06:16:35.000Z",
+        "description": "Gamer/Streamer/1CC maker | Pronounced “Suh-Suh”• I follow back all Subscribers • https://t.co/T3NjwTnI6M | \nMy Biggest Acc: https://t.co/wiffbjBoKW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@supersisi_",
+                "end": 104,
+                "expanded_url": "http://YouTube.com/@supersisi_",
+                "start": 81,
+                "url": "https://t.co/T3NjwTnI6M"
+              },
+              {
+                "display_url": "patreon.com/supersisi",
+                "end": 147,
+                "expanded_url": "http://patreon.com/supersisi",
+                "start": 124,
+                "url": "https://t.co/wiffbjBoKW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/supersisi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/supersisi",
+                "start": 0,
+                "url": "https://t.co/kUMVDT8GOz"
+              }
+            ]
+          }
+        },
+        "id": "1263352509025759233",
+        "location": "MARS",
+        "name": "SuperSisi",
+        "pinned_tweet_id": "2083050940563939404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078079064410386432/cIG8VPpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74203,
+          "following_count": 436,
+          "like_count": 498286,
+          "listed_count": 265,
+          "media_count": 10641,
+          "tweet_count": 124806
+        },
+        "url": "https://t.co/kUMVDT8GOz",
+        "username": "SuperSisi",
+        "verified": true
+      }
+    ]
+  }
+}

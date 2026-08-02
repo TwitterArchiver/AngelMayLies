@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082532095264796710",
+    "created_at": "2026-07-29T18:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082539503135408620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894353617945059328",
+          "start": 0,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082539503135408620",
+    "in_reply_to_user_id": "1894353617945059328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082535856301109518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDGVA23 你不必谦虚T_T！！一眼看过去真的效果超棒的，这个Vergil超级有dmc3海报那种vintage氛围！🥺🥺*pat*pat\n（而且这幅画的创意超级可爱💝💝我个人认为要画出那种真实的毛绒质感真的特别困难，但你做的超级好！！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082532095264796710",
+        "created_at": "2026-07-29T18:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082539503135408620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894353617945059328",
+              "start": 0,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082539503135408620",
+        "in_reply_to_user_id": "1894353617945059328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082535856301109518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDGVA23 你不必谦虚T_T！！一眼看过去真的效果超棒的，这个Vergil超级有dmc3海报那种vintage氛围！🥺🥺*pat*pat\n（而且这幅画的创意超级可爱💝💝我个人认为要画出那种真实的毛绒质感真的特别困难，但你做的超级好！！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894353617945059328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2082532095264796710",
+        "created_at": "2026-07-29T18:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082535856301109518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082535856301109518",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082532095264796710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies I tried an acrylic brush that was completely unsuitable in an attempt to give it a more classical look. I struggled a lot and I won’t do it again. 🥲 And Psyduck looks more like a plushie than a real one. 🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 24,
+          "like_count": 356,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato.Vergil x OC since 2005 (not a selfship)🚫AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dragunova.rt",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dragunova.rt",
+                "start": 0,
+                "url": "https://t.co/fKBLp8L6HC"
+              }
+            ]
+          }
+        },
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 749,
+          "like_count": 82882,
+          "listed_count": 3,
+          "media_count": 3435,
+          "tweet_count": 16337
+        },
+        "url": "https://t.co/fKBLp8L6HC",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

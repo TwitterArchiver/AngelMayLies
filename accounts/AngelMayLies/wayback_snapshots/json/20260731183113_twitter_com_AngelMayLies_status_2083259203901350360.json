@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083242685897527454",
+    "created_at": "2026-07-31T18:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083259203901350360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954959493810515968",
+          "start": 0,
+          "username": "Bin_Xian_89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083259203901350360",
+    "in_reply_to_user_id": "1954959493810515968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083251442488615159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bin_Xian_89 上个号发自残图被冻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083242685897527454",
+        "created_at": "2026-07-31T18:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083259203901350360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954959493810515968",
+              "start": 0,
+              "username": "Bin_Xian_89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083259203901350360",
+        "in_reply_to_user_id": "1954959493810515968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083251442488615159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bin_Xian_89 上个号发自残图被冻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954959493810515968",
+        "conversation_id": "2083242685897527454",
+        "created_at": "2026-07-31T18:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083251442488615159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083251442488615159",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083242685897527454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 枭儿开新号啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132585065271296/6sQOqBIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 36,
+          "like_count": 549,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T17:34:08.000Z",
+        "description": "专心经营自己的下水道生活\n纯绿🚪88",
+        "id": "1954959493810515968",
+        "name": "耻骨",
+        "pinned_tweet_id": "2083181835581006334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533665746411520/K7wdQ2rc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Bin_Xian_89",
+        "verified": false
+      }
+    ]
+  }
+}

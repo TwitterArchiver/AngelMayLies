@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082411792006070272"
+      ],
+      "media_source_tweet_id": [
+        "2082411815909388754"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082429938838475189",
+    "created_at": "2026-07-29T11:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082429938838475189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1704329484579885056",
+          "start": 3,
+          "username": "huaying370"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/evKO8pKdZF",
+          "end": 46,
+          "expanded_url": "https://x.com/huaying370/status/2082411815909388754/video/1",
+          "media_key": "13_2082411792006070272",
+          "start": 23,
+          "url": "https://t.co/evKO8pKdZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082429938838475189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082411815909388754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaying370: 爸宝转圈圈🥰 https://t.co/evKO8pKdZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 720,
+        "media_key": "13_2082411792006070272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082411792006070272/img/QGXVEidiqx0ZsK5j.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082411792006070272/vid/avc1/360x270/8ED3Oz155GF3ZHLi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082411792006070272/vid/avc1/480x360/uoVd1npeIedtvfcu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082411792006070272/vid/avc1/960x720/sW3bCjDClTptCSuK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082411792006070272/pl/xUnE3YcEDYEk-K8Z.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082411792006070272"
+          ]
+        },
+        "author_id": "1704329484579885056",
+        "conversation_id": "2082411815909388754",
+        "created_at": "2026-07-29T10:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082411815909388754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evKO8pKdZF",
+              "end": 30,
+              "expanded_url": "https://x.com/huaying370/status/2082411815909388754/video/1",
+              "media_key": "13_2082411792006070272",
+              "start": 7,
+              "url": "https://t.co/evKO8pKdZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082411815909388754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 70,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "爸宝转圈圈🥰 https://t.co/evKO8pKdZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082411792006070272"
+          ],
+          "media_source_tweet_id": [
+            "2082411815909388754"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082429938838475189",
+        "created_at": "2026-07-29T11:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082429938838475189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1704329484579885056",
+              "start": 3,
+              "username": "huaying370"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/evKO8pKdZF",
+              "end": 46,
+              "expanded_url": "https://x.com/huaying370/status/2082411815909388754/video/1",
+              "media_key": "13_2082411792006070272",
+              "start": 23,
+              "url": "https://t.co/evKO8pKdZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082429938838475189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082411815909388754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaying370: 爸宝转圈圈🥰 https://t.co/evKO8pKdZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 20,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T02:59:59.000Z",
+        "description": "我是花楹｜20↑｜DMC｜VN💙🩵only｜Not my art but my commision",
+        "id": "1704329484579885056",
+        "name": "正在学习使用社交媒体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992767761295298560/L6FASaua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 40,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "huaying370",
+        "verified": false
+      }
+    ]
+  }
+}

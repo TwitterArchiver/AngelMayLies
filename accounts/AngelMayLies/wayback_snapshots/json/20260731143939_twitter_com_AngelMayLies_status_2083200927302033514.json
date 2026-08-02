@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083051983767015425",
+        "3_2083051983766994944",
+        "3_2083051983767015424",
+        "3_2083051983758675968"
+      ],
+      "media_source_tweet_id": [
+        "2083052004096766233",
+        "2083052004096766233",
+        "2083052004096766233",
+        "2083052004096766233"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083200927302033514",
+    "created_at": "2026-07-31T14:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083200927302033514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "869201564845580288",
+          "start": 3,
+          "username": "JOKER82104"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M3UirLSKy1",
+          "end": 39,
+          "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+          "media_key": "3_2083051983767015425",
+          "start": 16,
+          "url": "https://t.co/M3UirLSKy1"
+        },
+        {
+          "display_url": "pic.x.com/M3UirLSKy1",
+          "end": 39,
+          "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+          "media_key": "3_2083051983766994944",
+          "start": 16,
+          "url": "https://t.co/M3UirLSKy1"
+        },
+        {
+          "display_url": "pic.x.com/M3UirLSKy1",
+          "end": 39,
+          "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+          "media_key": "3_2083051983767015424",
+          "start": 16,
+          "url": "https://t.co/M3UirLSKy1"
+        },
+        {
+          "display_url": "pic.x.com/M3UirLSKy1",
+          "end": 39,
+          "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+          "media_key": "3_2083051983758675968",
+          "start": 16,
+          "url": "https://t.co/M3UirLSKy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083200927302033514",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083052004096766233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JOKER82104: https://t.co/M3UirLSKy1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083051983767015425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh8viUbEAEIf5V.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2083051983766994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh8viUawAAkg8Q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2083051983767015424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh8viUbEAAfaMH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2083051983758675968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh8viSb0AA6yxL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083051983767015425",
+            "3_2083051983766994944",
+            "3_2083051983767015424",
+            "3_2083051983758675968"
+          ]
+        },
+        "author_id": "869201564845580288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083052004096766233",
+        "created_at": "2026-07-31T04:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083052004096766233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 23,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983767015425",
+              "start": 0,
+              "url": "https://t.co/M3UirLSKy1"
+            },
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 23,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983766994944",
+              "start": 0,
+              "url": "https://t.co/M3UirLSKy1"
+            },
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 23,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983767015424",
+              "start": 0,
+              "url": "https://t.co/M3UirLSKy1"
+            },
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 23,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983758675968",
+              "start": 0,
+              "url": "https://t.co/M3UirLSKy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083052004096766233",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2958,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M3UirLSKy1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083051983767015425",
+            "3_2083051983766994944",
+            "3_2083051983767015424",
+            "3_2083051983758675968"
+          ],
+          "media_source_tweet_id": [
+            "2083052004096766233",
+            "2083052004096766233",
+            "2083052004096766233",
+            "2083052004096766233"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083200927302033514",
+        "created_at": "2026-07-31T14:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083200927302033514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "869201564845580288",
+              "start": 3,
+              "username": "JOKER82104"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 39,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983767015425",
+              "start": 16,
+              "url": "https://t.co/M3UirLSKy1"
+            },
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 39,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983766994944",
+              "start": 16,
+              "url": "https://t.co/M3UirLSKy1"
+            },
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 39,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983767015424",
+              "start": 16,
+              "url": "https://t.co/M3UirLSKy1"
+            },
+            {
+              "display_url": "pic.x.com/M3UirLSKy1",
+              "end": 39,
+              "expanded_url": "https://x.com/JOKER82104/status/2083052004096766233/photo/1",
+              "media_key": "3_2083051983758675968",
+              "start": 16,
+              "url": "https://t.co/M3UirLSKy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083200927302033514",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083052004096766233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JOKER82104: https://t.co/M3UirLSKy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132585065271296/6sQOqBIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 35,
+          "like_count": 517,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-29T14:39:36.000Z",
+        "description": "DMC.バイオ.BASARA.龍が如く.三國・戦国無双.OROCHI.閃乱カグラ焔.ストファイ.FF.MHWI.ゴーストオブ.ゼンゼロ(アスイヴ).ペルソナ.ヒロアカOJ荼毘,ポケモン.ベヨネッタ,漫画.アニメ.映画.音楽.猫.悪役.スクショ.ヒューバグ.スト5ベガプラ、スト6 JPベガサガットマスター無言フォロー失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCo-Ap…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCo-ApKpn5fJMvzpGqf7825g",
+                "start": 0,
+                "url": "https://t.co/nvefE2SNDa"
+              }
+            ]
+          }
+        },
+        "id": "869201564845580288",
+        "location": "@kazukihtt",
+        "name": "執権kazuki",
+        "pinned_tweet_id": "1912842769145671717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045025906230710272/aDFSj2lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 910,
+          "like_count": 101998,
+          "listed_count": 15,
+          "media_count": 40943,
+          "tweet_count": 136256
+        },
+        "url": "https://t.co/nvefE2SNDa",
+        "username": "JOKER82104",
+        "verified": false
+      }
+    ]
+  }
+}

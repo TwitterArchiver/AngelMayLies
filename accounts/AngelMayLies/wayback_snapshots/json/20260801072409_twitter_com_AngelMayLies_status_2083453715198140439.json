@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083453715198140439",
+    "created_at": "2026-08-01T07:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083453715198140439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikasagrada/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mikasagrada/status/2083246311646908440",
+          "start": 15,
+          "url": "https://t.co/5Z2xg03JlF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083453715198140439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083246311646908440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我时隔5年今年再玩dmc时候 https://t.co/5Z2xg03JlF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11586,
+        "height": 410,
+        "media_key": "13_2080824648942432256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080824648942432256/img/jt28kiA-GcdtVkFO.jpg",
+        "public_metrics": {
+          "view_count": 231702
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080824648942432256/vid/avc1/320x410/aasvVMtJQukN3WQg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080824648942432256/pl/LPkYOoBvOradZiIS.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083453715198140439",
+        "created_at": "2026-08-01T07:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083453715198140439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikasagrada/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mikasagrada/status/2083246311646908440",
+              "start": 15,
+              "url": "https://t.co/5Z2xg03JlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083453715198140439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083246311646908440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我时隔5年今年再玩dmc时候 https://t.co/5Z2xg03JlF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080824648942432256"
+          ]
+        },
+        "author_id": "1358539444362608641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083246311646908440",
+        "created_at": "2026-07-31T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083246311646908440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkUFBtJhLp",
+              "end": 102,
+              "expanded_url": "https://x.com/mikasagrada/status/2083246311646908440/video/1",
+              "media_key": "13_2080824648942432256",
+              "start": 79,
+              "url": "https://t.co/xkUFBtJhLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083246311646908440",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1358,
+          "impression_count": 484630,
+          "like_count": 51669,
+          "quote_count": 907,
+          "reply_count": 89,
+          "retweet_count": 11867
+        },
+        "reply_settings": "everyone",
+        "text": "como é a sensação de reassistir uma série quando você tem uma memória péssima: https://t.co/xkUFBtJhLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132585065271296/6sQOqBIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 39,
+          "like_count": 648,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T22:13:49.000Z",
+        "description": "Tenho uma legião de divas | segue ae divas | contato dm 📩",
+        "id": "1358539444362608641",
+        "location": "Beverly Hills, CA",
+        "name": "mika",
+        "pinned_tweet_id": "2067636854963233171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034098419405574144/zB7RtS9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79161,
+          "following_count": 6,
+          "like_count": 41626,
+          "listed_count": 40,
+          "media_count": 1752,
+          "tweet_count": 3871
+        },
+        "url": "",
+        "username": "mikasagrada",
+        "verified": false
+      }
+    ]
+  }
+}

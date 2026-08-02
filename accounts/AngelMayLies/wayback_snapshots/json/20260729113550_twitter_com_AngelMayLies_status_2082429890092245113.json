@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082395172848152867",
+    "created_at": "2026-07-29T11:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082429890092245113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        },
+        {
+          "end": 28,
+          "id": "1293074266515099648",
+          "start": 15,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082429890092245113",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082429226821804337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y @Plaskid_9244 哎呀，没事的啦，我懂你意思的，我确实吃这对就是啦，不用紧张的呀！！˶&gt;ᗜ&lt;˶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082395172848152867",
+        "created_at": "2026-07-29T11:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082429890092245113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            },
+            {
+              "end": 28,
+              "id": "1293074266515099648",
+              "start": 15,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082429890092245113",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082429226821804337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y @Plaskid_9244 哎呀，没事的啦，我懂你意思的，我确实吃这对就是啦，不用紧张的呀！！˶&gt;ᗜ&lt;˶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2082395172848152867",
+        "created_at": "2026-07-29T11:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082429226821804337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1293074266515099648",
+              "start": 0,
+              "username": "Plaskid_9244"
+            },
+            {
+              "end": 27,
+              "id": "2055376212751470593",
+              "start": 14,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082429226821804337",
+        "in_reply_to_user_id": "1293074266515099648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082428419493765398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plaskid_9244 @AngelMayLies 蛋的屁屁吧...呜！蛋就是鬼泣里的但丁啦\n其实我发这个消息的时候...突然发觉好像不小心讲错了话诶，超不妙超不妙...因为不知道对方是怎样看待cp问题....我的话是都好的...但还是借楼和贴主道歉噗&gt;_&lt;。呜咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 20,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 547,
+          "like_count": 26599,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 637
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "一個沒有雙休的三流高中生/我忘了我是EN還是IN/草你媽榮格/Wovon man nicht sprechen kann, darüber muß man schweigen./也許選擇去死/誰是粥作樹？\n\n我們現在來加一個「戰爭反對」",
+        "id": "1293074266515099648",
+        "location": "Newcastle,UK",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "2079509281867759756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415908708818944/WfaauD3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 944,
+          "like_count": 11582,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "Plaskid_9244",
+        "verified": false
+      }
+    ]
+  }
+}

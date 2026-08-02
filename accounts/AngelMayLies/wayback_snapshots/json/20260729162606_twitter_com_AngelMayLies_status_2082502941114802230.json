@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082502941114802230",
+    "created_at": "2026-07-29T16:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082502941114802230"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082353016120942592",
+          "start": 3,
+          "username": "K1llTheS0uLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082502941114802230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082388419737735549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1llTheS0uLl: Hii我是小熊猫～\nip天津\n🚪188💰仅好友位\n🚪220💰开放朋友圈+互动\n🚪520💰电子女友+🉑语音陪聊｜‼️🚪520💰解锁线下‼️｜zfb口令过🚪可咨询｜不过门别私信没有闲聊的义务 耐心只给门哥哥 穷逼话多你就滚吧\n#爸爸活 #妈妈活…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082388410711646208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYhOgDboAAwpv9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082502941114802230",
+        "created_at": "2026-07-29T16:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082502941114802230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "妈妈活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082353016120942592",
+              "start": 3,
+              "username": "K1llTheS0uLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082502941114802230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082388419737735549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1llTheS0uLl: Hii我是小熊猫～\nip天津\n🚪188💰仅好友位\n🚪220💰开放朋友圈+互动\n🚪520💰电子女友+🉑语音陪聊｜‼️🚪520💰解锁线下‼️｜zfb口令过🚪可咨询｜不过门别私信没有闲聊的义务 耐心只给门哥哥 穷逼话多你就滚吧\n#爸爸活 #妈妈活…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082388410711646208"
+          ]
+        },
+        "author_id": "2082353016120942592",
+        "conversation_id": "2082388419737735549",
+        "created_at": "2026-07-29T08:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082388419737735549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "线下"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "纯绿"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "非绿"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "天津"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "od"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "日系"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "清楚系"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "亚文化"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "门槛"
+            },
+            {
+              "end": 163,
+              "start": 159,
+              "tag": "パパ活"
+            },
+            {
+              "end": 167,
+              "start": 164,
+              "tag": "風俗"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "摇滚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5jdTjUhvz",
+              "end": 195,
+              "expanded_url": "https://x.com/K1llTheS0uLl/status/2082388419737735549/photo/1",
+              "media_key": "3_2082388410711646208",
+              "start": 172,
+              "url": "https://t.co/Y5jdTjUhvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082388419737735549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Hii我是小熊猫～\nip天津\n🚪188💰仅好友位\n🚪220💰开放朋友圈+互动\n🚪520💰电子女友+🉑语音陪聊｜‼️🚪520💰解锁线下‼️｜zfb口令过🚪可咨询｜不过门别私信没有闲聊的义务 耐心只给门哥哥 穷逼话多你就滚吧\n#爸爸活 #妈妈活 #线下 #纯绿 #非绿 #天津 #od #日系 #清楚系 #亚文化 #门槛 #パパ活 #風俗 #摇滚 https://t.co/Y5jdTjUhvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 22,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T06:32:57.000Z",
+        "description": "09\n158/42\n@K1llTheSOul0827",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "K1llTheSOul0827"
+              }
+            ]
+          }
+        },
+        "id": "2082353016120942592",
+        "name": "Yunina",
+        "pinned_tweet_id": "2082388419737735549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082355015684112384/62707lpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "K1llTheS0uLl",
+        "verified": false
+      }
+    ]
+  }
+}

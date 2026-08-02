@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082427778755121400",
+    "created_at": "2026-07-29T11:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082428858637353350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843735518401703937",
+          "start": 0,
+          "username": "momokoo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082428858637353350",
+    "in_reply_to_user_id": "1843735518401703937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082428506227749223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momokoo8964 爱你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082427778755121400",
+        "created_at": "2026-07-29T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082428858637353350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843735518401703937",
+              "start": 0,
+              "username": "momokoo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082428858637353350",
+        "in_reply_to_user_id": "1843735518401703937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082428506227749223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momokoo8964 爱你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843735518401703937",
+        "conversation_id": "2082427778755121400",
+        "created_at": "2026-07-29T11:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082428506227749223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082428506227749223",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082428145978982471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 我好爱你呀闺蜜我会努力积极一点的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 20,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "只是一个普通人类女孩",
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2080586642298139078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082021939804254208/RkGOClKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 149,
+          "like_count": 4863,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1670
+        },
+        "url": "",
+        "username": "momokoo8964",
+        "verified": false
+      }
+    ]
+  }
+}

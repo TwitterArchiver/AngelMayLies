@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082395172848152867",
+    "created_at": "2026-07-29T11:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082432590431260772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        },
+        {
+          "end": 28,
+          "id": "1293074266515099648",
+          "start": 15,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082432590431260772",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082430511482548489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y @Plaskid_9244 不用紧张呀꒰˶&gt;ᗜ&lt;˶꒱​我最近也想认识新朋友来着！！只要你不介意我每天说话都很怪的话（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082395172848152867",
+        "created_at": "2026-07-29T11:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082432590431260772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            },
+            {
+              "end": 28,
+              "id": "1293074266515099648",
+              "start": 15,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082432590431260772",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082430511482548489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y @Plaskid_9244 不用紧张呀꒰˶&gt;ᗜ&lt;˶꒱​我最近也想认识新朋友来着！！只要你不介意我每天说话都很怪的话（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2082395172848152867",
+        "created_at": "2026-07-29T11:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082430511482548489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            },
+            {
+              "end": 27,
+              "id": "1293074266515099648",
+              "start": 14,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082430511482548489",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082429890092245113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies @Plaskid_9244 ！！谢谢(っ⩊＜)\n其实我玩鬼泣是前几年的事了，但是但丁和维吉尔一直是我好喜欢的印象好深刻的角色...所以，所以...在X上看到鬼泣厨会有点去接近（唉呀...呜，这种说法好变态！&gt;_&lt;。）...呜...呜哇，我到底是...其实我是...咕...这个，唉呀，就是说，我想.......交朋友....꒰՞&gt; · &lt;𓈒՞꒱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 20,
+          "like_count": 292,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 547,
+          "like_count": 26602,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "一個沒有雙休的三流高中生/我忘了我是EN還是IN/草你媽榮格/Wovon man nicht sprechen kann, darüber muß man schweigen./也許選擇去死/誰是粥作樹？\n\n我們現在來加一個「戰爭反對」",
+        "id": "1293074266515099648",
+        "location": "Newcastle,UK",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "2079509281867759756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058415908708818944/WfaauD3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 944,
+          "like_count": 11584,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1810
+        },
+        "url": "",
+        "username": "Plaskid_9244",
+        "verified": false
+      }
+    ]
+  }
+}

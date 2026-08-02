@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082558504511143980",
+    "created_at": "2026-07-29T20:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082571298639855732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082353016120942592",
+          "start": 0,
+          "username": "K1llTheS0uLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082571298639855732",
+    "in_reply_to_user_id": "2082353016120942592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082558504511143980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1llTheS0uLl 好美呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082558504511143980",
+        "created_at": "2026-07-29T20:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082571298639855732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082353016120942592",
+              "start": 0,
+              "username": "K1llTheS0uLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082571298639855732",
+        "in_reply_to_user_id": "2082353016120942592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082558504511143980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1llTheS0uLl 好美呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082353016120942592",
+        "conversation_id": "2082558504511143980",
+        "created_at": "2026-07-29T20:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082558504511143980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082558504511143980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗我九岁的时候刚看完爱在三部曲然后巴黎圣母院就起大火了 但是我当时只有九岁我屁都看不懂我只觉得哇塞好巧呀因为女主对男主说相信有一天巴黎圣母院会消失吗\n然后从那之后我的运气就变得特别好呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 25,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T06:32:57.000Z",
+        "description": "09\n158/42\n@K1llTheSOul0827",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "K1llTheSOul0827"
+              }
+            ]
+          }
+        },
+        "id": "2082353016120942592",
+        "name": "Yunina",
+        "pinned_tweet_id": "2082388419737735549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082355015684112384/62707lpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 9,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "K1llTheS0uLl",
+        "verified": false
+      }
+    ]
+  }
+}

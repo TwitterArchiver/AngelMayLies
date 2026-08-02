@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082398996971372544"
+      ],
+      "media_source_tweet_id": [
+        "2082399000339370172"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2082417307369021778",
+    "created_at": "2026-07-29T10:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082417307369021778"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "dmc"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "re"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1991306745394941952",
+          "start": 3,
+          "username": "zhienzhienx_x"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Shop Detail",
+          "display_url": "acggoods.com/store/zhienzhi…",
+          "end": 84,
+          "expanded_url": "https://acggoods.com/store/zhienzhienxx?from=share",
+          "start": 61,
+          "status": 200,
+          "title": "Shop Detail | ACGGOODS",
+          "unwound_url": "https://acggoods.com/store/zhienzhienxx?from=share",
+          "url": "https://t.co/plRNWSIMoW"
+        },
+        {
+          "display_url": "pic.x.com/MtdG21bHjQ",
+          "end": 108,
+          "expanded_url": "https://x.com/zhienzhienx_x/status/2082399000339370172/photo/1",
+          "media_key": "3_2082398996971372544",
+          "start": 85,
+          "url": "https://t.co/MtdG21bHjQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082417307369021778",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082399000339370172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhienzhienx_x: New doggies in acggoods ▼⁠・⁠ᴥ⁠・⁠▼#dmc #re\nhttps://t.co/plRNWSIMoW https://t.co/MtdG21bHjQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1582,
+        "media_key": "3_2082398996971372544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYq2s8bwAAVznk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082398996971372544"
+          ]
+        },
+        "author_id": "1991306745394941952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2082399000339370172",
+        "created_at": "2026-07-29T09:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082399000339370172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "dmc"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "re"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Shop Detail",
+              "display_url": "acggoods.com/store/zhienzhi…",
+              "end": 65,
+              "expanded_url": "https://acggoods.com/store/zhienzhienxx?from=share",
+              "start": 42,
+              "status": 200,
+              "title": "Shop Detail | ACGGOODS",
+              "unwound_url": "https://acggoods.com/store/zhienzhienxx?from=share",
+              "url": "https://t.co/plRNWSIMoW"
+            },
+            {
+              "display_url": "pic.x.com/MtdG21bHjQ",
+              "end": 89,
+              "expanded_url": "https://x.com/zhienzhienx_x/status/2082399000339370172/photo/1",
+              "media_key": "3_2082398996971372544",
+              "start": 66,
+              "url": "https://t.co/MtdG21bHjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082399000339370172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "New doggies in acggoods ▼⁠・⁠ᴥ⁠・⁠▼#dmc #re\nhttps://t.co/plRNWSIMoW https://t.co/MtdG21bHjQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082398996971372544"
+          ],
+          "media_source_tweet_id": [
+            "2082399000339370172"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2082417307369021778",
+        "created_at": "2026-07-29T10:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082417307369021778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "dmc"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "re"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1991306745394941952",
+              "start": 3,
+              "username": "zhienzhienx_x"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Shop Detail",
+              "display_url": "acggoods.com/store/zhienzhi…",
+              "end": 84,
+              "expanded_url": "https://acggoods.com/store/zhienzhienxx?from=share",
+              "start": 61,
+              "status": 200,
+              "title": "Shop Detail | ACGGOODS",
+              "unwound_url": "https://acggoods.com/store/zhienzhienxx?from=share",
+              "url": "https://t.co/plRNWSIMoW"
+            },
+            {
+              "display_url": "pic.x.com/MtdG21bHjQ",
+              "end": 108,
+              "expanded_url": "https://x.com/zhienzhienx_x/status/2082399000339370172/photo/1",
+              "media_key": "3_2082398996971372544",
+              "start": 85,
+              "url": "https://t.co/MtdG21bHjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082417307369021778",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082399000339370172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhienzhienx_x: New doggies in acggoods ▼⁠・⁠ᴥ⁠・⁠▼#dmc #re\nhttps://t.co/plRNWSIMoW https://t.co/MtdG21bHjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 20,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T00:45:28.000Z",
+        "description": "||cocoma5★commission open☆\ndanlady•verlir•nerokiri\nhttps://t.co/xGcS1eAPpE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "acggoods.com/store/zhienzhi…",
+                "end": 74,
+                "expanded_url": "https://acggoods.com/store/zhienzhienxx?from=share",
+                "start": 51,
+                "url": "https://t.co/xGcS1eAPpE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhienzhien.straw.page",
+                "end": 23,
+                "expanded_url": "https://zhienzhien.straw.page",
+                "start": 0,
+                "url": "https://t.co/GpQ6pGjApX"
+              }
+            ]
+          }
+        },
+        "id": "1991306745394941952",
+        "name": "zhienzhienx_x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067779776010661888/Wl8Lt2Ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3330,
+          "following_count": 131,
+          "like_count": 925,
+          "listed_count": 7,
+          "media_count": 54,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/GpQ6pGjApX",
+        "username": "zhienzhienx_x",
+        "verified": false
+      }
+    ]
+  }
+}

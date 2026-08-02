@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083102039907979264",
+        "3_2083102040658677761"
+      ],
+      "media_source_tweet_id": [
+        "2083102054952923395",
+        "2083102054952923395"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2083498478135841013",
+    "created_at": "2026-08-01T10:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083498478135841013"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "dmc"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "dante"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055376212751470593",
+          "start": 3,
+          "username": "AngelMayLies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q57h4aiyA9",
+          "end": 64,
+          "expanded_url": "https://x.com/AngelMayLies/status/2083102054952923395/photo/1",
+          "media_key": "3_2083102039907979264",
+          "start": 41,
+          "url": "https://t.co/Q57h4aiyA9"
+        },
+        {
+          "display_url": "pic.x.com/Q57h4aiyA9",
+          "end": 64,
+          "expanded_url": "https://x.com/AngelMayLies/status/2083102054952923395/photo/1",
+          "media_key": "3_2083102040658677761",
+          "start": 41,
+          "url": "https://t.co/Q57h4aiyA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083498478135841013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083102054952923395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelMayLies: 幽怨的弟弟都长一个样\n#dmc #dante https://t.co/Q57h4aiyA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1787,
+        "media_key": "3_2083102039907979264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiqRL-bUAAT28v.jpg",
+        "width": 1401
+      },
+      {
+        "height": 1690,
+        "media_key": "3_2083102040658677761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiqROxaEAExg1C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083102039907979264",
+            "3_2083102040658677761"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083102054952923395",
+        "created_at": "2026-07-31T08:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083102054952923395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "dmc"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "dante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q57h4aiyA9",
+              "end": 46,
+              "expanded_url": "https://x.com/AngelMayLies/status/2083102054952923395/photo/1",
+              "media_key": "3_2083102039907979264",
+              "start": 23,
+              "url": "https://t.co/Q57h4aiyA9"
+            },
+            {
+              "display_url": "pic.x.com/Q57h4aiyA9",
+              "end": 46,
+              "expanded_url": "https://x.com/AngelMayLies/status/2083102054952923395/photo/1",
+              "media_key": "3_2083102040658677761",
+              "start": 23,
+              "url": "https://t.co/Q57h4aiyA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083102054952923395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 439,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "幽怨的弟弟都长一个样\n#dmc #dante https://t.co/Q57h4aiyA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083102039907979264",
+            "3_2083102040658677761"
+          ],
+          "media_source_tweet_id": [
+            "2083102054952923395",
+            "2083102054952923395"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083498478135841013",
+        "created_at": "2026-08-01T10:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083498478135841013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "dmc"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "dante"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055376212751470593",
+              "start": 3,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q57h4aiyA9",
+              "end": 64,
+              "expanded_url": "https://x.com/AngelMayLies/status/2083102054952923395/photo/1",
+              "media_key": "3_2083102039907979264",
+              "start": 41,
+              "url": "https://t.co/Q57h4aiyA9"
+            },
+            {
+              "display_url": "pic.x.com/Q57h4aiyA9",
+              "end": 64,
+              "expanded_url": "https://x.com/AngelMayLies/status/2083102054952923395/photo/1",
+              "media_key": "3_2083102040658677761",
+              "start": 41,
+              "url": "https://t.co/Q57h4aiyA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083498478135841013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083102054952923395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelMayLies: 幽怨的弟弟都长一个样\n#dmc #dante https://t.co/Q57h4aiyA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 39,
+          "like_count": 686,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      }
+    ]
+  }
+}

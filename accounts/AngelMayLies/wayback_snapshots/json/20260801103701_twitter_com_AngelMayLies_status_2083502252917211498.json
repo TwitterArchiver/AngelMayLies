@@ -1,0 +1,573 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083409060003737600",
+        "3_2083409060003786753",
+        "3_2083409059999629312"
+      ],
+      "media_source_tweet_id": [
+        "2083409078873915462",
+        "2083409078873915462",
+        "2083409078873915462"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2083502252917211498",
+    "created_at": "2026-08-01T10:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083502252917211498"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "P1S"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "DMC"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "vregil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984594095445327874",
+          "start": 3,
+          "username": "MagosMeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1XtTNBZ9n",
+          "end": 68,
+          "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+          "media_key": "3_2083409060003737600",
+          "start": 45,
+          "url": "https://t.co/j1XtTNBZ9n"
+        },
+        {
+          "display_url": "pic.x.com/j1XtTNBZ9n",
+          "end": 68,
+          "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+          "media_key": "3_2083409060003786753",
+          "start": 45,
+          "url": "https://t.co/j1XtTNBZ9n"
+        },
+        {
+          "display_url": "pic.x.com/j1XtTNBZ9n",
+          "end": 68,
+          "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+          "media_key": "3_2083409059999629312",
+          "start": 45,
+          "url": "https://t.co/j1XtTNBZ9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083502252917211498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083409078873915462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MagosMeow: 正视与侧视头雕整体对比 #P1S #DMC #vregil https://t.co/j1XtTNBZ9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083409060003737600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnBgG9acAAUsPt.jpg",
+        "width": 1398
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083409060003786753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnBgG9bMAEPKY8.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083409059999629312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnBgG8bwAAX7hZ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083409060003737600",
+            "3_2083409060003786753",
+            "3_2083409059999629312"
+          ]
+        },
+        "author_id": "1984594095445327874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083409078873915462",
+        "created_at": "2026-08-01T04:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083409078873915462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "P1S"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "DMC"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "vregil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1XtTNBZ9n",
+              "end": 53,
+              "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+              "media_key": "3_2083409060003737600",
+              "start": 30,
+              "url": "https://t.co/j1XtTNBZ9n"
+            },
+            {
+              "display_url": "pic.x.com/j1XtTNBZ9n",
+              "end": 53,
+              "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+              "media_key": "3_2083409060003786753",
+              "start": 30,
+              "url": "https://t.co/j1XtTNBZ9n"
+            },
+            {
+              "display_url": "pic.x.com/j1XtTNBZ9n",
+              "end": 53,
+              "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+              "media_key": "3_2083409059999629312",
+              "start": 30,
+              "url": "https://t.co/j1XtTNBZ9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083409078873915462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 601,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "正视与侧视头雕整体对比 #P1S #DMC #vregil https://t.co/j1XtTNBZ9n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083409060003737600",
+            "3_2083409060003786753",
+            "3_2083409059999629312"
+          ],
+          "media_source_tweet_id": [
+            "2083409078873915462",
+            "2083409078873915462",
+            "2083409078873915462"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083502252917211498",
+        "created_at": "2026-08-01T10:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083502252917211498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "P1S"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "DMC"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "vregil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984594095445327874",
+              "start": 3,
+              "username": "MagosMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1XtTNBZ9n",
+              "end": 68,
+              "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+              "media_key": "3_2083409060003737600",
+              "start": 45,
+              "url": "https://t.co/j1XtTNBZ9n"
+            },
+            {
+              "display_url": "pic.x.com/j1XtTNBZ9n",
+              "end": 68,
+              "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+              "media_key": "3_2083409060003786753",
+              "start": 45,
+              "url": "https://t.co/j1XtTNBZ9n"
+            },
+            {
+              "display_url": "pic.x.com/j1XtTNBZ9n",
+              "end": 68,
+              "expanded_url": "https://x.com/MagosMeow/status/2083409078873915462/photo/1",
+              "media_key": "3_2083409059999629312",
+              "start": 45,
+              "url": "https://t.co/j1XtTNBZ9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083502252917211498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083409078873915462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MagosMeow: 正视与侧视头雕整体对比 #P1S #DMC #vregil https://t.co/j1XtTNBZ9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 40,
+          "like_count": 691,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T12:11:31.000Z",
+        "description": "维吉尔全肯定，一人论，top dante only / DV",
+        "id": "1984594095445327874",
+        "name": "Meow贤者",
+        "pinned_tweet_id": "2008094291684655538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006030329463857152/U4EBgtfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 205,
+          "like_count": 3195,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "MagosMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082328632823881728"
+      ],
+      "media_source_tweet_id": [
+        "2082328638029001197"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2082516240598446320",
+    "created_at": "2026-07-29T17:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082516240598446320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1981826222696144896",
+          "start": 3,
+          "username": "in_derpetuity"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wic7avITuu",
+          "end": 101,
+          "expanded_url": "https://x.com/in_derpetuity/status/2082328638029001197/photo/1",
+          "media_key": "3_2082328632823881728",
+          "start": 78,
+          "url": "https://t.co/Wic7avITuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082516240598446320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082328638029001197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in_derpetuity: Drawing hands (and ears) is such a pain :&lt;\nStill a WIP~ https://t.co/Wic7avITuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082328632823881728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXq2-EXoAAez5v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082328632823881728"
+          ]
+        },
+        "author_id": "1981826222696144896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082328638029001197",
+        "created_at": "2026-07-29T04:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082328638029001197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wic7avITuu",
+              "end": 82,
+              "expanded_url": "https://x.com/in_derpetuity/status/2082328638029001197/photo/1",
+              "media_key": "3_2082328632823881728",
+              "start": 59,
+              "url": "https://t.co/Wic7avITuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082328638029001197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1837,
+          "like_count": 125,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Drawing hands (and ears) is such a pain :&lt;\nStill a WIP~ https://t.co/Wic7avITuu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082328632823881728"
+          ],
+          "media_source_tweet_id": [
+            "2082328638029001197"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2082516240598446320",
+        "created_at": "2026-07-29T17:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082516240598446320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1981826222696144896",
+              "start": 3,
+              "username": "in_derpetuity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wic7avITuu",
+              "end": 101,
+              "expanded_url": "https://x.com/in_derpetuity/status/2082328638029001197/photo/1",
+              "media_key": "3_2082328632823881728",
+              "start": 78,
+              "url": "https://t.co/Wic7avITuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082516240598446320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082328638029001197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in_derpetuity: Drawing hands (and ears) is such a pain :&lt;\nStill a WIP~ https://t.co/Wic7avITuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 23,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T20:53:41.000Z",
+        "description": "31🩶\nArchive of all my fangirling~\nCreative sometimes :}",
+        "id": "1981826222696144896",
+        "location": "🤠",
+        "name": "Hydrazine_Heart",
+        "pinned_tweet_id": "2080789474984730692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029406241374515201/0zRWH7j2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 691,
+          "like_count": 13320,
+          "listed_count": 8,
+          "media_count": 647,
+          "tweet_count": 2677
+        },
+        "url": "",
+        "username": "in_derpetuity",
+        "verified": true
+      }
+    ]
+  }
+}

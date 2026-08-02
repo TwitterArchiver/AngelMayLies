@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082460835969180145",
+    "created_at": "2026-07-29T13:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082460835969180145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047687133708599296",
+          "start": 3,
+          "username": "themaniachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082460835969180145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082137950956183936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @themaniachan: 墙外Oder能不能组成一个战忽局啊\n每天往墙内泄露点根本不存在的od小知识，让晶哥和抖音药理享受者无法溯源"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082460835969180145",
+        "created_at": "2026-07-29T13:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082460835969180145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047687133708599296",
+              "start": 3,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082460835969180145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082137950956183936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @themaniachan: 墙外Oder能不能组成一个战忽局啊\n每天往墙内泄露点根本不存在的od小知识，让晶哥和抖音药理享受者无法溯源"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2082137950956183936",
+        "created_at": "2026-07-28T16:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082137950956183936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082137950956183936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "墙外Oder能不能组成一个战忽局啊\n每天往墙内泄露点根本不存在的od小知识，让晶哥和抖音药理享受者无法溯源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 21,
+          "like_count": 311,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 260,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081665085643313153"
+      ],
+      "media_source_tweet_id": [
+        "2081665159999975921"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082394767733006707",
+    "created_at": "2026-07-29T09:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082394767733006707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050195658603483136",
+          "start": 3,
+          "username": "Idontwanttmf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4cE9xdIDdw",
+          "end": 41,
+          "expanded_url": "https://x.com/Idontwanttmf/status/2081665159999975921/video/1",
+          "media_key": "13_2081665085643313153",
+          "start": 18,
+          "url": "https://t.co/4cE9xdIDdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082394767733006707",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081665159999975921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Idontwanttmf: https://t.co/4cE9xdIDdw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6466,
+        "height": 1280,
+        "media_key": "13_2081665085643313153",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081665085643313153/img/sXvy13bJehsOAPof.jpg",
+        "public_metrics": {
+          "view_count": 233
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081665085643313153/vid/avc1/320x568/oKP9I1JYjJ-zhHW0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081665085643313153/vid/avc1/480x852/EM3z9-UK--ISh9DX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081665085643313153/vid/avc1/720x1280/_0HKH6ntwqZydwXz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081665085643313153/pl/SUEjHTxMZ8gc3hld.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081665085643313153"
+          ]
+        },
+        "author_id": "2050195658603483136",
+        "conversation_id": "2081665159999975921",
+        "created_at": "2026-07-27T08:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081665159999975921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cE9xdIDdw",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontwanttmf/status/2081665159999975921/video/1",
+              "media_key": "13_2081665085643313153",
+              "start": 0,
+              "url": "https://t.co/4cE9xdIDdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081665159999975921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4cE9xdIDdw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081665085643313153"
+          ],
+          "media_source_tweet_id": [
+            "2081665159999975921"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082394767733006707",
+        "created_at": "2026-07-29T09:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082394767733006707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050195658603483136",
+              "start": 3,
+              "username": "Idontwanttmf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cE9xdIDdw",
+              "end": 41,
+              "expanded_url": "https://x.com/Idontwanttmf/status/2081665159999975921/video/1",
+              "media_key": "13_2081665085643313153",
+              "start": 18,
+              "url": "https://t.co/4cE9xdIDdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082394767733006707",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081665159999975921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Idontwanttmf: https://t.co/4cE9xdIDdw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081837974032207872/l4iPCnFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 19,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T12:49:21.000Z",
+        "description": "🚪88\n第四世\n前世：\n@kira20194922529\n@keaiiea\n@TheFirstKidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "kira20194922529"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "keaiiea"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "TheFirstKidz"
+              }
+            ]
+          }
+        },
+        "id": "2050195658603483136",
+        "name": "Jonas（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077563930407546880/oMF7brlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 213,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "Idontwanttmf",
+        "verified": false
+      }
+    ]
+  }
+}

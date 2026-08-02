@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083084888086093824"
+      ],
+      "media_source_tweet_id": [
+        "2083084893068959887"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083130503100805612",
+    "created_at": "2026-07-31T09:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083130503100805612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1951121193349816322",
+          "start": 3,
+          "username": "k9kumokyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tjvGNlS5N6",
+          "end": 43,
+          "expanded_url": "https://x.com/k9kumokyu/status/2083084893068959887/photo/1",
+          "media_key": "3_2083084888086093824",
+          "start": 20,
+          "url": "https://t.co/tjvGNlS5N6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083130503100805612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083084893068959887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k9kumokyu: 夏の5兄 https://t.co/tjvGNlS5N6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2083084888086093824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiaq0dbIAAAaRK.jpg",
+        "width": 1689
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083084888086093824"
+          ]
+        },
+        "author_id": "1951121193349816322",
+        "conversation_id": "2083084893068959887",
+        "created_at": "2026-07-31T06:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083084893068959887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjvGNlS5N6",
+              "end": 28,
+              "expanded_url": "https://x.com/k9kumokyu/status/2083084893068959887/photo/1",
+              "media_key": "3_2083084888086093824",
+              "start": 5,
+              "url": "https://t.co/tjvGNlS5N6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083084893068959887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1016,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "夏の5兄 https://t.co/tjvGNlS5N6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083084888086093824"
+          ],
+          "media_source_tweet_id": [
+            "2083084893068959887"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083130503100805612",
+        "created_at": "2026-07-31T09:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083130503100805612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1951121193349816322",
+              "start": 3,
+              "username": "k9kumokyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjvGNlS5N6",
+              "end": 43,
+              "expanded_url": "https://x.com/k9kumokyu/status/2083084893068959887/photo/1",
+              "media_key": "3_2083084888086093824",
+              "start": 20,
+              "url": "https://t.co/tjvGNlS5N6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083130503100805612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083084893068959887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k9kumokyu: 夏の5兄 https://t.co/tjvGNlS5N6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 31,
+          "like_count": 447,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T03:22:07.000Z",
+        "description": "20↑。dmc再燃。箱推し。特に兄に狂ってます。shipは積極的には描きませんが見てます。無断転載使用AI学習禁止。Do not re-upload or use my art for AI training.\n✉️https://t.co/JqvCOUneSa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/776y8gweh…",
+                "end": 131,
+                "expanded_url": "https://wavebox.me/wave/776y8gwehe43rmp6/",
+                "start": 108,
+                "url": "https://t.co/JqvCOUneSa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kumo9",
+                "end": 23,
+                "expanded_url": "https://lit.link/kumo9",
+                "start": 0,
+                "url": "https://t.co/LtZU0tNQ8y"
+              }
+            ]
+          }
+        },
+        "id": "1951121193349816322",
+        "name": "kumo9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952881372948738048/FPHqDBe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 35,
+          "like_count": 506,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/LtZU0tNQ8y",
+        "username": "k9kumokyu",
+        "verified": false
+      }
+    ]
+  }
+}

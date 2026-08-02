@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083057685747073024"
+      ],
+      "media_source_tweet_id": [
+        "2083057715073704257"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2083138125606609224",
+    "created_at": "2026-07-31T10:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083138125606609224"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "dmc"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "vergil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596549129148444672",
+          "start": 3,
+          "username": "YU_NXX_X"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ZVASsZv1K",
+          "end": 58,
+          "expanded_url": "https://x.com/YU_NXX_X/status/2083057715073704257/video/1",
+          "media_key": "13_2083057685747073024",
+          "start": 35,
+          "url": "https://t.co/0ZVASsZv1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083138125606609224",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083057715073704257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YU_NXX_X: mel bel #dmc #vergil https://t.co/0ZVASsZv1K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17776,
+        "height": 720,
+        "media_key": "13_2083057685747073024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083057685747073024/img/v3wY0J-oj5FSQnpJ.jpg",
+        "public_metrics": {
+          "view_count": 454
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083057685747073024/vid/avc1/282x270/JWExCSD2IZ8p4M3p.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083057685747073024/vid/avc1/376x360/lDYBR-pRFFk_dIRt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083057685747073024/vid/avc1/752x720/ocf7hxzcuAhinbNk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083057685747073024/pl/b9w5nCFQqNOEftui.m3u8"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083057685747073024"
+          ]
+        },
+        "author_id": "1596549129148444672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083057715073704257",
+        "created_at": "2026-07-31T05:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083057715073704257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "dmc"
+            },
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "vergil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZVASsZv1K",
+              "end": 44,
+              "expanded_url": "https://x.com/YU_NXX_X/status/2083057715073704257/video/1",
+              "media_key": "13_2083057685747073024",
+              "start": 21,
+              "url": "https://t.co/0ZVASsZv1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083057715073704257",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 801,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "mel bel #dmc #vergil https://t.co/0ZVASsZv1K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083057685747073024"
+          ],
+          "media_source_tweet_id": [
+            "2083057715073704257"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083138125606609224",
+        "created_at": "2026-07-31T10:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083138125606609224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "dmc"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "vergil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596549129148444672",
+              "start": 3,
+              "username": "YU_NXX_X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZVASsZv1K",
+              "end": 58,
+              "expanded_url": "https://x.com/YU_NXX_X/status/2083057715073704257/video/1",
+              "media_key": "13_2083057685747073024",
+              "start": 35,
+              "url": "https://t.co/0ZVASsZv1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083138125606609224",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083057715073704257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YU_NXX_X: mel bel #dmc #vergil https://t.co/0ZVASsZv1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132585065271296/6sQOqBIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 31,
+          "like_count": 460,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T16:59:25.000Z",
+        "description": "she/her |17yo| . just yrym 槍弓💙❤️ and DV❤️💙",
+        "id": "1596549129148444672",
+        "location": "yourmom",
+        "name": "Yunii🎀",
+        "pinned_tweet_id": "2064338861485088918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063610326143447040/z04Vhhbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 63,
+          "like_count": 11651,
+          "listed_count": 4,
+          "media_count": 25,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "YU_NXX_X",
+        "verified": false
+      }
+    ]
+  }
+}

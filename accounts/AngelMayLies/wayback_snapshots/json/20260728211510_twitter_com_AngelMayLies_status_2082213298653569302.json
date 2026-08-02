@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082197590398079469",
+    "created_at": "2026-07-28T21:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082213298653569302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673717625958850562",
+          "start": 0,
+          "username": "mandinate766936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082213298653569302",
+    "in_reply_to_user_id": "1673717625958850562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082199482918408378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mandinate766936 何尝不是一种对3v守贞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082197590398079469",
+        "created_at": "2026-07-28T21:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082213298653569302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673717625958850562",
+              "start": 0,
+              "username": "mandinate766936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082213298653569302",
+        "in_reply_to_user_id": "1673717625958850562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082199482918408378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mandinate766936 何尝不是一种对3v守贞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673717625958850562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2082197590398079469",
+        "created_at": "2026-07-28T20:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082199482918408378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082199482918408378",
+        "in_reply_to_user_id": "1673717625958850562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082197590398079469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5v确定这个阉割诅咒他可以解开，问了3d要不要自己给他解开，3d纠结都不行，最后还是扭捏地说不要，这个是3v留下来的，这个5v说更本不是属于他的哥哥，所以不要\n很爱有人懂吗，我就喜欢搞这种“虽然当时被搞得要死要活，事后看到疤痕和印记却还是舍不得消掉”这种疯感，我讨厌你但是我更喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081837974032207872/l4iPCnFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 16,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T15:39:27.000Z",
+        "description": "🇨🇳，外语水平差\nop🔥🎩\nbayonetta  bayojeanne\ndmcvd/vn，偏好vd\n只想看画去🦋，我会转发发闲谈在这个账号上面\n喜欢性转，年上，gore 雷的误入\n有点社恐所以对评论会很苦恼，基本无言点赞当回应\n本人很抽象，别报以期待\n对任何争论都不感兴趣，一心只有创作和自推",
+        "id": "1673717625958850562",
+        "name": "曼迪纳特",
+        "pinned_tweet_id": "2035340265888923822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082076958909984768/HFkypYj2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 305,
+          "like_count": 1880,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 829
+        },
+        "url": "",
+        "username": "mandinate766936",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2082310534234615809"
+      ],
+      "media_source_tweet_id": [
+        "2082310561858281762"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082414956037967893",
+    "created_at": "2026-07-29T10:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082414956037967893"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "DMC3"
+        },
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "Dante"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001763642862383104",
+          "start": 3,
+          "username": "IrnBru41_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hzi9kcB7G8",
+          "end": 51,
+          "expanded_url": "https://x.com/IrnBru41_/status/2082310561858281762/photo/1",
+          "media_key": "16_2082310534234615809",
+          "start": 28,
+          "url": "https://t.co/hzi9kcB7G8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082414956037967893",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082310561858281762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @IrnBru41_: #DMC3\n#Dante https://t.co/hzi9kcB7G8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 358,
+        "media_key": "16_2082310534234615809",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOXaZfkbsAE50_E.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOXaZfkbsAE50_E.mp4"
+          }
+        ],
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082310534234615809"
+          ]
+        },
+        "author_id": "2001763642862383104",
+        "conversation_id": "2082310561858281762",
+        "created_at": "2026-07-29T03:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082310561858281762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "DMC3"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "Dante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzi9kcB7G8",
+              "end": 36,
+              "expanded_url": "https://x.com/IrnBru41_/status/2082310561858281762/photo/1",
+              "media_key": "16_2082310534234615809",
+              "start": 13,
+              "url": "https://t.co/hzi9kcB7G8"
+            },
+            {
+              "display_url": "x.com/buffys/status/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/buffys/status/1998919858571063394",
+              "start": 37,
+              "url": "https://t.co/U2sWavDgaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082310561858281762",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1133,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998919858571063394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "#DMC3\n#Dante https://t.co/hzi9kcB7G8 https://t.co/U2sWavDgaK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082310534234615809"
+          ],
+          "media_source_tweet_id": [
+            "2082310561858281762"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082414956037967893",
+        "created_at": "2026-07-29T10:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082414956037967893"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "DMC3"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "Dante"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001763642862383104",
+              "start": 3,
+              "username": "IrnBru41_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzi9kcB7G8",
+              "end": 51,
+              "expanded_url": "https://x.com/IrnBru41_/status/2082310561858281762/photo/1",
+              "media_key": "16_2082310534234615809",
+              "start": 28,
+              "url": "https://t.co/hzi9kcB7G8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082414956037967893",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082310561858281762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @IrnBru41_: #DMC3\n#Dante https://t.co/hzi9kcB7G8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to be alone",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 19,
+          "like_count": 264,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T21:17:29.000Z",
+        "description": "",
+        "id": "2001763642862383104",
+        "name": "IrnBru",
+        "pinned_tweet_id": "2010342832087965826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061015105975017472/LzaifTaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 45,
+          "like_count": 26600,
+          "listed_count": 0,
+          "media_count": 2805,
+          "tweet_count": 9544
+        },
+        "url": "",
+        "username": "IrnBru41_",
+        "verified": false
+      }
+    ]
+  }
+}

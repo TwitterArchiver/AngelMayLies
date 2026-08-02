@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2082945733062435299",
+    "created_at": "2026-07-30T21:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082946687874879806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057497111718166531",
+          "start": 0,
+          "username": "ovum0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082946687874879806",
+    "in_reply_to_user_id": "2057497111718166531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082945733062435299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovum0000 你他妈笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2082945725605027840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOgcGf0bIAA31Tf.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2082945733062435299",
+        "created_at": "2026-07-30T21:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082946687874879806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057497111718166531",
+              "start": 0,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082946687874879806",
+        "in_reply_to_user_id": "2057497111718166531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082945733062435299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovum0000 你他妈笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082945725605027840"
+          ]
+        },
+        "author_id": "2057497111718166531",
+        "conversation_id": "2082945733062435299",
+        "created_at": "2026-07-30T21:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082945733062435299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/izC87tHsMt",
+              "end": 68,
+              "expanded_url": "https://x.com/ovum0000/status/2082945733062435299/photo/1",
+              "media_key": "3_2082945725605027840",
+              "start": 45,
+              "url": "https://t.co/izC87tHsMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082945733062435299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己就像你妈个脑残一样，一直以为头像这张图是网图。刚才才想起来去年穿过这条裙子拍照。 https://t.co/izC87tHsMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407213398896640/Hm7rsIYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 30,
+          "like_count": 427,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "",
+        "id": "2057497111718166531",
+        "name": "dihshdhd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081851771857801216/soMx3SVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 20,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false
+      }
+    ]
+  }
+}
