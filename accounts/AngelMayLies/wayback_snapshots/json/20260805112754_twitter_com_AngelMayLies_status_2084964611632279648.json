@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084662693013942272",
+        "3_2084662708759343104"
+      ],
+      "media_source_tweet_id": [
+        "2084662727738593758",
+        "2084662727738593758"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084964611632279648",
+    "created_at": "2026-08-05T11:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084964611632279648"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "dmc1novel"
+        },
+        {
+          "end": 45,
+          "start": 39,
+          "tag": "Dante"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848374579871535104",
+          "start": 3,
+          "username": "T3mp0rv_2608"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6ErrptmDE",
+          "end": 69,
+          "expanded_url": "https://x.com/T3mp0rv_2608/status/2084662727738593758/photo/1",
+          "media_key": "3_2084662693013942272",
+          "start": 46,
+          "url": "https://t.co/y6ErrptmDE"
+        },
+        {
+          "display_url": "pic.x.com/y6ErrptmDE",
+          "end": 69,
+          "expanded_url": "https://x.com/T3mp0rv_2608/status/2084662727738593758/photo/1",
+          "media_key": "3_2084662708759343104",
+          "start": 46,
+          "url": "https://t.co/y6ErrptmDE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084964611632279648",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084662727738593758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T3mp0rv_2608: Gilver(?)\n#dmc1novel #Dante https://t.co/y6ErrptmDE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2900,
+        "media_key": "3_2084662693013942272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO41rJ2a8AA4yUp.jpg",
+        "width": 2500
+      },
+      {
+        "height": 2900,
+        "media_key": "3_2084662708759343104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO41sEgasAAHDeW.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084662693013942272",
+            "3_2084662708759343104"
+          ]
+        },
+        "author_id": "1848374579871535104",
+        "conversation_id": "2084662727738593758",
+        "created_at": "2026-08-04T15:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084662727738593758"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "dmc1novel"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "Dante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6ErrptmDE",
+              "end": 51,
+              "expanded_url": "https://x.com/T3mp0rv_2608/status/2084662727738593758/photo/1",
+              "media_key": "3_2084662693013942272",
+              "start": 28,
+              "url": "https://t.co/y6ErrptmDE"
+            },
+            {
+              "display_url": "pic.x.com/y6ErrptmDE",
+              "end": 51,
+              "expanded_url": "https://x.com/T3mp0rv_2608/status/2084662727738593758/photo/1",
+              "media_key": "3_2084662708759343104",
+              "start": 28,
+              "url": "https://t.co/y6ErrptmDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084662727738593758",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 399,
+          "impression_count": 21655,
+          "like_count": 3264,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 418
+        },
+        "reply_settings": "everyone",
+        "text": "Gilver(?)\n#dmc1novel #Dante https://t.co/y6ErrptmDE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084662693013942272",
+            "3_2084662708759343104"
+          ],
+          "media_source_tweet_id": [
+            "2084662727738593758",
+            "2084662727738593758"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084964611632279648",
+        "created_at": "2026-08-05T11:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084964611632279648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "dmc1novel"
+            },
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "Dante"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848374579871535104",
+              "start": 3,
+              "username": "T3mp0rv_2608"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6ErrptmDE",
+              "end": 69,
+              "expanded_url": "https://x.com/T3mp0rv_2608/status/2084662727738593758/photo/1",
+              "media_key": "3_2084662693013942272",
+              "start": 46,
+              "url": "https://t.co/y6ErrptmDE"
+            },
+            {
+              "display_url": "pic.x.com/y6ErrptmDE",
+              "end": 69,
+              "expanded_url": "https://x.com/T3mp0rv_2608/status/2084662727738593758/photo/1",
+              "media_key": "3_2084662708759343104",
+              "start": 46,
+              "url": "https://t.co/y6ErrptmDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084964611632279648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084662727738593758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T3mp0rv_2608: Gilver(?)\n#dmc1novel #Dante https://t.co/y6ErrptmDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 60,
+          "like_count": 1385,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T14:43:54.000Z",
+        "description": "i draw what i love, and no, i'm not in fond of those questionable ships in dmc",
+        "id": "1848374579871535104",
+        "name": "Sl1ther",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058243511666024448/yGeRGGBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 49,
+          "like_count": 4523,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "T3mp0rv_2608",
+        "verified": false
+      }
+    ]
+  }
+}

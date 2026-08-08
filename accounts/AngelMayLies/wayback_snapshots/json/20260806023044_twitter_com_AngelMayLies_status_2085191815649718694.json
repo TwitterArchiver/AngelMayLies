@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2085008221966659828",
+    "created_at": "2026-08-06T02:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085191815649718694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601599920276140033",
+          "start": 0,
+          "username": "ayanamirei_may"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085191815649718694",
+    "in_reply_to_user_id": "1601599920276140033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085008221966659828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanamirei_may 医生我神经痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085008211346628608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9v698WoAAnLTB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2085008221966659828",
+        "created_at": "2026-08-06T02:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085191815649718694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601599920276140033",
+              "start": 0,
+              "username": "ayanamirei_may"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085191815649718694",
+        "in_reply_to_user_id": "1601599920276140033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085008221966659828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanamirei_may 医生我神经痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085008211346628608"
+          ]
+        },
+        "author_id": "1601599920276140033",
+        "conversation_id": "2085008221966659828",
+        "created_at": "2026-08-05T14:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085008221966659828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WS3FuDd43I",
+              "end": 30,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2085008221966659828/photo/1",
+              "media_key": "3_2085008211346628608",
+              "start": 7,
+              "url": "https://t.co/WS3FuDd43I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085008221966659828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1378,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我神经痛 https://t.co/WS3FuDd43I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 66,
+          "like_count": 1673,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T15:29:25.000Z",
+        "description": "🚪288获得与神交流的机会",
+        "id": "1601599920276140033",
+        "name": "鳴",
+        "pinned_tweet_id": "1874382445925245100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905053921191788544/4AMTqEhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24061,
+          "following_count": 145,
+          "like_count": 1114,
+          "listed_count": 53,
+          "media_count": 79,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "ayanamirei_may",
+        "verified": false
+      }
+    ]
+  }
+}

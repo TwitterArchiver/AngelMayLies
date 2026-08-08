@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084787428200534017"
+      ],
+      "media_source_tweet_id": [
+        "2084787438073917562"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084854941177479565",
+    "created_at": "2026-08-05T04:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084854941177479565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1981826222696144896",
+          "start": 3,
+          "username": "in_derpetuity"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNmOpU8mAL",
+          "end": 63,
+          "expanded_url": "https://x.com/in_derpetuity/status/2084787438073917562/photo/1",
+          "media_key": "3_2084787428200534017",
+          "start": 40,
+          "url": "https://t.co/dNmOpU8mAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084854941177479565",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084787438073917562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in_derpetuity: Beans love chocolate https://t.co/dNmOpU8mAL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_2084787428200534017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6nHsoX0AErRJI.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084787428200534017"
+          ]
+        },
+        "author_id": "1981826222696144896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084787438073917562",
+        "created_at": "2026-08-04T23:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084787438073917562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNmOpU8mAL",
+              "end": 44,
+              "expanded_url": "https://x.com/in_derpetuity/status/2084787438073917562/photo/1",
+              "media_key": "3_2084787428200534017",
+              "start": 21,
+              "url": "https://t.co/dNmOpU8mAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084787438073917562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Beans love chocolate https://t.co/dNmOpU8mAL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084787428200534017"
+          ],
+          "media_source_tweet_id": [
+            "2084787438073917562"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084854941177479565",
+        "created_at": "2026-08-05T04:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084854941177479565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1981826222696144896",
+              "start": 3,
+              "username": "in_derpetuity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNmOpU8mAL",
+              "end": 63,
+              "expanded_url": "https://x.com/in_derpetuity/status/2084787438073917562/photo/1",
+              "media_key": "3_2084787428200534017",
+              "start": 40,
+              "url": "https://t.co/dNmOpU8mAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084854941177479565",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084787438073917562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in_derpetuity: Beans love chocolate https://t.co/dNmOpU8mAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 60,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T20:53:41.000Z",
+        "description": "31🩶\nArchive of all my fangirling~\nCreative sometimes :}",
+        "id": "1981826222696144896",
+        "location": "🤠",
+        "name": "Hydrazine_Heart",
+        "pinned_tweet_id": "2080789474984730692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029406241374515201/0zRWH7j2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 708,
+          "like_count": 13564,
+          "listed_count": 8,
+          "media_count": 656,
+          "tweet_count": 2769
+        },
+        "url": "",
+        "username": "in_derpetuity",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083559852425781248",
+        "3_2083559862596988928",
+        "3_2083559871350525952"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083560203921084835",
+    "created_at": "2026-08-01T14:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083560203921084835"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 13,
+          "tag": "fakemakeup"
+        },
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "sliceytwt"
+        },
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "beanstwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rDV7UWiPHV",
+          "end": 115,
+          "expanded_url": "https://x.com/AngelMayLies/status/2083560203921084835/photo/1",
+          "media_key": "3_2083559852425781248",
+          "start": 92,
+          "url": "https://t.co/rDV7UWiPHV"
+        },
+        {
+          "display_url": "pic.x.com/rDV7UWiPHV",
+          "end": 115,
+          "expanded_url": "https://x.com/AngelMayLies/status/2083560203921084835/photo/1",
+          "media_key": "3_2083559862596988928",
+          "start": 92,
+          "url": "https://t.co/rDV7UWiPHV"
+        },
+        {
+          "display_url": "pic.x.com/rDV7UWiPHV",
+          "end": 115,
+          "expanded_url": "https://x.com/AngelMayLies/status/2083560203921084835/photo/1",
+          "media_key": "3_2083559871350525952",
+          "start": 92,
+          "url": "https://t.co/rDV7UWiPHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083560203921084835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记住，我在用这样的手画画\n#fakemakeup #sliceytwt #beanstwt\nmakeup made by AI，not Real,I don't cut myself https://t.co/rDV7UWiPHV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083559852425781248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpKpYgaoAAnf6T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083559862596988928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpKp-Za8AAkjSD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083559871350525952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpKqfAbUAA3LT9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083559852425781248",
+            "3_2083559862596988928",
+            "3_2083559871350525952"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083560203921084835",
+        "created_at": "2026-08-01T14:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083560203921084835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "fakemakeup"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "sliceytwt"
+            },
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "beanstwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDV7UWiPHV",
+              "end": 115,
+              "expanded_url": "https://x.com/AngelMayLies/status/2083560203921084835/photo/1",
+              "media_key": "3_2083559852425781248",
+              "start": 92,
+              "url": "https://t.co/rDV7UWiPHV"
+            },
+            {
+              "display_url": "pic.x.com/rDV7UWiPHV",
+              "end": 115,
+              "expanded_url": "https://x.com/AngelMayLies/status/2083560203921084835/photo/1",
+              "media_key": "3_2083559862596988928",
+              "start": 92,
+              "url": "https://t.co/rDV7UWiPHV"
+            },
+            {
+              "display_url": "pic.x.com/rDV7UWiPHV",
+              "end": 115,
+              "expanded_url": "https://x.com/AngelMayLies/status/2083560203921084835/photo/1",
+              "media_key": "3_2083559871350525952",
+              "start": 92,
+              "url": "https://t.co/rDV7UWiPHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083560203921084835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记住，我在用这样的手画画\n#fakemakeup #sliceytwt #beanstwt\nmakeup made by AI，not Real,I don't cut myself https://t.co/rDV7UWiPHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 43,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      }
+    ]
+  }
+}

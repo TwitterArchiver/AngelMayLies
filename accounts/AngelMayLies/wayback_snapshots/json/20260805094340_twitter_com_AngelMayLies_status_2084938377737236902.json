@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084937640143643115",
+    "created_at": "2026-08-05T09:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084938377737236902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083048274848878593",
+          "start": 0,
+          "username": "LakeOfTearx0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084938377737236902",
+    "in_reply_to_user_id": "2083048274848878593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084937640143643115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LakeOfTearx0827 闺儿你的青春一直在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084937640143643115",
+        "created_at": "2026-08-05T09:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084938377737236902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083048274848878593",
+              "start": 0,
+              "username": "LakeOfTearx0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084938377737236902",
+        "in_reply_to_user_id": "2083048274848878593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084937640143643115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LakeOfTearx0827 闺儿你的青春一直在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083048274848878593",
+        "conversation_id": "2084937640143643115",
+        "created_at": "2026-08-05T09:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084937640143643115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084937640143643115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上17岁了才意识到自己再也不是14岁了..变成成年人好可怕一个人生活好可怕..我明明一直是小孩子呢..根本不想长大呀…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 61,
+          "like_count": 1320,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T04:33:04.000Z",
+        "description": "小熊猫第五世…\n09 158/42\n🚪188/220/520/1314 zfb口令过门",
+        "id": "2083048274848878593",
+        "name": "LakeOfTears",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083049117450911745/PMnZsS86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 11,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "LakeOfTearx0827",
+        "verified": false
+      }
+    ]
+  }
+}

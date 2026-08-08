@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084292703261519872",
+        "3_2084292703240519680",
+        "3_2084292703248900096",
+        "3_2084292703269896192"
+      ],
+      "media_source_tweet_id": [
+        "2084292711394292071",
+        "2084292711394292071",
+        "2084292711394292071",
+        "2084292711394292071"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084587729602666927",
+    "created_at": "2026-08-04T10:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084587729602666927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048824288954687488",
+          "start": 3,
+          "username": "ethosdivine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mLHv168dJf",
+          "end": 56,
+          "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+          "media_key": "3_2084292703261519872",
+          "start": 33,
+          "url": "https://t.co/mLHv168dJf"
+        },
+        {
+          "display_url": "pic.x.com/mLHv168dJf",
+          "end": 56,
+          "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+          "media_key": "3_2084292703240519680",
+          "start": 33,
+          "url": "https://t.co/mLHv168dJf"
+        },
+        {
+          "display_url": "pic.x.com/mLHv168dJf",
+          "end": 56,
+          "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+          "media_key": "3_2084292703248900096",
+          "start": 33,
+          "url": "https://t.co/mLHv168dJf"
+        },
+        {
+          "display_url": "pic.x.com/mLHv168dJf",
+          "end": 56,
+          "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+          "media_key": "3_2084292703269896192",
+          "start": 33,
+          "url": "https://t.co/mLHv168dJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084587729602666927",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 920
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084292711394292071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ethosdivine: ابغاااااااااااا https://t.co/mLHv168dJf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084292703261519872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzlK6nXcAA8X5p.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084292703240519680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzlK6iXAAA_pVo.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084292703248900096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzlK6kW4AA3zgA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084292703269896192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzlK6pXQAAyx_Q.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084292703261519872",
+            "3_2084292703240519680",
+            "3_2084292703248900096",
+            "3_2084292703269896192"
+          ]
+        },
+        "author_id": "2048824288954687488",
+        "conversation_id": "2084292711394292071",
+        "created_at": "2026-08-03T14:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084292711394292071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 39,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703261519872",
+              "start": 16,
+              "url": "https://t.co/mLHv168dJf"
+            },
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 39,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703240519680",
+              "start": 16,
+              "url": "https://t.co/mLHv168dJf"
+            },
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 39,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703248900096",
+              "start": 16,
+              "url": "https://t.co/mLHv168dJf"
+            },
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 39,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703269896192",
+              "start": 16,
+              "url": "https://t.co/mLHv168dJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084292711394292071",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2159,
+          "impression_count": 303816,
+          "like_count": 10626,
+          "quote_count": 291,
+          "reply_count": 90,
+          "retweet_count": 920
+        },
+        "reply_settings": "everyone",
+        "text": "ابغاااااااااااا https://t.co/mLHv168dJf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084292703261519872",
+            "3_2084292703240519680",
+            "3_2084292703248900096",
+            "3_2084292703269896192"
+          ],
+          "media_source_tweet_id": [
+            "2084292711394292071",
+            "2084292711394292071",
+            "2084292711394292071",
+            "2084292711394292071"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084587729602666927",
+        "created_at": "2026-08-04T10:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084587729602666927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048824288954687488",
+              "start": 3,
+              "username": "ethosdivine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 56,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703261519872",
+              "start": 33,
+              "url": "https://t.co/mLHv168dJf"
+            },
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 56,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703240519680",
+              "start": 33,
+              "url": "https://t.co/mLHv168dJf"
+            },
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 56,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703248900096",
+              "start": 33,
+              "url": "https://t.co/mLHv168dJf"
+            },
+            {
+              "display_url": "pic.x.com/mLHv168dJf",
+              "end": 56,
+              "expanded_url": "https://x.com/ethosdivine/status/2084292711394292071/photo/1",
+              "media_key": "3_2084292703269896192",
+              "start": 33,
+              "url": "https://t.co/mLHv168dJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084587729602666927",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 920
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084292711394292071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ethosdivine: ابغاااااااااااا https://t.co/mLHv168dJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 57,
+          "like_count": 1192,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T18:04:16.000Z",
+        "description": "𓆝 𓆟 𓆞 𓆝 𓆟",
+        "id": "2048824288954687488",
+        "name": "𓆨",
+        "pinned_tweet_id": "2052396826750247238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083753376324501504/AbLOO-BG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 77,
+          "like_count": 4238,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "ethosdivine",
+        "verified": false
+      }
+    ]
+  }
+}

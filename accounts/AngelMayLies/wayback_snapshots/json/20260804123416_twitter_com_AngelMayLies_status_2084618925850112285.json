@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084618298617188353"
+      ],
+      "media_source_tweet_id": [
+        "2084618309212025136"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084618925850112285",
+    "created_at": "2026-08-04T12:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084618925850112285"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 17,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 43,
+          "start": 32,
+          "tag": "雰囲気好きな人いいね"
+        },
+        {
+          "end": 56,
+          "start": 44,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 63,
+          "start": 57,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1843735518401703937",
+          "start": 3,
+          "username": "momokoo8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bfT0L4BtSz",
+          "end": 87,
+          "expanded_url": "https://x.com/momokoo8964/status/2084618309212025136/photo/1",
+          "media_key": "3_2084618298617188353",
+          "start": 64,
+          "url": "https://t.co/bfT0L4BtSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084618925850112285",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084618309212025136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momokoo8964: #自撮り界隈さんと繋がりたい #雰囲気好きな人いいね #地雷系さんと繋がりたい #自撮り界隈 https://t.co/bfT0L4BtSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084618298617188353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4NTD1bUAE3FP0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084618298617188353"
+          ]
+        },
+        "author_id": "1843735518401703937",
+        "conversation_id": "2084618309212025136",
+        "created_at": "2026-08-04T12:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084618309212025136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "雰囲気好きな人いいね"
+            },
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfT0L4BtSz",
+              "end": 70,
+              "expanded_url": "https://x.com/momokoo8964/status/2084618309212025136/photo/1",
+              "media_key": "3_2084618298617188353",
+              "start": 47,
+              "url": "https://t.co/bfT0L4BtSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084618309212025136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈さんと繋がりたい #雰囲気好きな人いいね #地雷系さんと繋がりたい #自撮り界隈 https://t.co/bfT0L4BtSz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084618298617188353"
+          ],
+          "media_source_tweet_id": [
+            "2084618309212025136"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084618925850112285",
+        "created_at": "2026-08-04T12:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084618925850112285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "雰囲気好きな人いいね"
+            },
+            {
+              "end": 56,
+              "start": 44,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1843735518401703937",
+              "start": 3,
+              "username": "momokoo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfT0L4BtSz",
+              "end": 87,
+              "expanded_url": "https://x.com/momokoo8964/status/2084618309212025136/photo/1",
+              "media_key": "3_2084618298617188353",
+              "start": 64,
+              "url": "https://t.co/bfT0L4BtSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084618925850112285",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084618309212025136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momokoo8964: #自撮り界隈さんと繋がりたい #雰囲気好きな人いいね #地雷系さんと繋がりたい #自撮り界隈 https://t.co/bfT0L4BtSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 58,
+          "like_count": 1230,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "我对生活充满了希望",
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2078388915049013759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083833048358162432/4qdpy-Bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 154,
+          "like_count": 5215,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 1760
+        },
+        "url": "",
+        "username": "momokoo8964",
+        "verified": false
+      }
+    ]
+  }
+}

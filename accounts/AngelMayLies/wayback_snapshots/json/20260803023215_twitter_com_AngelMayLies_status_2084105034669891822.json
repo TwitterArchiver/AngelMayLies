@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084105034669891822",
+    "created_at": "2026-08-03T02:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084105034669891822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964487937992904707",
+          "start": 3,
+          "username": "Dreegeew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084105034669891822",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083933246383919140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dreegeew: A familia Sparda simplesmente é a linhagem que desconhece \"envelhecer mal\", até a parte humana de vergil \"V\" é linda...\n\nD ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083932664919150592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOudt7RW0AAeehW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 736,
+        "media_key": "3_2083932679649566720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuduyJXIAAHpH3.jpg",
+        "width": 736
+      },
+      {
+        "height": 736,
+        "media_key": "3_2083933071837933568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOueFnKWsAAsjeY.jpg",
+        "width": 736
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2083933157527523328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOueKmYWEAA9A93.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084105034669891822",
+        "created_at": "2026-08-03T02:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084105034669891822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964487937992904707",
+              "start": 3,
+              "username": "Dreegeew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084105034669891822",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083933246383919140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dreegeew: A familia Sparda simplesmente é a linhagem que desconhece \"envelhecer mal\", até a parte humana de vergil \"V\" é linda...\n\nD ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083932664919150592",
+            "3_2083932679649566720",
+            "3_2083933071837933568",
+            "3_2083933157527523328"
+          ]
+        },
+        "author_id": "1964487937992904707",
+        "conversation_id": "2083933246383919140",
+        "created_at": "2026-08-02T15:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083933246383919140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZ1DrQzPP6",
+              "end": 146,
+              "expanded_url": "https://x.com/Dreegeew/status/2083933246383919140/photo/1",
+              "media_key": "3_2083932664919150592",
+              "start": 123,
+              "url": "https://t.co/cZ1DrQzPP6"
+            },
+            {
+              "display_url": "pic.x.com/cZ1DrQzPP6",
+              "end": 146,
+              "expanded_url": "https://x.com/Dreegeew/status/2083933246383919140/photo/1",
+              "media_key": "3_2083932679649566720",
+              "start": 123,
+              "url": "https://t.co/cZ1DrQzPP6"
+            },
+            {
+              "display_url": "pic.x.com/cZ1DrQzPP6",
+              "end": 146,
+              "expanded_url": "https://x.com/Dreegeew/status/2083933246383919140/photo/1",
+              "media_key": "3_2083933071837933568",
+              "start": 123,
+              "url": "https://t.co/cZ1DrQzPP6"
+            },
+            {
+              "display_url": "pic.x.com/cZ1DrQzPP6",
+              "end": 146,
+              "expanded_url": "https://x.com/Dreegeew/status/2083933246383919140/photo/1",
+              "media_key": "3_2083933157527523328",
+              "start": 123,
+              "url": "https://t.co/cZ1DrQzPP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083933246383919140",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2953,
+          "like_count": 132,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "A familia Sparda simplesmente é a linhagem que desconhece \"envelhecer mal\", até a parte humana de vergil \"V\" é linda...\n\nD https://t.co/cZ1DrQzPP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 44,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T00:36:51.000Z",
+        "description": "You know God, I always hated that you made my arm like this... But today, for the first time, I'm actually glad I have it. 🔫💙🗡️❤️‍💪👿\n\nAdm: @KaisenBackup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "KaisenBackup"
+              }
+            ]
+          }
+        },
+        "id": "1964487937992904707",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "Dreegew ⛩️",
+        "pinned_tweet_id": "2018649836820795844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083934312097865728/FmJQISDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 287,
+          "like_count": 9222,
+          "listed_count": 4,
+          "media_count": 2798,
+          "tweet_count": 9877
+        },
+        "url": "",
+        "username": "Dreegeew",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084107870195548601",
+    "created_at": "2026-08-03T02:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084107870195548601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057497111718166531",
+          "start": 3,
+          "username": "ovum0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084107870195548601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084107676053815558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovum0000: 我想知道真正爱上一个人那是什么感觉？可每每当关系处于一个持平出现让我无法预知未来的情况我只想赶紧用物质弥补对方然后赶紧告诉他不想在一起了然后全平台拉黑删除。我并不是所谓回避型。我只是很想真实的爱一个人仅仅是想要陪伴他的余生可每当出现让我动摇的事我只想…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084107870195548601",
+        "created_at": "2026-08-03T02:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084107870195548601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057497111718166531",
+              "start": 3,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084107870195548601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084107676053815558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovum0000: 我想知道真正爱上一个人那是什么感觉？可每每当关系处于一个持平出现让我无法预知未来的情况我只想赶紧用物质弥补对方然后赶紧告诉他不想在一起了然后全平台拉黑删除。我并不是所谓回避型。我只是很想真实的爱一个人仅仅是想要陪伴他的余生可每当出现让我动摇的事我只想…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057497111718166531",
+        "conversation_id": "2084107676053815558",
+        "created_at": "2026-08-03T02:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084107676053815558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084107676053815558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道真正爱上一个人那是什么感觉？可每每当关系处于一个持平出现让我无法预知未来的情况我只想赶紧用物质弥补对方然后赶紧告诉他不想在一起了然后全平台拉黑删除。我并不是所谓回避型。我只是很想真实的爱一个人仅仅是想要陪伴他的余生可每当出现让我动摇的事我只想放弃当下我们拥有的一切离开。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 45,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "",
+        "id": "2057497111718166531",
+        "name": "dihshdhd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084104966550220800/udkUzC-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 23,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false
+      }
+    ]
+  }
+}

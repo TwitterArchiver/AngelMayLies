@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084858995878314208",
+    "created_at": "2026-08-05T10:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084944016962138598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041517561272299520",
+          "start": 0,
+          "username": "Lovingyou13579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084944016962138598",
+    "in_reply_to_user_id": "2041517561272299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084858995878314208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovingyou13579 不要这样，你画得超级牛笔我特别喜欢看而且你很高产de你是我女神（😭🤟🏿💝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084858980757909504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7oMmrbsAAkV5E.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084858995878314208",
+        "created_at": "2026-08-05T10:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084944016962138598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041517561272299520",
+              "start": 0,
+              "username": "Lovingyou13579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084944016962138598",
+        "in_reply_to_user_id": "2041517561272299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084858995878314208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovingyou13579 不要这样，你画得超级牛笔我特别喜欢看而且你很高产de你是我女神（😭🤟🏿💝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084858980757909504"
+          ]
+        },
+        "author_id": "2041517561272299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084858995878314208",
+        "created_at": "2026-08-05T04:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084858995878314208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rfo7IeVhim",
+              "end": 28,
+              "expanded_url": "https://x.com/Lovingyou13579/status/2084858995878314208/photo/1",
+              "media_key": "3_2084858980757909504",
+              "start": 5,
+              "url": "https://t.co/Rfo7IeVhim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084858995878314208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天： https://t.co/Rfo7IeVhim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 60,
+          "like_count": 1349,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T14:06:38.000Z",
+        "description": "薇薇狂热女粉丝",
+        "id": "2041517561272299520",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084193851091357696/edlkZJTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 44,
+          "like_count": 1746,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "Lovingyou13579",
+        "verified": false
+      }
+    ]
+  }
+}

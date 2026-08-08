@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084645569872720234",
+    "created_at": "2026-08-04T14:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084647636443988073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041517561272299520",
+          "start": 0,
+          "username": "Lovingyou13579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084647636443988073",
+    "in_reply_to_user_id": "2041517561272299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084645569872720234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovingyou13579 其实画得骚爆了🖐🏻️😔💔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2084645526855917568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4mD87aoAAluSO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084645569872720234",
+        "created_at": "2026-08-04T14:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084647636443988073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041517561272299520",
+              "start": 0,
+              "username": "Lovingyou13579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084647636443988073",
+        "in_reply_to_user_id": "2041517561272299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084645569872720234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovingyou13579 其实画得骚爆了🖐🏻️😔💔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084645526855917568"
+          ]
+        },
+        "author_id": "2041517561272299520",
+        "conversation_id": "2084645569872720234",
+        "created_at": "2026-08-04T14:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084645569872720234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3orwqa4u5",
+              "end": 40,
+              "expanded_url": "https://x.com/Lovingyou13579/status/2084645569872720234/photo/1",
+              "media_key": "3_2084645526855917568",
+              "start": 17,
+              "url": "https://t.co/G3orwqa4u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084645569872720234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在画点图可是好没手感不知道怎么画 https://t.co/G3orwqa4u5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 60,
+          "like_count": 1269,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T14:06:38.000Z",
+        "description": "👅",
+        "id": "2041517561272299520",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084193851091357696/edlkZJTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 40,
+          "like_count": 1645,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "Lovingyou13579",
+        "verified": false
+      }
+    ]
+  }
+}

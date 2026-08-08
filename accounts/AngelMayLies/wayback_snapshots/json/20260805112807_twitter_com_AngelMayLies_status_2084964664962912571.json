@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084964664962912571",
+    "created_at": "2026-08-05T11:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084964664962912571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UnamunoAgain/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/UnamunoAgain/status/2084708949522051519",
+          "start": 4,
+          "url": "https://t.co/z7cAuUxofZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084964664962912571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084708949522051519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我梦想 https://t.co/z7cAuUxofZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2022287731616006144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCb-jSaQAA-btD.jpg",
+        "width": 776
+      },
+      {
+        "height": 592,
+        "media_key": "3_2022287747730616320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCb_fUbsAAX4Gy.png",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084964664962912571",
+        "created_at": "2026-08-05T11:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084964664962912571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UnamunoAgain/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/UnamunoAgain/status/2084708949522051519",
+              "start": 4,
+              "url": "https://t.co/z7cAuUxofZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084964664962912571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084708949522051519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我梦想 https://t.co/z7cAuUxofZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022287731616006144",
+            "3_2022287747730616320"
+          ]
+        },
+        "author_id": "777562609918902272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084708949522051519",
+        "created_at": "2026-08-04T18:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084708949522051519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j64pCMndnn",
+              "end": 106,
+              "expanded_url": "https://x.com/UnamunoAgain/status/2084708949522051519/photo/1",
+              "media_key": "3_2022287731616006144",
+              "start": 83,
+              "url": "https://t.co/j64pCMndnn"
+            },
+            {
+              "display_url": "pic.x.com/j64pCMndnn",
+              "end": 106,
+              "expanded_url": "https://x.com/UnamunoAgain/status/2084708949522051519/photo/1",
+              "media_key": "3_2022287747730616320",
+              "start": 83,
+              "url": "https://t.co/j64pCMndnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084708949522051519",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1381,
+          "impression_count": 1755925,
+          "like_count": 17626,
+          "quote_count": 295,
+          "reply_count": 623,
+          "retweet_count": 645
+        },
+        "reply_settings": "everyone",
+        "text": "Esta persona decidió pintar el fondo de su piscina de color rojo en lugar de azul. https://t.co/j64pCMndnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 60,
+          "like_count": 1385,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-18T17:39:07.000Z",
+        "description": "Literatura | Filosofía | Historia | Arquitectura 🏛📜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nosvemoslosjueves.com",
+                "end": 23,
+                "expanded_url": "http://nosvemoslosjueves.com",
+                "start": 0,
+                "url": "https://t.co/jTVHvZNmwu"
+              }
+            ]
+          }
+        },
+        "id": "777562609918902272",
+        "location": "Entre Bilbao y Salamanca",
+        "name": "Unamuno 📜",
+        "pinned_tweet_id": "2083569594971648120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275526938627641346/pyUv8e0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50728,
+          "following_count": 5193,
+          "like_count": 31191,
+          "listed_count": 190,
+          "media_count": 7175,
+          "tweet_count": 23979
+        },
+        "url": "https://t.co/jTVHvZNmwu",
+        "username": "UnamunoAgain",
+        "verified": true
+      }
+    ]
+  }
+}

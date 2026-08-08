@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083262108016250880",
+        "3_2083262107965935616"
+      ],
+      "media_source_tweet_id": [
+        "2083262113007456609",
+        "2083262113007456609"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083518231441297688",
+    "created_at": "2026-08-01T11:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083518231441297688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936761913599270912",
+          "start": 3,
+          "username": "auroraakiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FgnOTN0PuS",
+          "end": 40,
+          "expanded_url": "https://x.com/auroraakiss/status/2083262113007456609/photo/1",
+          "media_key": "3_2083262108016250880",
+          "start": 17,
+          "url": "https://t.co/FgnOTN0PuS"
+        },
+        {
+          "display_url": "pic.x.com/FgnOTN0PuS",
+          "end": 40,
+          "expanded_url": "https://x.com/auroraakiss/status/2083262113007456609/photo/1",
+          "media_key": "3_2083262107965935616",
+          "start": 17,
+          "url": "https://t.co/FgnOTN0PuS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083518231441297688",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083262113007456609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @auroraakiss: https://t.co/FgnOTN0PuS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2083262108016250880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOk72YJXEAAz9qW.jpg",
+        "width": 411
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2083262107965935616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOk72X9XUAA09hC.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083262108016250880",
+            "3_2083262107965935616"
+          ]
+        },
+        "author_id": "1936761913599270912",
+        "conversation_id": "2083262113007456609",
+        "created_at": "2026-07-31T18:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083262113007456609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgnOTN0PuS",
+              "end": 23,
+              "expanded_url": "https://x.com/auroraakiss/status/2083262113007456609/photo/1",
+              "media_key": "3_2083262108016250880",
+              "start": 0,
+              "url": "https://t.co/FgnOTN0PuS"
+            },
+            {
+              "display_url": "pic.x.com/FgnOTN0PuS",
+              "end": 23,
+              "expanded_url": "https://x.com/auroraakiss/status/2083262113007456609/photo/1",
+              "media_key": "3_2083262107965935616",
+              "start": 0,
+              "url": "https://t.co/FgnOTN0PuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083262113007456609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 697,
+          "impression_count": 98868,
+          "like_count": 3875,
+          "quote_count": 46,
+          "reply_count": 2,
+          "retweet_count": 452
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FgnOTN0PuS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083262108016250880",
+            "3_2083262107965935616"
+          ],
+          "media_source_tweet_id": [
+            "2083262113007456609",
+            "2083262113007456609"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083518231441297688",
+        "created_at": "2026-08-01T11:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083518231441297688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936761913599270912",
+              "start": 3,
+              "username": "auroraakiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgnOTN0PuS",
+              "end": 40,
+              "expanded_url": "https://x.com/auroraakiss/status/2083262113007456609/photo/1",
+              "media_key": "3_2083262108016250880",
+              "start": 17,
+              "url": "https://t.co/FgnOTN0PuS"
+            },
+            {
+              "display_url": "pic.x.com/FgnOTN0PuS",
+              "end": 40,
+              "expanded_url": "https://x.com/auroraakiss/status/2083262113007456609/photo/1",
+              "media_key": "3_2083262107965935616",
+              "start": 17,
+              "url": "https://t.co/FgnOTN0PuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083518231441297688",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083262113007456609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @auroraakiss: https://t.co/FgnOTN0PuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 40,
+          "like_count": 701,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T12:23:39.000Z",
+        "description": "Lost in vintage dreams 𓂃 *ꫂ ོ𓂃 ♡\nTimeless dresses • Eternal elegance • Forgotten grace\nOld soul collecting moments from another era ✧",
+        "id": "1936761913599270912",
+        "name": "𓂃 *ꫂ ོ𓂃",
+        "pinned_tweet_id": "2078896244886327406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953535851826139136/Ie96rweS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31606,
+          "following_count": 1410,
+          "like_count": 8082,
+          "listed_count": 103,
+          "media_count": 2967,
+          "tweet_count": 3327
+        },
+        "url": "",
+        "username": "auroraakiss",
+        "verified": true
+      }
+    ]
+  }
+}

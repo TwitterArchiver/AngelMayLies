@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083616982801547770",
+    "created_at": "2026-08-01T18:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083616982801547770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901288877324660736",
+          "start": 3,
+          "username": "Fago9ere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083616982801547770",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1472
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083472808735134043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fago9ere: Ending up in therapy bc u loved someone is crazy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083616982801547770",
+        "created_at": "2026-08-01T18:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083616982801547770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901288877324660736",
+              "start": 3,
+              "username": "Fago9ere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083616982801547770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1472
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083472808735134043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fago9ere: Ending up in therapy bc u loved someone is crazy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901288877324660736",
+        "conversation_id": "2083472808735134043",
+        "created_at": "2026-08-01T08:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083472808735134043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083472808735134043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 146143,
+          "like_count": 8649,
+          "quote_count": 264,
+          "reply_count": 90,
+          "retweet_count": 1472
+        },
+        "reply_settings": "everyone",
+        "text": "Ending up in therapy bc u loved someone is crazy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 44,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:06:20.000Z",
+        "description": "DM for Notis 👾",
+        "id": "1901288877324660736",
+        "name": "fàgó",
+        "pinned_tweet_id": "2083600514348990487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039441792420978688/LbI3HK5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 360,
+          "like_count": 10235,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 12567
+        },
+        "url": "",
+        "username": "Fago9ere",
+        "verified": false
+      }
+    ]
+  }
+}

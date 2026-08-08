@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084570962637590528",
+        "3_2084570967427391488"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084570977007239213",
+    "created_at": "2026-08-04T09:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084570977007239213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RIrMmOCee",
+          "end": 80,
+          "expanded_url": "https://x.com/AngelMayLies/status/2084570977007239213/photo/1",
+          "media_key": "3_2084570962637590528",
+          "start": 57,
+          "url": "https://t.co/0RIrMmOCee"
+        },
+        {
+          "display_url": "pic.x.com/0RIrMmOCee",
+          "end": 80,
+          "expanded_url": "https://x.com/AngelMayLies/status/2084570977007239213/photo/1",
+          "media_key": "3_2084570967427391488",
+          "start": 57,
+          "url": "https://t.co/0RIrMmOCee"
+        },
+        {
+          "display_url": "x.com/AngelMayLies/s…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/AngelMayLies/status/2084568951661777369",
+          "start": 81,
+          "url": "https://t.co/YNYKDgu2jh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084570977007239213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084568951661777369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个表真的老好看了，而且没坏指针还能走，我真他妈服了，这他娘正经vintage居然想卖掉然后拿钱把我送进精神病院 https://t.co/0RIrMmOCee https://t.co/YNYKDgu2jh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084570962637590528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3iPvkbkAAMwdY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084570967427391488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3iQBaaIAAKSgs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084570962637590528",
+            "3_2084570967427391488"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084570977007239213",
+        "created_at": "2026-08-04T09:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084570977007239213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RIrMmOCee",
+              "end": 80,
+              "expanded_url": "https://x.com/AngelMayLies/status/2084570977007239213/photo/1",
+              "media_key": "3_2084570962637590528",
+              "start": 57,
+              "url": "https://t.co/0RIrMmOCee"
+            },
+            {
+              "display_url": "pic.x.com/0RIrMmOCee",
+              "end": 80,
+              "expanded_url": "https://x.com/AngelMayLies/status/2084570977007239213/photo/1",
+              "media_key": "3_2084570967427391488",
+              "start": 57,
+              "url": "https://t.co/0RIrMmOCee"
+            },
+            {
+              "display_url": "x.com/AngelMayLies/s…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/AngelMayLies/status/2084568951661777369",
+              "start": 81,
+              "url": "https://t.co/YNYKDgu2jh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084570977007239213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084568951661777369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个表真的老好看了，而且没坏指针还能走，我真他妈服了，这他娘正经vintage居然想卖掉然后拿钱把我送进精神病院 https://t.co/0RIrMmOCee https://t.co/YNYKDgu2jh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084568951661777369",
+        "created_at": "2026-08-04T09:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084568951661777369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084568951661777369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疯人院的事先别管，我是真他妈被禁足了，而且我家人宁愿把二十年前的亨得利帝舵卖了也要再把老子送进去，去你的我才不要让我家人被骗钱把我再送去那个虐待人的地方，我只想在家里天天画dmc摆弄我的yamato和ebony&amp;Ivory"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 57,
+          "like_count": 1159,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      }
+    ]
+  }
+}

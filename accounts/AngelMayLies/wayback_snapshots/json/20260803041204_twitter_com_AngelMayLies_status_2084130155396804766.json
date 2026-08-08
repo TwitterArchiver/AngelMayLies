@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083897732226531328"
+      ],
+      "media_source_tweet_id": [
+        "2083897745514053726"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084130155396804766",
+    "created_at": "2026-08-03T04:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084130155396804766"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "Dante"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989402448067530755",
+          "start": 3,
+          "username": "ShuShen_340"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8AcYoB0z7r",
+          "end": 57,
+          "expanded_url": "https://x.com/ShuShen_340/status/2083897745514053726/photo/1",
+          "media_key": "3_2083897732226531328",
+          "start": 34,
+          "url": "https://t.co/8AcYoB0z7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084130155396804766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083897745514053726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShuShen_340: 红墓市最寡妇之人\n #Dante https://t.co/8AcYoB0z7r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2908,
+        "media_key": "3_2083897732226531328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt98k2awAAmOpe.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083897732226531328"
+          ]
+        },
+        "author_id": "1989402448067530755",
+        "conversation_id": "2083897745514053726",
+        "created_at": "2026-08-02T12:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083897745514053726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "Dante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AcYoB0z7r",
+              "end": 40,
+              "expanded_url": "https://x.com/ShuShen_340/status/2083897745514053726/photo/1",
+              "media_key": "3_2083897732226531328",
+              "start": 17,
+              "url": "https://t.co/8AcYoB0z7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083897745514053726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 3739,
+          "like_count": 532,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "红墓市最寡妇之人\n #Dante https://t.co/8AcYoB0z7r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083897732226531328"
+          ],
+          "media_source_tweet_id": [
+            "2083897745514053726"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084130155396804766",
+        "created_at": "2026-08-03T04:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084130155396804766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "Dante"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989402448067530755",
+              "start": 3,
+              "username": "ShuShen_340"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AcYoB0z7r",
+              "end": 57,
+              "expanded_url": "https://x.com/ShuShen_340/status/2083897745514053726/photo/1",
+              "media_key": "3_2083897732226531328",
+              "start": 34,
+              "url": "https://t.co/8AcYoB0z7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084130155396804766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083897745514053726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShuShen_340: 红墓市最寡妇之人\n #Dante https://t.co/8AcYoB0z7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "相爱之人的诅咒𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 47,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T18:38:54.000Z",
+        "description": "vd only🔁❎💙❤️19+ 纯业余画手，没事画点喜欢的，欢迎同好，英语水平差",
+        "id": "1989402448067530755",
+        "name": "陎棽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082450315895537664/zs-jOME9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 50,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "ShuShen_340",
+        "verified": false
+      }
+    ]
+  }
+}

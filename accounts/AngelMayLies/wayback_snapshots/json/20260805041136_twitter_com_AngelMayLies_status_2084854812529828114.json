@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084753478719561728"
+      ],
+      "media_source_tweet_id": [
+        "2084753518506750065"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084854812529828114",
+    "created_at": "2026-08-05T04:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084854812529828114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041517561272299520",
+          "start": 3,
+          "username": "Lovingyou13579"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K6pZghCGNU",
+          "end": 43,
+          "expanded_url": "https://x.com/Lovingyou13579/status/2084753518506750065/photo/1",
+          "media_key": "3_2084753478719561728",
+          "start": 20,
+          "url": "https://t.co/K6pZghCGNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084854812529828114",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084753518506750065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lovingyou13579: https://t.co/K6pZghCGNU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2084753478719561728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6IPk9W4AAORmX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084753478719561728"
+          ]
+        },
+        "author_id": "2041517561272299520",
+        "conversation_id": "2084753518506750065",
+        "created_at": "2026-08-04T21:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084753518506750065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6pZghCGNU",
+              "end": 23,
+              "expanded_url": "https://x.com/Lovingyou13579/status/2084753518506750065/photo/1",
+              "media_key": "3_2084753478719561728",
+              "start": 0,
+              "url": "https://t.co/K6pZghCGNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084753518506750065",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1140,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K6pZghCGNU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084753478719561728"
+          ],
+          "media_source_tweet_id": [
+            "2084753518506750065"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084854812529828114",
+        "created_at": "2026-08-05T04:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084854812529828114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041517561272299520",
+              "start": 3,
+              "username": "Lovingyou13579"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6pZghCGNU",
+              "end": 43,
+              "expanded_url": "https://x.com/Lovingyou13579/status/2084753518506750065/photo/1",
+              "media_key": "3_2084753478719561728",
+              "start": 20,
+              "url": "https://t.co/K6pZghCGNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084854812529828114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084753518506750065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lovingyou13579: https://t.co/K6pZghCGNU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 60,
+          "like_count": 1305,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T14:06:38.000Z",
+        "description": "薇薇狂热女粉丝",
+        "id": "2041517561272299520",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084193851091357696/edlkZJTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 44,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "Lovingyou13579",
+        "verified": false
+      }
+    ]
+  }
+}

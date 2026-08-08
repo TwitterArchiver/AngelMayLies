@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084278142865449286",
+    "created_at": "2026-08-03T14:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084278142865449286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581647996936400897",
+          "start": 3,
+          "username": "toonup2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hbdsart/status…",
+          "end": 115,
+          "expanded_url": "https://x.com/hbdsart/status/2083893577466167693?s=20",
+          "start": 92,
+          "url": "https://t.co/QYhx392AWQ"
+        },
+        {
+          "display_url": "t.co/5VFEa5dJ",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/5VFEa5dJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084278142865449286",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084238193038336405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toonup2: ㅤ\n머리를 원하는 각도로 돌리면, 그 각도에 딱 맞는 얼굴 사진을 찾아주는 사이트이네요.\n\n필요하신 경우 한번 확인하시면 좋을 것 같아요.\n\nhttps://t.co/QYhx392AWQ\nㅤ https://t.co/5VFEa5dJ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16800,
+        "height": 1419,
+        "media_key": "13_2084237635288186880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084237635288186880/img/z9L1vCibJrZQ1v8q.jpg",
+        "public_metrics": {
+          "view_count": 9362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084237635288186880/vid/avc1/304x270/LmqRyre4ZJZWTeOm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084237635288186880/pl/0HFotPqPBWyHqdIL.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084237635288186880/vid/avc1/1606x1418/PcmUvsutnmDTGe-Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084237635288186880/vid/avc1/814x720/rlrfjLjnkrMN2FDF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084237635288186880/vid/avc1/406x360/aGUhSb_5JUSI-pw3.mp4"
+          }
+        ],
+        "width": 1608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084278142865449286",
+        "created_at": "2026-08-03T14:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084278142865449286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581647996936400897",
+              "start": 3,
+              "username": "toonup2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hbdsart/status…",
+              "end": 115,
+              "expanded_url": "https://x.com/hbdsart/status/2083893577466167693?s=20",
+              "start": 92,
+              "url": "https://t.co/QYhx392AWQ"
+            },
+            {
+              "display_url": "t.co/5VFEa5dJ",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/5VFEa5dJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084278142865449286",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084238193038336405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toonup2: ㅤ\n머리를 원하는 각도로 돌리면, 그 각도에 딱 맞는 얼굴 사진을 찾아주는 사이트이네요.\n\n필요하신 경우 한번 확인하시면 좋을 것 같아요.\n\nhttps://t.co/QYhx392AWQ\nㅤ https://t.co/5VFEa5dJ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084237635288186880"
+          ]
+        },
+        "author_id": "1581647996936400897",
+        "conversation_id": "2084238193038336405",
+        "created_at": "2026-08-03T11:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084238193038336405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hbdsart/status…",
+              "end": 102,
+              "expanded_url": "https://x.com/hbdsart/status/2083893577466167693?s=20",
+              "start": 79,
+              "url": "https://t.co/QYhx392AWQ"
+            },
+            {
+              "display_url": "pic.x.com/5VFEa5dJGw",
+              "end": 128,
+              "expanded_url": "https://x.com/toonup2/status/2084238193038336405/video/1",
+              "media_key": "13_2084237635288186880",
+              "start": 105,
+              "url": "https://t.co/5VFEa5dJGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084238193038336405",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1411,
+          "impression_count": 55477,
+          "like_count": 973,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083893577466167693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ㅤ\n머리를 원하는 각도로 돌리면, 그 각도에 딱 맞는 얼굴 사진을 찾아주는 사이트이네요.\n\n필요하신 경우 한번 확인하시면 좋을 것 같아요.\n\nhttps://t.co/QYhx392AWQ\nㅤ https://t.co/5VFEa5dJGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 52,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T14:07:37.000Z",
+        "description": "그림작업에 필요한 정보만을 위한 관련된 모든 정보를 올리는 계정 입니다.\n\n絵作業に必要な情報のみを目的としたアカウントです\n\nThis is an account dedicated to sharing only the information necessary for art projects",
+        "id": "1581647996936400897",
+        "name": "uptoon(정보계정)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581648516816211971/mUJS1OUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166902,
+          "following_count": 0,
+          "like_count": 163,
+          "listed_count": 1191,
+          "media_count": 9093,
+          "tweet_count": 12237
+        },
+        "url": "",
+        "username": "toonup2",
+        "verified": true
+      }
+    ]
+  }
+}

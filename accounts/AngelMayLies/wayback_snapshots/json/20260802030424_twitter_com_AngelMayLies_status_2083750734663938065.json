@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083528383665770496"
+      ],
+      "media_source_tweet_id": [
+        "2083528397955723385"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2083750734663938065",
+    "created_at": "2026-08-02T03:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083750734663938065"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "dante"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "ndmc"
+        },
+        {
+          "end": 74,
+          "start": 63,
+          "tag": "netflixdmc"
+        },
+        {
+          "end": 87,
+          "start": 75,
+          "tag": "devilmaycry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1983390678299340800",
+          "start": 3,
+          "username": "CubaLera41236"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wFDJC0bUGv",
+          "end": 111,
+          "expanded_url": "https://x.com/CubaLera41236/status/2083528397955723385/photo/1",
+          "media_key": "3_2083528383665770496",
+          "start": 88,
+          "url": "https://t.co/wFDJC0bUGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083750734663938065",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083528397955723385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CubaLera41236: Life without Vergil and Lady 😔\n#dante #ndmc #netflixdmc #devilmaycry https://t.co/wFDJC0bUGv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2083528383665770496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOouBqPXkAAJsqV.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083528383665770496"
+          ]
+        },
+        "author_id": "1983390678299340800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083528397955723385",
+        "created_at": "2026-08-01T12:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083528397955723385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "dante"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "ndmc"
+            },
+            {
+              "end": 55,
+              "start": 44,
+              "tag": "netflixdmc"
+            },
+            {
+              "end": 68,
+              "start": 56,
+              "tag": "devilmaycry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFDJC0bUGv",
+              "end": 92,
+              "expanded_url": "https://x.com/CubaLera41236/status/2083528397955723385/photo/1",
+              "media_key": "3_2083528383665770496",
+              "start": 69,
+              "url": "https://t.co/wFDJC0bUGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083528397955723385",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 3844,
+          "like_count": 551,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "Life without Vergil and Lady 😔\n#dante #ndmc #netflixdmc #devilmaycry https://t.co/wFDJC0bUGv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083528383665770496"
+          ],
+          "media_source_tweet_id": [
+            "2083528397955723385"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2083750734663938065",
+        "created_at": "2026-08-02T03:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083750734663938065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "dante"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "ndmc"
+            },
+            {
+              "end": 74,
+              "start": 63,
+              "tag": "netflixdmc"
+            },
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "devilmaycry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1983390678299340800",
+              "start": 3,
+              "username": "CubaLera41236"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFDJC0bUGv",
+              "end": 111,
+              "expanded_url": "https://x.com/CubaLera41236/status/2083528397955723385/photo/1",
+              "media_key": "3_2083528383665770496",
+              "start": 88,
+              "url": "https://t.co/wFDJC0bUGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083750734663938065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083528397955723385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CubaLera41236: Life without Vergil and Lady 😔\n#dante #ndmc #netflixdmc #devilmaycry https://t.co/wFDJC0bUGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 45,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T04:29:40.000Z",
+        "description": "Beginner Artist| Inspired by DMC, anime and stylish things\n\n#dantexlady #vergil #dante #lady\n#teso #warcraft #dmc \n\n#BeginnerArtist #LearningToDraw #Art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 60,
+                "tag": "dantexlady"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "vergil"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "dante"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "lady"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "teso"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "tag": "warcraft"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "dmc"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "tag": "BeginnerArtist"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "tag": "LearningToDraw"
+              },
+              {
+                "end": 152,
+                "start": 148,
+                "tag": "Art"
+              }
+            ]
+          }
+        },
+        "id": "1983390678299340800",
+        "location": "Moscow, ID",
+        "name": "Lera Cuba",
+        "pinned_tweet_id": "2070579231554203734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065396042045022208/l6Mv7bvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 286,
+          "like_count": 5782,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "CubaLera41236",
+        "verified": false
+      }
+    ]
+  }
+}

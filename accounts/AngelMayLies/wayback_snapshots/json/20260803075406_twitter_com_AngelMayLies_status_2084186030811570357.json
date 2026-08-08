@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083793734223962112"
+      ],
+      "media_source_tweet_id": [
+        "2083793740477694024"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084186030811570357",
+    "created_at": "2026-08-03T07:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084186030811570357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "736984936008187904",
+          "start": 3,
+          "username": "DMC_156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebaqhkRvyc",
+          "end": 67,
+          "expanded_url": "https://x.com/DMC_156/status/2083793740477694024/photo/1",
+          "media_key": "3_2083793734223962112",
+          "start": 44,
+          "url": "https://t.co/ebaqhkRvyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084186030811570357",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083793740477694024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DMC_156: The Storm is right behind you💀 https://t.co/ebaqhkRvyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_2083793734223962112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsfXGGaoAAYNc4.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083793734223962112"
+          ]
+        },
+        "author_id": "736984936008187904",
+        "conversation_id": "2083793740477694024",
+        "created_at": "2026-08-02T05:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083793740477694024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebaqhkRvyc",
+              "end": 54,
+              "expanded_url": "https://x.com/DMC_156/status/2083793740477694024/photo/1",
+              "media_key": "3_2083793734223962112",
+              "start": 31,
+              "url": "https://t.co/ebaqhkRvyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083793740477694024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4519,
+          "like_count": 533,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "The Storm is right behind you💀 https://t.co/ebaqhkRvyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083793734223962112"
+          ],
+          "media_source_tweet_id": [
+            "2083793740477694024"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084186030811570357",
+        "created_at": "2026-08-03T07:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084186030811570357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "736984936008187904",
+              "start": 3,
+              "username": "DMC_156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebaqhkRvyc",
+              "end": 67,
+              "expanded_url": "https://x.com/DMC_156/status/2083793740477694024/photo/1",
+              "media_key": "3_2083793734223962112",
+              "start": 44,
+              "url": "https://t.co/ebaqhkRvyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084186030811570357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083793740477694024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DMC_156: The Storm is right behind you💀 https://t.co/ebaqhkRvyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 51,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-29T18:17:56.000Z",
+        "description": "Post all about Vergil & V , Dante and Nero ( Mostly VERGIL💙 ) Games & Memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.Twitter.com",
+                "start": 0,
+                "url": "https://t.co/Czmlhmhm3P"
+              }
+            ]
+          }
+        },
+        "id": "736984936008187904",
+        "location": "West Region, Singapore",
+        "name": "Λ2",
+        "pinned_tweet_id": "2046834221801701536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055509329529499648/aK-nXMO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 68,
+          "like_count": 31236,
+          "listed_count": 8,
+          "media_count": 4039,
+          "tweet_count": 9303
+        },
+        "url": "https://t.co/Czmlhmhm3P",
+        "username": "DMC_156",
+        "verified": true
+      }
+    ]
+  }
+}

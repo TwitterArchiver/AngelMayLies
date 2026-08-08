@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083670878856871936"
+      ],
+      "media_source_tweet_id": [
+        "2083670884024230185"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083671118167323122",
+    "created_at": "2026-08-01T21:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083671118167323122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1981826222696144896",
+          "start": 3,
+          "username": "in_derpetuity"
+        },
+        {
+          "end": 94,
+          "id": "1134855855931764736",
+          "start": 83,
+          "username": "SaoSaturn_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jyNqwj99ex",
+          "end": 118,
+          "expanded_url": "https://x.com/in_derpetuity/status/2083670884024230185/photo/1",
+          "media_key": "3_2083670878856871936",
+          "start": 95,
+          "url": "https://t.co/jyNqwj99ex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083671118167323122",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083670884024230185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in_derpetuity: Vergil and Magdalene \nJust nerds doing nerd things\n💙🩶💙🩶\n\nArt by @SaoSaturn_ https://t.co/jyNqwj99ex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083670878856871936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqvn-MXAAAG-3R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083670878856871936"
+          ]
+        },
+        "author_id": "1981826222696144896",
+        "conversation_id": "2083670884024230185",
+        "created_at": "2026-08-01T21:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083670884024230185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1134855855931764736",
+              "start": 64,
+              "username": "SaoSaturn_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyNqwj99ex",
+              "end": 99,
+              "expanded_url": "https://x.com/in_derpetuity/status/2083670884024230185/photo/1",
+              "media_key": "3_2083670878856871936",
+              "start": 76,
+              "url": "https://t.co/jyNqwj99ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083670884024230185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Vergil and Magdalene \nJust nerds doing nerd things\n💙🩶💙🩶\n\nArt by @SaoSaturn_ https://t.co/jyNqwj99ex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083670878856871936"
+          ],
+          "media_source_tweet_id": [
+            "2083670884024230185"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083671118167323122",
+        "created_at": "2026-08-01T21:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083671118167323122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1981826222696144896",
+              "start": 3,
+              "username": "in_derpetuity"
+            },
+            {
+              "end": 94,
+              "id": "1134855855931764736",
+              "start": 83,
+              "username": "SaoSaturn_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyNqwj99ex",
+              "end": 118,
+              "expanded_url": "https://x.com/in_derpetuity/status/2083670884024230185/photo/1",
+              "media_key": "3_2083670878856871936",
+              "start": 95,
+              "url": "https://t.co/jyNqwj99ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083671118167323122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083670884024230185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in_derpetuity: Vergil and Magdalene \nJust nerds doing nerd things\n💙🩶💙🩶\n\nArt by @SaoSaturn_ https://t.co/jyNqwj99ex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 44,
+          "like_count": 845,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T20:53:41.000Z",
+        "description": "31🩶\nArchive of all my fangirling~\nCreative sometimes :}",
+        "id": "1981826222696144896",
+        "location": "🤠",
+        "name": "Hydrazine_Heart",
+        "pinned_tweet_id": "2080789474984730692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029406241374515201/0zRWH7j2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 702,
+          "like_count": 13406,
+          "listed_count": 8,
+          "media_count": 652,
+          "tweet_count": 2718
+        },
+        "url": "",
+        "username": "in_derpetuity",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-01T16:14:55.000Z",
+        "description": "OC FF7 DMC CSM Bleach SPN LOTR | Digital Artist & Writer | #ฮิคิกู้โลก #AzurStar | Commission https://t.co/0aAytTHKkt ✉️: Saosaturncms@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 59,
+                "tag": "ฮิคิกู้โลก"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "tag": "AzurStar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/SaoSaturn",
+                "end": 117,
+                "expanded_url": "https://vgen.co/SaoSaturn",
+                "start": 94,
+                "url": "https://t.co/0aAytTHKkt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/saosaturn",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/saosaturn",
+                "start": 0,
+                "url": "https://t.co/3LALwB5Ye9"
+              }
+            ]
+          }
+        },
+        "id": "1134855855931764736",
+        "location": "Vergil (kin) x Seraph (OC)",
+        "name": "SaoSaturn🏳️‍⚧️ CM-E02",
+        "pinned_tweet_id": "2074478088096997487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062153609459163136/sY8RM933_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 1368,
+          "like_count": 10427,
+          "listed_count": 6,
+          "media_count": 1351,
+          "tweet_count": 5151
+        },
+        "url": "https://t.co/3LALwB5Ye9",
+        "username": "SaoSaturn_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084238824281100759",
+    "created_at": "2026-08-03T11:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084238824281100759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pixelprayer/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/pixelprayer/status/2083993989783633999",
+          "start": 30,
+          "url": "https://t.co/jscWUcDUrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084238824281100759",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083993989783633999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i gotta rip him to 615 pieces https://t.co/jscWUcDUrG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2083993981374070784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvVfA3agAALBlK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084238824281100759",
+        "created_at": "2026-08-03T11:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084238824281100759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pixelprayer/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/pixelprayer/status/2083993989783633999",
+              "start": 30,
+              "url": "https://t.co/jscWUcDUrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084238824281100759",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083993989783633999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i gotta rip him to 615 pieces https://t.co/jscWUcDUrG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083993981374070784"
+          ]
+        },
+        "author_id": "1987106139360927749",
+        "conversation_id": "2083993989783633999",
+        "created_at": "2026-08-02T19:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083993989783633999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtwDLkvpUg",
+              "end": 50,
+              "expanded_url": "https://x.com/pixelprayer/status/2083993989783633999/photo/1",
+              "media_key": "3_2083993981374070784",
+              "start": 27,
+              "url": "https://t.co/TtwDLkvpUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083993989783633999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 81993,
+          "like_count": 1355,
+          "quote_count": 497,
+          "reply_count": 1047,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "would you DATE your pfp ?? https://t.co/TtwDLkvpUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 51,
+          "like_count": 1009,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T10:33:46.000Z",
+        "description": "20 • Full-time yapper",
+        "id": "1987106139360927749",
+        "name": "mimi ୨ৎ",
+        "pinned_tweet_id": "2083580202010169566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017181424995201025/ON6y3sIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16024,
+          "following_count": 3011,
+          "like_count": 13156,
+          "listed_count": 18,
+          "media_count": 2858,
+          "tweet_count": 11734
+        },
+        "url": "",
+        "username": "pixelprayer",
+        "verified": true
+      }
+    ]
+  }
+}

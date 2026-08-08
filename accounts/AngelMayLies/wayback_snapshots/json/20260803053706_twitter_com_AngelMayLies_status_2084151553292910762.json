@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084148291357552730",
+    "created_at": "2026-08-03T05:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084151553292910762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1549340020200247297",
+          "start": 0,
+          "username": "kkakakaww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084151553292910762",
+    "in_reply_to_user_id": "1549340020200247297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084151462549242195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkakakaww 所有人感受"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084151459885850624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxkteCboAARTB-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084148291357552730",
+        "created_at": "2026-08-03T05:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084151553292910762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1549340020200247297",
+              "start": 0,
+              "username": "kkakakaww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084151553292910762",
+        "in_reply_to_user_id": "1549340020200247297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084151462549242195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkakakaww 所有人感受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084151459885850624"
+          ]
+        },
+        "author_id": "1549340020200247297",
+        "conversation_id": "2084148291357552730",
+        "created_at": "2026-08-03T05:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084151462549242195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/naiCMEAiDW",
+              "end": 50,
+              "expanded_url": "https://x.com/kkakakaww/status/2084151462549242195/photo/1",
+              "media_key": "3_2084151459885850624",
+              "start": 27,
+              "url": "https://t.co/naiCMEAiDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084151462549242195",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084148800097255588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 还有pure white https://t.co/naiCMEAiDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "相爱之人的诅咒𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 49,
+          "like_count": 953,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T10:27:08.000Z",
+        "description": "生命是由呼吸產生的幻覺\ndrugtwt weedtwt\n提问箱https://t.co/XCL3QhWmUZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mona66723",
+                "end": 54,
+                "expanded_url": "https://ngl.link/mona66723",
+                "start": 31,
+                "url": "https://t.co/XCL3QhWmUZ"
+              }
+            ]
+          }
+        },
+        "id": "1549340020200247297",
+        "location": "North America",
+        "name": "桃奈^_-☆",
+        "pinned_tweet_id": "1592822586127552512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072438945481404416/tFuBDJyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 540,
+          "like_count": 1671,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 1302
+        },
+        "url": "",
+        "username": "kkakakaww",
+        "verified": false
+      }
+    ]
+  }
+}

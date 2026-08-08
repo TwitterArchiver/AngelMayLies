@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083359321316851713",
+        "3_2083359369152925696",
+        "3_2083359422290567168",
+        "3_2083359477609238529"
+      ],
+      "media_source_tweet_id": [
+        "2083359599541833940",
+        "2083359599541833940",
+        "2083359599541833940",
+        "2083359599541833940"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083617467776254316",
+    "created_at": "2026-08-01T18:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083617467776254316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2078187830942011393",
+          "start": 3,
+          "username": "retroanme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRR2RbQPdf",
+          "end": 62,
+          "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+          "media_key": "3_2083359321316851713",
+          "start": 39,
+          "url": "https://t.co/TRR2RbQPdf"
+        },
+        {
+          "display_url": "pic.x.com/TRR2RbQPdf",
+          "end": 62,
+          "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+          "media_key": "3_2083359369152925696",
+          "start": 39,
+          "url": "https://t.co/TRR2RbQPdf"
+        },
+        {
+          "display_url": "pic.x.com/TRR2RbQPdf",
+          "end": 62,
+          "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+          "media_key": "3_2083359422290567168",
+          "start": 39,
+          "url": "https://t.co/TRR2RbQPdf"
+        },
+        {
+          "display_url": "pic.x.com/TRR2RbQPdf",
+          "end": 62,
+          "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+          "media_key": "3_2083359477609238529",
+          "start": 39,
+          "url": "https://t.co/TRR2RbQPdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083617467776254316",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083359599541833940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @retroanme: Vampire Hunter D (2000) https://t.co/TRR2RbQPdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_2083359321316851713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmUQ76XAAEyPQx.jpg",
+        "width": 1416
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2083359369152925696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmUTuHXkAA_5La.jpg",
+        "width": 1280
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2083359422290567168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmUW0EXoAAMm2C.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3496,
+        "media_key": "3_2083359477609238529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmUaCJXkAETD7K.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083359321316851713",
+            "3_2083359369152925696",
+            "3_2083359422290567168",
+            "3_2083359477609238529"
+          ]
+        },
+        "author_id": "2078187830942011393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083359599541833940",
+        "created_at": "2026-08-01T01:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083359599541833940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 47,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359321316851713",
+              "start": 24,
+              "url": "https://t.co/TRR2RbQPdf"
+            },
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 47,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359369152925696",
+              "start": 24,
+              "url": "https://t.co/TRR2RbQPdf"
+            },
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 47,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359422290567168",
+              "start": 24,
+              "url": "https://t.co/TRR2RbQPdf"
+            },
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 47,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359477609238529",
+              "start": 24,
+              "url": "https://t.co/TRR2RbQPdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083359599541833940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 11713,
+          "like_count": 518,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Vampire Hunter D (2000) https://t.co/TRR2RbQPdf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083359321316851713",
+            "3_2083359369152925696",
+            "3_2083359422290567168",
+            "3_2083359477609238529"
+          ],
+          "media_source_tweet_id": [
+            "2083359599541833940",
+            "2083359599541833940",
+            "2083359599541833940",
+            "2083359599541833940"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083617467776254316",
+        "created_at": "2026-08-01T18:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083617467776254316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2078187830942011393",
+              "start": 3,
+              "username": "retroanme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 62,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359321316851713",
+              "start": 39,
+              "url": "https://t.co/TRR2RbQPdf"
+            },
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 62,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359369152925696",
+              "start": 39,
+              "url": "https://t.co/TRR2RbQPdf"
+            },
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 62,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359422290567168",
+              "start": 39,
+              "url": "https://t.co/TRR2RbQPdf"
+            },
+            {
+              "display_url": "pic.x.com/TRR2RbQPdf",
+              "end": 62,
+              "expanded_url": "https://x.com/retroanme/status/2083359599541833940/photo/1",
+              "media_key": "3_2083359477609238529",
+              "start": 39,
+              "url": "https://t.co/TRR2RbQPdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083617467776254316",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083359599541833940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @retroanme: Vampire Hunter D (2000) https://t.co/TRR2RbQPdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 44,
+          "like_count": 794,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T18:40:01.000Z",
+        "description": "your source for anime nostalgia.",
+        "id": "2078187830942011393",
+        "name": "retoro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078534977528999937/NEhNCmpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 43,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "retroanme",
+        "verified": false
+      }
+    ]
+  }
+}

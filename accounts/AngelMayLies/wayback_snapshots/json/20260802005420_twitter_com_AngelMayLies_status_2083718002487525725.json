@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083531956290310144",
+        "3_2083531956298686464"
+      ],
+      "media_source_tweet_id": [
+        "2083531960690053132",
+        "2083531960690053132"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083718002487525725",
+    "created_at": "2026-08-02T00:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083718002487525725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "93994227",
+          "start": 3,
+          "username": "clearing0019109"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xJ5cIcZEJ",
+          "end": 44,
+          "expanded_url": "https://x.com/clearing0019109/status/2083531960690053132/photo/1",
+          "media_key": "3_2083531956290310144",
+          "start": 21,
+          "url": "https://t.co/3xJ5cIcZEJ"
+        },
+        {
+          "display_url": "pic.x.com/3xJ5cIcZEJ",
+          "end": 44,
+          "expanded_url": "https://x.com/clearing0019109/status/2083531960690053132/photo/1",
+          "media_key": "3_2083531956298686464",
+          "start": 21,
+          "url": "https://t.co/3xJ5cIcZEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083718002487525725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083531960690053132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clearing0019109: https://t.co/3xJ5cIcZEJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083531956290310144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoxRnTb0AALjFi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2008,
+        "media_key": "3_2083531956298686464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoxRnVboAAF9t5.jpg",
+        "width": 1521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083531956290310144",
+            "3_2083531956298686464"
+          ]
+        },
+        "author_id": "93994227",
+        "conversation_id": "2083531960690053132",
+        "created_at": "2026-08-01T12:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083531960690053132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xJ5cIcZEJ",
+              "end": 23,
+              "expanded_url": "https://x.com/clearing0019109/status/2083531960690053132/photo/1",
+              "media_key": "3_2083531956290310144",
+              "start": 0,
+              "url": "https://t.co/3xJ5cIcZEJ"
+            },
+            {
+              "display_url": "pic.x.com/3xJ5cIcZEJ",
+              "end": 23,
+              "expanded_url": "https://x.com/clearing0019109/status/2083531960690053132/photo/1",
+              "media_key": "3_2083531956298686464",
+              "start": 0,
+              "url": "https://t.co/3xJ5cIcZEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531960690053132",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 7887,
+          "like_count": 361,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3xJ5cIcZEJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083531956290310144",
+            "3_2083531956298686464"
+          ],
+          "media_source_tweet_id": [
+            "2083531960690053132",
+            "2083531960690053132"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083718002487525725",
+        "created_at": "2026-08-02T00:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083718002487525725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "93994227",
+              "start": 3,
+              "username": "clearing0019109"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xJ5cIcZEJ",
+              "end": 44,
+              "expanded_url": "https://x.com/clearing0019109/status/2083531960690053132/photo/1",
+              "media_key": "3_2083531956290310144",
+              "start": 21,
+              "url": "https://t.co/3xJ5cIcZEJ"
+            },
+            {
+              "display_url": "pic.x.com/3xJ5cIcZEJ",
+              "end": 44,
+              "expanded_url": "https://x.com/clearing0019109/status/2083531960690053132/photo/1",
+              "media_key": "3_2083531956298686464",
+              "start": 21,
+              "url": "https://t.co/3xJ5cIcZEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083718002487525725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083531960690053132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clearing0019109: https://t.co/3xJ5cIcZEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 44,
+          "like_count": 864,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-02T01:44:58.000Z",
+        "description": "LA-tokyo ̽ͯ͊ ̈́ ͤͫ͊`̈́̉̿.̋ͥ͌ ̈́̅̃ ̽ͦ̓ ̐͗̒ ̈́́͌ ͒̉̉ ̾ͬ̂ ͒͋̌`ͤͨ͊.ͤ̄͂ ̒͗̍ ̍̾ͧ ̎ͥ̑ ͥͮ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/love_olympix",
+                "end": 23,
+                "expanded_url": "http://instagram.com/love_olympix",
+                "start": 0,
+                "url": "https://t.co/VIF8dXoypL"
+              }
+            ]
+          }
+        },
+        "id": "93994227",
+        "name": "͊̔̍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755516395255889920/eRDd85qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 100,
+          "like_count": 7375,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/VIF8dXoypL",
+        "username": "clearing0019109",
+        "verified": false
+      }
+    ]
+  }
+}

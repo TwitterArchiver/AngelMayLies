@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082225334448279552"
+      ],
+      "media_source_tweet_id": [
+        "2082225456062017933"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083642391165304853",
+    "created_at": "2026-08-01T19:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083642391165304853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1119967435443060738",
+          "start": 3,
+          "username": "3nrrr1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7GstIe9xAf",
+          "end": 79,
+          "expanded_url": "https://x.com/3nrrr1/status/2082225456062017933/photo/1",
+          "media_key": "3_2082225334448279552",
+          "start": 56,
+          "url": "https://t.co/7GstIe9xAf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083642391165304853",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082225456062017933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3nrrr1: After savoring those shrimps and chickens 😋 https://t.co/7GstIe9xAf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_2082225334448279552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWM6Nob0AA0HVi.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082225334448279552"
+          ]
+        },
+        "author_id": "1119967435443060738",
+        "conversation_id": "2082225456062017933",
+        "created_at": "2026-07-28T22:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082225456062017933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GstIe9xAf",
+              "end": 67,
+              "expanded_url": "https://x.com/3nrrr1/status/2082225456062017933/photo/1",
+              "media_key": "3_2082225334448279552",
+              "start": 44,
+              "url": "https://t.co/7GstIe9xAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082225456062017933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1689,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "After savoring those shrimps and chickens 😋 https://t.co/7GstIe9xAf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082225334448279552"
+          ],
+          "media_source_tweet_id": [
+            "2082225456062017933"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083642391165304853",
+        "created_at": "2026-08-01T19:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083642391165304853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1119967435443060738",
+              "start": 3,
+              "username": "3nrrr1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GstIe9xAf",
+              "end": 79,
+              "expanded_url": "https://x.com/3nrrr1/status/2082225456062017933/photo/1",
+              "media_key": "3_2082225334448279552",
+              "start": 56,
+              "url": "https://t.co/7GstIe9xAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083642391165304853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082225456062017933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3nrrr1: After savoring those shrimps and chickens 😋 https://t.co/7GstIe9xAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 44,
+          "like_count": 818,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T14:13:39.000Z",
+        "description": "🔞 Spoilers NSFW ♂×♂ | ⚠DanV NeroV DaNeroV (tagged) | Pixiv ID: 3715897 | 3nrrr1 on bsky | 🚫 be 18+ to follow | non-commercial use only | QRTs are OK",
+        "id": "1119967435443060738",
+        "name": "letsparty 🍷🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1122154057731387395/VAWgemh__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 0,
+          "like_count": 101,
+          "listed_count": 18,
+          "media_count": 1121,
+          "tweet_count": 2445
+        },
+        "url": "",
+        "username": "3nrrr1",
+        "verified": false
+      }
+    ]
+  }
+}

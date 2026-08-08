@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084671171753115649"
+      ],
+      "media_source_tweet_id": [
+        "2084671188685508651"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084721673182593326",
+    "created_at": "2026-08-04T19:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084721673182593326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2053440124856467456",
+          "start": 3,
+          "username": "ZOMBIEKING1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbHWz4XjL3",
+          "end": 56,
+          "expanded_url": "https://x.com/ZOMBIEKING1111/status/2084671188685508651/photo/1",
+          "media_key": "3_2084671171753115649",
+          "start": 33,
+          "url": "https://t.co/GbHWz4XjL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084721673182593326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084671188685508651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZOMBIEKING1111: 这波是我定制的三人行场景 https://t.co/GbHWz4XjL3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2084671171753115649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO49YrnXgAEut5l.jpg",
+        "width": 1417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084671171753115649"
+          ]
+        },
+        "author_id": "2053440124856467456",
+        "conversation_id": "2084671188685508651",
+        "created_at": "2026-08-04T16:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084671188685508651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbHWz4XjL3",
+              "end": 36,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2084671188685508651/photo/1",
+              "media_key": "3_2084671171753115649",
+              "start": 13,
+              "url": "https://t.co/GbHWz4XjL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084671188685508651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波是我定制的三人行场景 https://t.co/GbHWz4XjL3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084671171753115649"
+          ],
+          "media_source_tweet_id": [
+            "2084671188685508651"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084721673182593326",
+        "created_at": "2026-08-04T19:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084721673182593326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053440124856467456",
+              "start": 3,
+              "username": "ZOMBIEKING1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbHWz4XjL3",
+              "end": 56,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2084671188685508651/photo/1",
+              "media_key": "3_2084671171753115649",
+              "start": 33,
+              "url": "https://t.co/GbHWz4XjL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084721673182593326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084671188685508651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZOMBIEKING1111: 这波是我定制的三人行场景 https://t.co/GbHWz4XjL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 60,
+          "like_count": 1302,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:41:01.000Z",
+        "description": "od/shtwt king of the earth he/him\n专心过好自己的唐人生活\n我是天选，也是唯一",
+        "id": "2053440124856467456",
+        "name": "喝中国劲酒打亲朋好友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066772444346499072/A-MyxOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 104,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 838
+        },
+        "url": "",
+        "username": "ZOMBIEKING1111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2080713604706271350",
+    "created_at": "2026-07-26T01:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081190794237723007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894353617945059328",
+          "start": 0,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081190794237723007",
+    "in_reply_to_user_id": "1894353617945059328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080713604706271350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDGVA23 这些也太漂亮了而且每一个都好精致🩷🩷我尤其喜欢那个Dante娃娃钥匙扣…😭🩷💥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2335,
+        "media_key": "3_2080713575090290688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAt-PKXAAAVROE.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2080713585773125632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAt-29WIAAa62d.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2080713596695101440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAt_fpWQAAm02C.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2080713604706271350",
+        "created_at": "2026-07-26T01:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081190794237723007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894353617945059328",
+              "start": 0,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081190794237723007",
+        "in_reply_to_user_id": "1894353617945059328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080713604706271350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDGVA23 这些也太漂亮了而且每一个都好精致🩷🩷我尤其喜欢那个Dante娃娃钥匙扣…😭🩷💥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080713575090290688",
+            "3_2080713585773125632",
+            "3_2080713596695101440"
+          ]
+        },
+        "author_id": "1894353617945059328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1207752584288591872",
+              "name": "Pachinko"
+            }
+          }
+        ],
+        "conversation_id": "2080713604706271350",
+        "created_at": "2026-07-24T17:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080713604706271350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLbrVG2b8V",
+              "end": 91,
+              "expanded_url": "https://x.com/SDGVA23/status/2080713604706271350/photo/1",
+              "media_key": "3_2080713575090290688",
+              "start": 68,
+              "url": "https://t.co/TLbrVG2b8V"
+            },
+            {
+              "display_url": "pic.x.com/TLbrVG2b8V",
+              "end": 91,
+              "expanded_url": "https://x.com/SDGVA23/status/2080713604706271350/photo/1",
+              "media_key": "3_2080713585773125632",
+              "start": 68,
+              "url": "https://t.co/TLbrVG2b8V"
+            },
+            {
+              "display_url": "pic.x.com/TLbrVG2b8V",
+              "end": 91,
+              "expanded_url": "https://x.com/SDGVA23/status/2080713604706271350/photo/1",
+              "media_key": "3_2080713596695101440",
+              "start": 68,
+              "url": "https://t.co/TLbrVG2b8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080713604706271350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1812,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "I think the Pachinko part is one my fav items from my collection. 🥲 https://t.co/TLbrVG2b8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081179490663923712/SpuExlG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato.Vergil x OC since 2005 (not a selfship)🚫AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dragunova.rt",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dragunova.rt",
+                "start": 0,
+                "url": "https://t.co/fKBLp8L6HC"
+              }
+            ]
+          }
+        },
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 745,
+          "like_count": 82747,
+          "listed_count": 3,
+          "media_count": 3435,
+          "tweet_count": 16309
+        },
+        "url": "https://t.co/fKBLp8L6HC",
+        "username": "SDGVA23",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083572895364919371",
+    "created_at": "2026-08-01T15:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083572895364919371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/locationsare/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/locationsare/status/2083270696130454008",
+          "start": 8,
+          "url": "https://t.co/C593WW6AaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083572895364919371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083270696130454008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不然就没内存了 https://t.co/C593WW6AaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6082,
+        "height": 308,
+        "media_key": "13_2083270587342843904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083270587342843904/img/2KzBG2One5hIxnuM.jpg",
+        "public_metrics": {
+          "view_count": 118963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083270587342843904/vid/avc1/560x270/VhxOOxOf_qc5vk9n.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083270587342843904/vid/avc1/640x308/bi9doE3HcMpO6dcz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083270587342843904/pl/3UQGo4_K6l7qTNGA.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083572895364919371",
+        "created_at": "2026-08-01T15:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083572895364919371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/locationsare/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/locationsare/status/2083270696130454008",
+              "start": 8,
+              "url": "https://t.co/C593WW6AaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083572895364919371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083270696130454008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不然就没内存了 https://t.co/C593WW6AaV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083270587342843904"
+          ]
+        },
+        "author_id": "1362770976702873601",
+        "conversation_id": "2083270696130454008",
+        "created_at": "2026-07-31T19:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083270696130454008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYEvF777lE",
+              "end": 94,
+              "expanded_url": "https://x.com/locationsare/status/2083270696130454008/video/1",
+              "media_key": "13_2083270587342843904",
+              "start": 71,
+              "url": "https://t.co/LYEvF777lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083270696130454008",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1065,
+          "impression_count": 284851,
+          "like_count": 21527,
+          "quote_count": 138,
+          "reply_count": 34,
+          "retweet_count": 4680
+        },
+        "reply_settings": "everyone",
+        "text": "como me siento después de borrar el chat donde había toda una historia https://t.co/LYEvF777lE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 43,
+          "like_count": 759,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T14:28:29.000Z",
+        "description": "petal.",
+        "id": "1362770976702873601",
+        "name": "Saturn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082951432588668928/frprAop1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 415,
+          "like_count": 10461,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "locationsare",
+        "verified": false
+      }
+    ]
+  }
+}

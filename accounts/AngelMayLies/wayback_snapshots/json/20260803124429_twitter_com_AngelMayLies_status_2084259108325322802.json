@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084259108325322802",
+    "created_at": "2026-08-03T12:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084259108325322802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lun060530/stat…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/lun060530/status/2083877474849493156",
+          "start": 95,
+          "url": "https://t.co/6W98TLtIht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084259108325322802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083877474849493156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "医院之间差异大着呢，修骨折的材料很贵也很难搞，有的心软的就花点钱医院自己给救了，我之前待的那个宠医院看到那种很救不回来的都直接安乐死然后让我拿锹出去放点猫粮埋院里，但怎么说也至少死得不痛苦 https://t.co/6W98TLtIht"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_2083877472903245825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtrhU_WMAEeneJ.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084259108325322802",
+        "created_at": "2026-08-03T12:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084259108325322802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lun060530/stat…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/lun060530/status/2083877474849493156",
+              "start": 95,
+              "url": "https://t.co/6W98TLtIht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084259108325322802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083877474849493156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医院之间差异大着呢，修骨折的材料很贵也很难搞，有的心软的就花点钱医院自己给救了，我之前待的那个宠医院看到那种很救不回来的都直接安乐死然后让我拿锹出去放点猫粮埋院里，但怎么说也至少死得不痛苦 https://t.co/6W98TLtIht"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083877472903245825"
+          ]
+        },
+        "author_id": "2054893017946087424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083877474849493156",
+        "created_at": "2026-08-02T11:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083877474849493156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zugSSPaTTs",
+              "end": 29,
+              "expanded_url": "https://x.com/lun060530/status/2083877474849493156/photo/1",
+              "media_key": "3_2083877472903245825",
+              "start": 6,
+              "url": "https://t.co/zugSSPaTTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083877474849493156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 260196,
+          "like_count": 564,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "慨他人之慷 https://t.co/zugSSPaTTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜除了画不买任何东西",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 51,
+          "like_count": 1018,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T11:54:32.000Z",
+        "description": "互联网边角料收藏家｜有梗就发，有事就聊｜meme重度爱好者｜AI工具折腾户🌐｜偶尔研究搞钱和币圈｜专捡好玩、离谱、值得转发的东西",
+        "id": "2054893017946087424",
+        "name": "挽歌.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062024544186368/RoAZgJKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5362,
+          "following_count": 3608,
+          "like_count": 955,
+          "listed_count": 7,
+          "media_count": 1652,
+          "tweet_count": 4120
+        },
+        "url": "",
+        "username": "lun060530",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084141682401198436",
+    "created_at": "2026-08-03T05:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084142375635705933"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084142375635705933",
+    "in_reply_to_user_id": "2055376212751470593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084141682401198436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起，我当时一直处于一个无意识状态，所以我一直在抽烟和身体晃动🖐🏻️😔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27701,
+        "height": 1280,
+        "media_key": "7_2084141553346621440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084141553346621440/pu/img/dD1Fyy4vPGasgyGQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084141553346621440/pu/vid/avc1/320x568/QwWH1_RyFxGhTs2N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084141553346621440/pu/vid/avc1/480x852/gxYoszeO5-uvwBkm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084141553346621440/pu/vid/avc1/720x1280/1k10grRp0-wpsvNq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084141553346621440/pu/pl/FL844pXW0GWI3062.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 63878,
+        "height": 1280,
+        "media_key": "7_2084141576322981888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084141576322981888/pu/img/T7Y7pPbaQi9Hx6wL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084141576322981888/pu/vid/avc1/320x568/dzMNfV2cuokAdNuW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084141576322981888/pu/vid/avc1/480x852/FVtuBKHN2I7n9yID.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084141576322981888/pu/vid/avc1/720x1280/BXk0IlgjzSXAXLZu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084141576322981888/pu/pl/Td2FO27xYJRVyIVX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084141682401198436",
+        "created_at": "2026-08-03T05:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084142375635705933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084142375635705933",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084141682401198436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起，我当时一直处于一个无意识状态，所以我一直在抽烟和身体晃动🖐🏻️😔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084141553346621440",
+            "7_2084141576322981888"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084141682401198436",
+        "created_at": "2026-08-03T04:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084141682401198436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNpTCnLVY3",
+              "end": 47,
+              "expanded_url": "https://x.com/AngelMayLies/status/2084141682401198436/video/1",
+              "media_key": "7_2084141553346621440",
+              "start": 24,
+              "url": "https://t.co/sNpTCnLVY3"
+            },
+            {
+              "display_url": "pic.x.com/sNpTCnLVY3",
+              "end": 47,
+              "expanded_url": "https://x.com/AngelMayLies/status/2084141682401198436/video/1",
+              "media_key": "7_2084141576322981888",
+              "start": 24,
+              "url": "https://t.co/sNpTCnLVY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084141682401198436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次睡觉前的听歌视频\nJudas' death https://t.co/sNpTCnLVY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "相爱之人的诅咒𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 48,
+          "like_count": 943,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      }
+    ]
+  }
+}

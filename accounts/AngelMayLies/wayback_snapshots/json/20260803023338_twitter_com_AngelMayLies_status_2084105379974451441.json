@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2084105379974451441",
+    "created_at": "2026-08-03T02:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084105379974451441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jackingnapier/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jackingnapier/status/2079944986380902820",
+          "start": 10,
+          "url": "https://t.co/vxpdPiYPAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084105379974451441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079944986380902820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太对了，我现在！： https://t.co/vxpdPiYPAq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2084105379974451441",
+        "created_at": "2026-08-03T02:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084105379974451441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jackingnapier/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jackingnapier/status/2079944986380902820",
+              "start": 10,
+              "url": "https://t.co/vxpdPiYPAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084105379974451441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079944986380902820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太对了，我现在！： https://t.co/vxpdPiYPAq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626373088433655809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2079944986380902820",
+        "created_at": "2026-07-22T15:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079944986380902820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079944986380902820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5385,
+          "impression_count": 1112033,
+          "like_count": 21813,
+          "quote_count": 198,
+          "reply_count": 39,
+          "retweet_count": 2981
+        },
+        "reply_settings": "everyone",
+        "text": "STUDYING ART DOES NOT HAVE TO BE BORING 🗣🗣‼️‼️ recreate your favorite paintings so u can hang them in ur room!!!!!! draw the same guy ur obsessed with over and over!!!!!! copy the artstyle of your favorite franchise!!!!!! THATS HOW U IMPROVE!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕I my last account: @AV1O492 | it's fine tostay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 44,
+          "like_count": 881,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T00:09:07.000Z",
+        "description": "GEN 5 ENJOYER 🦄🌈✨️🧡💖  fallout & avatar enthusiast ☢️🔥 23 / any prns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkhamsinmate.carrd.co",
+                "end": 23,
+                "expanded_url": "https://arkhamsinmate.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/vzHKt9v7Sb"
+              }
+            ]
+          }
+        },
+        "id": "1626373088433655809",
+        "location": "dni pro/sh/ed🚫",
+        "name": "jester ☀️ TEAM COMEDY 🎭🔥",
+        "pinned_tweet_id": "2018035372844818516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774987464840495104/5r7U2NJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1260,
+          "like_count": 43569,
+          "listed_count": 10,
+          "media_count": 1760,
+          "tweet_count": 9761
+        },
+        "url": "https://t.co/vzHKt9v7Sb",
+        "username": "jackingnapier",
+        "verified": false
+      }
+    ]
+  }
+}

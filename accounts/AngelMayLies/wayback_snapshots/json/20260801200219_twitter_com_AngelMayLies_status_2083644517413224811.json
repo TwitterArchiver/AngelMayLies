@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083552572242341888"
+      ],
+      "media_source_tweet_id": [
+        "2083552579020374514"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2083644517413224811",
+    "created_at": "2026-08-01T20:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083644517413224811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "HELLSING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "818773441553649665",
+          "start": 3,
+          "username": "I_LOVE_WORKS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xc8QRd0eb",
+          "end": 54,
+          "expanded_url": "https://x.com/I_LOVE_WORKS/status/2083552579020374514/photo/1",
+          "media_key": "3_2083552572242341888",
+          "start": 31,
+          "url": "https://t.co/1xc8QRd0eb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083644517413224811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083552579020374514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I_LOVE_WORKS: 大尉\n#HELLSING https://t.co/1xc8QRd0eb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083552572242341888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpEBntbMAA6-Z2.jpg",
+        "width": 1751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083552572242341888"
+          ]
+        },
+        "author_id": "818773441553649665",
+        "conversation_id": "2083552579020374514",
+        "created_at": "2026-08-01T13:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083552579020374514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 3,
+              "tag": "HELLSING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xc8QRd0eb",
+              "end": 36,
+              "expanded_url": "https://x.com/I_LOVE_WORKS/status/2083552579020374514/photo/1",
+              "media_key": "3_2083552572242341888",
+              "start": 13,
+              "url": "https://t.co/1xc8QRd0eb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083552579020374514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 3968,
+          "like_count": 385,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "大尉\n#HELLSING https://t.co/1xc8QRd0eb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083552572242341888"
+          ],
+          "media_source_tweet_id": [
+            "2083552579020374514"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2083644517413224811",
+        "created_at": "2026-08-01T20:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083644517413224811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "HELLSING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "818773441553649665",
+              "start": 3,
+              "username": "I_LOVE_WORKS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xc8QRd0eb",
+              "end": 54,
+              "expanded_url": "https://x.com/I_LOVE_WORKS/status/2083552579020374514/photo/1",
+              "media_key": "3_2083552572242341888",
+              "start": 31,
+              "url": "https://t.co/1xc8QRd0eb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083644517413224811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083552579020374514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I_LOVE_WORKS: 大尉\n#HELLSING https://t.co/1xc8QRd0eb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️（不经常）｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 ｜my last account： @AV1O492｜it's fine to stay slay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "AV1O492"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 44,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-10T10:56:15.000Z",
+        "description": "МАКИАРЕЖЕС (マキアレゼス) | makiarezes@gmail.com",
+        "id": "818773441553649665",
+        "name": "MAKIAREGÉS",
+        "pinned_tweet_id": "1858900221625069807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062485936387354624/EArGRqtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12271,
+          "following_count": 787,
+          "like_count": 3251,
+          "listed_count": 44,
+          "media_count": 89,
+          "tweet_count": 2960
+        },
+        "url": "",
+        "username": "I_LOVE_WORKS",
+        "verified": false
+      }
+    ]
+  }
+}

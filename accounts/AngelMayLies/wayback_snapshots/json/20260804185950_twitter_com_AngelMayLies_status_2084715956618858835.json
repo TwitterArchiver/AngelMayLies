@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2084450501374971904"
+      ],
+      "media_source_tweet_id": [
+        "2084450563371004373"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084715956618858835",
+    "created_at": "2026-08-04T18:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084715956618858835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1464977259425632256",
+          "start": 3,
+          "username": "old_memory"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqcBphi8Sm",
+          "end": 39,
+          "expanded_url": "https://x.com/old_memory/status/2084450563371004373/video/1",
+          "media_key": "7_2084450501374971904",
+          "start": 16,
+          "url": "https://t.co/SqcBphi8Sm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084715956618858835",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084450563371004373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @old_memory: https://t.co/SqcBphi8Sm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48566,
+        "height": 576,
+        "media_key": "7_2084450501374971904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084450501374971904/pu/img/8T3WNNnttftW1wsI.jpg",
+        "public_metrics": {
+          "view_count": 17300
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084450501374971904/pu/vid/avc1/360x270/Kgz_Q2nh8jwjSEhK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084450501374971904/pu/vid/avc1/480x360/KgUVQwqjUkCzj6-U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084450501374971904/pu/vid/avc1/768x576/prSZXjOM6f4c574S.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084450501374971904/pu/pl/MK_hWz_vQkabcovy.m3u8?tag=12"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084450501374971904"
+          ]
+        },
+        "author_id": "1464977259425632256",
+        "conversation_id": "2084450563371004373",
+        "created_at": "2026-08-04T01:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084450563371004373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqcBphi8Sm",
+              "end": 23,
+              "expanded_url": "https://x.com/old_memory/status/2084450563371004373/video/1",
+              "media_key": "7_2084450501374971904",
+              "start": 0,
+              "url": "https://t.co/SqcBphi8Sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084450563371004373",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 43432,
+          "like_count": 1748,
+          "quote_count": 16,
+          "reply_count": 2,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SqcBphi8Sm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084450501374971904"
+          ],
+          "media_source_tweet_id": [
+            "2084450563371004373"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084715956618858835",
+        "created_at": "2026-08-04T18:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084715956618858835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1464977259425632256",
+              "start": 3,
+              "username": "old_memory"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqcBphi8Sm",
+              "end": 39,
+              "expanded_url": "https://x.com/old_memory/status/2084450563371004373/video/1",
+              "media_key": "7_2084450501374971904",
+              "start": 16,
+              "url": "https://t.co/SqcBphi8Sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084715956618858835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084450563371004373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @old_memory: https://t.co/SqcBphi8Sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 60,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T15:19:41.000Z",
+        "description": "unlocking memories about video games, anime and more.",
+        "id": "1464977259425632256",
+        "name": "old memory",
+        "pinned_tweet_id": "2072974888025866329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030390563652902912/AK5xOvXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168310,
+          "following_count": 1,
+          "like_count": 12,
+          "listed_count": 434,
+          "media_count": 3267,
+          "tweet_count": 3296
+        },
+        "url": "",
+        "username": "old_memory",
+        "verified": true
+      }
+    ]
+  }
+}

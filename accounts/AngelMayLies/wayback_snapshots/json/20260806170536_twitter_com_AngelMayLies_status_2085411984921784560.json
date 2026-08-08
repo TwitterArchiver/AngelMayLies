@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085137426624778241"
+      ],
+      "media_source_tweet_id": [
+        "2085137648104931426"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2085411984921784560",
+    "created_at": "2026-08-06T17:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085411984921784560"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 36,
+          "tag": "ResidentEvilㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925272548259827712",
+          "start": 3,
+          "username": "loveromenz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxgnWLCb5H",
+          "end": 74,
+          "expanded_url": "https://x.com/loveromenz/status/2085137648104931426/video/1",
+          "media_key": "13_2085137426624778241",
+          "start": 51,
+          "url": "https://t.co/uxgnWLCb5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085411984921784560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085137648104931426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveromenz: Wesker super human. #ResidentEvilㅤ https://t.co/uxgnWLCb5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11400,
+        "height": 1920,
+        "media_key": "13_2085137426624778241",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085137426624778241/img/V7ciuFZI3aAPe7l5.jpg",
+        "public_metrics": {
+          "view_count": 15725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085137426624778241/vid/avc1/1080x1920/SuH083pPeeaPyWey.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085137426624778241/pl/8FYQ4JsNmY4MqjS7.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085137426624778241/vid/avc1/480x852/lDUSPRqzJuFR6IKs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085137426624778241/vid/avc1/720x1280/kF-5kYoVeHzhlyLD.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085137426624778241/vid/avc1/320x568/QkcrRY_tPw_4JmFB.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085137426624778241"
+          ]
+        },
+        "author_id": "1925272548259827712",
+        "conversation_id": "2085137648104931426",
+        "created_at": "2026-08-05T22:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T23:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085137648104931426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 20,
+              "tag": "ResidentEvilㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxgnWLCb5H",
+              "end": 58,
+              "expanded_url": "https://x.com/loveromenz/status/2085137648104931426/video/1",
+              "media_key": "13_2085137426624778241",
+              "start": 35,
+              "url": "https://t.co/uxgnWLCb5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085137648104931426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 24170,
+          "like_count": 742,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "Wesker super human. #ResidentEvilㅤ https://t.co/uxgnWLCb5H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085137426624778241"
+          ],
+          "media_source_tweet_id": [
+            "2085137648104931426"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2085411984921784560",
+        "created_at": "2026-08-06T17:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085411984921784560"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 36,
+              "tag": "ResidentEvilㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925272548259827712",
+              "start": 3,
+              "username": "loveromenz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxgnWLCb5H",
+              "end": 74,
+              "expanded_url": "https://x.com/loveromenz/status/2085137648104931426/video/1",
+              "media_key": "13_2085137426624778241",
+              "start": 51,
+              "url": "https://t.co/uxgnWLCb5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085411984921784560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085137648104931426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveromenz: Wesker super human. #ResidentEvilㅤ https://t.co/uxgnWLCb5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 65,
+          "like_count": 1804,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T19:28:49.000Z",
+        "description": "shorts/reel account for my main @sakimenmen\nif I made you giggle with my work I'm satisfied.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "sakimenmen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/sakimenz",
+                "end": 23,
+                "expanded_url": "http://patreon.com/sakimenz",
+                "start": 0,
+                "url": "https://t.co/P9vZeXFdbd"
+              }
+            ]
+          }
+        },
+        "id": "1925272548259827712",
+        "location": "sakimenz",
+        "name": "loveromenz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962029591947595776/l1MbDBi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14479,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 6,
+          "media_count": 287,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/P9vZeXFdbd",
+        "username": "loveromenz",
+        "verified": true
+      }
+    ]
+  }
+}

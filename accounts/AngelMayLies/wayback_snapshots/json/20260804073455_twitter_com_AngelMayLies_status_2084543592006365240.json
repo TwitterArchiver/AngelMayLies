@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2084542609255813440",
+    "created_at": "2026-08-04T07:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084543592006365240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1679905283068555265",
+          "start": 0,
+          "username": "yuda8964"
+        },
+        {
+          "end": 24,
+          "id": "1730251057316737024",
+          "start": 10,
+          "username": "SRamirez66171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084543592006365240",
+    "in_reply_to_user_id": "1679905283068555265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084543148651602135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda8964 @SRamirez66171 还真是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084542609255813440",
+        "created_at": "2026-08-04T07:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084543592006365240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            },
+            {
+              "end": 24,
+              "id": "1730251057316737024",
+              "start": 10,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084543592006365240",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084543148651602135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 @SRamirez66171 还真是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084542609255813440",
+        "created_at": "2026-08-04T07:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084543148651602135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084543148651602135",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084542609255813440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 一个是不容易死  一个是绝命毒师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 53,
+          "like_count": 1063,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 179,
+          "like_count": 4494,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 230,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}
