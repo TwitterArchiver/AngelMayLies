@@ -1,0 +1,617 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089744639138111489",
+        "3_2089744639163330560"
+      ],
+      "media_source_tweet_id": [
+        "2089744653612679305",
+        "2089744653612679305"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2090064888869900785",
+    "created_at": "2026-08-19T13:14:35.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090064888869900785"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "duzzy"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "gnr"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8w7L3dwBOd",
+          "end": 64,
+          "expanded_url": "https://x.com/lin_dialog/status/2089744653612679305/photo/1",
+          "media_key": "3_2089744639138111489",
+          "start": 41,
+          "url": "https://t.co/8w7L3dwBOd"
+        },
+        {
+          "display_url": "pic.x.com/8w7L3dwBOd",
+          "end": 64,
+          "expanded_url": "https://x.com/lin_dialog/status/2089744653612679305/photo/1",
+          "media_key": "3_2089744639163330560",
+          "start": 41,
+          "url": "https://t.co/8w7L3dwBOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090064888869900785",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089744639138111489"
+      },
+      {
+        "media_key": "3_2089744639163330560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089744653612679305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 七夕特供💞duzzy性转\n#duzzy #gnr https://t.co/8w7L3dwBOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2089744639138111489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBDrWcaoAELN9d.jpg",
+        "width": 972
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2089744639163330560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBDrWibcAAklW8.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089744639138111489",
+            "3_2089744639163330560"
+          ],
+          "media_source_tweet_id": [
+            "2089744653612679305",
+            "2089744653612679305"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2090064888869900785",
+        "created_at": "2026-08-19T13:14:35.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090064888869900785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "duzzy"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "gnr"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8w7L3dwBOd",
+              "end": 64,
+              "expanded_url": "https://x.com/lin_dialog/status/2089744653612679305/photo/1",
+              "media_key": "3_2089744639138111489",
+              "start": 41,
+              "url": "https://t.co/8w7L3dwBOd"
+            },
+            {
+              "display_url": "pic.x.com/8w7L3dwBOd",
+              "end": 64,
+              "expanded_url": "https://x.com/lin_dialog/status/2089744653612679305/photo/1",
+              "media_key": "3_2089744639163330560",
+              "start": 41,
+              "url": "https://t.co/8w7L3dwBOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090064888869900785",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089744639138111489"
+          },
+          {
+            "media_key": "3_2089744639163330560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089744653612679305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 七夕特供💞duzzy性转\n#duzzy #gnr https://t.co/8w7L3dwBOd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089744639138111489",
+            "3_2089744639163330560"
+          ]
+        },
+        "author_id": "1974688655513096192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2089744653612679305",
+        "created_at": "2026-08-18T16:02:05.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089744653612679305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "duzzy"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "gnr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8w7L3dwBOd",
+              "end": 48,
+              "expanded_url": "https://x.com/lin_dialog/status/2089744653612679305/photo/1",
+              "media_key": "3_2089744639138111489",
+              "start": 25,
+              "url": "https://t.co/8w7L3dwBOd"
+            },
+            {
+              "display_url": "pic.x.com/8w7L3dwBOd",
+              "end": 48,
+              "expanded_url": "https://x.com/lin_dialog/status/2089744653612679305/photo/1",
+              "media_key": "3_2089744639163330560",
+              "start": 25,
+              "url": "https://t.co/8w7L3dwBOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089744653612679305",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089744639138111489"
+          },
+          {
+            "media_key": "3_2089744639163330560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕特供💞duzzy性转\n#duzzy #gnr https://t.co/8w7L3dwBOd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090064888869900785",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 77,
+          "like_count": 2778,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": ":可以叫我竹霖/霖，\nftx(概率使用男性代词) 无性恋/aegosexual\n左手酒瓶右手J，左脚踩右脚直接升天\n哲学&推理小说爱好者   安那其\n#GNR#dmc#cybpk偶尔 随缘产出 同人",
+        "id": "1974688655513096192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090004163996594317",
+        "name": "竹霖",
+        "pinned_tweet_id": "2034712622327898524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974688655513096192/1786720755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033542781080408065/SwlGhoGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 187,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 2993
+        },
+        "url": "",
+        "username": "lin_dialog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

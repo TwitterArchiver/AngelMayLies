@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089340616056668160"
+      ],
+      "media_source_tweet_id": [
+        "2089340623505805388"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089340680095359342",
+    "created_at": "2026-08-17T13:16:50.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089340680095359342"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014844239004442624",
+          "start": 3,
+          "username": "Lola_Scarlet_"
+        },
+        {
+          "end": 39,
+          "id": "2055376212751470593",
+          "start": 26,
+          "username": "AngelMayLies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lasmansmeM",
+          "end": 77,
+          "expanded_url": "https://x.com/Lola_Scarlet_/status/2089340623505805388/photo/1",
+          "media_key": "3_2089340616056668160",
+          "start": 54,
+          "url": "https://t.co/lasmansmeM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089340680095359342",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089340616056668160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089340623505805388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lola_Scarlet_: 最纯爱最浪漫 @AngelMayLies 他要我打 #drugtwt https://t.co/lasmansmeM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2089340616056668160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7UOHLagAAHNSh.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089340616056668160"
+          ],
+          "media_source_tweet_id": [
+            "2089340623505805388"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089340680095359342",
+        "created_at": "2026-08-17T13:16:50.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089340680095359342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014844239004442624",
+              "start": 3,
+              "username": "Lola_Scarlet_"
+            },
+            {
+              "end": 39,
+              "id": "2055376212751470593",
+              "start": 26,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lasmansmeM",
+              "end": 77,
+              "expanded_url": "https://x.com/Lola_Scarlet_/status/2089340623505805388/photo/1",
+              "media_key": "3_2089340616056668160",
+              "start": 54,
+              "url": "https://t.co/lasmansmeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089340680095359342",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089340616056668160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089340623505805388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lola_Scarlet_: 最纯爱最浪漫 @AngelMayLies 他要我打 #drugtwt https://t.co/lasmansmeM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089340616056668160"
+          ]
+        },
+        "author_id": "2014844239004442624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089340623505805388",
+        "created_at": "2026-08-17T13:16:37.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089340623505805388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2055376212751470593",
+              "start": 7,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lasmansmeM",
+              "end": 58,
+              "expanded_url": "https://x.com/Lola_Scarlet_/status/2089340623505805388/photo/1",
+              "media_key": "3_2089340616056668160",
+              "start": 35,
+              "url": "https://t.co/lasmansmeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089340623505805388",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089340616056668160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最纯爱最浪漫 @AngelMayLies 他要我打 #drugtwt https://t.co/lasmansmeM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2089340680095359342",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 78,
+          "like_count": 2747,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1280
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T23:34:57.000Z",
+        "description": "保持爱与和平直到AI智能将我们折磨",
+        "id": "2014844239004442624",
+        "is_identity_verified": false,
+        "location": "🌏",
+        "most_recent_tweet_id": "2089340623505805388",
+        "name": "LU",
+        "pinned_tweet_id": "2082717630474191193",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014844239004442624/1786314991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086580999580991488/UeElTAYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 28,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "Lola_Scarlet_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

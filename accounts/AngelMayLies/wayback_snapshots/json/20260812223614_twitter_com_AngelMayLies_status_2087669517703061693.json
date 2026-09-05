@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2087669517703061693",
+    "created_at": "2026-08-12T22:36:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T23:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087669517703061693"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 102,
+          "tag": "verlir"
+        },
+        {
+          "end": 117,
+          "start": 110,
+          "tag": "vergil"
+        },
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "lir"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "dmc"
+        },
+        {
+          "end": 134,
+          "start": 128,
+          "tag": "ocxcc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1981826222696144896",
+          "start": 3,
+          "username": "in_derpetuity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087669517703061693",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087666583439126853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in_derpetuity: My love, long gone,\nEternally mine,\nMay our souls meet again \nAt the end of time.\n\n#verlir #vergil #lir #dmc #ocxcc http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2496,
+        "media_key": "3_2087666577395093504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjhsPMXEAAgKGX.jpg",
+        "width": 1873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2087669517703061693",
+        "created_at": "2026-08-12T22:36:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087669517703061693"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "verlir"
+            },
+            {
+              "end": 117,
+              "start": 110,
+              "tag": "vergil"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "lir"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "dmc"
+            },
+            {
+              "end": 134,
+              "start": 128,
+              "tag": "ocxcc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1981826222696144896",
+              "start": 3,
+              "username": "in_derpetuity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087669517703061693",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087666583439126853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in_derpetuity: My love, long gone,\nEternally mine,\nMay our souls meet again \nAt the end of time.\n\n#verlir #vergil #lir #dmc #ocxcc http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087666577395093504"
+          ]
+        },
+        "author_id": "1981826222696144896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2087666583439126853",
+        "created_at": "2026-08-12T22:24:35.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087666583439126853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "verlir"
+            },
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "vergil"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "lir"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "dmc"
+            },
+            {
+              "end": 115,
+              "start": 109,
+              "tag": "ocxcc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwzIxeTpbE",
+              "end": 139,
+              "expanded_url": "https://x.com/in_derpetuity/status/2087666583439126853/photo/1",
+              "media_key": "3_2087666577395093504",
+              "start": 116,
+              "url": "https://t.co/FwzIxeTpbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087666583439126853",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087666577395093504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "My love, long gone,\nEternally mine,\nMay our souls meet again \nAt the end of time.\n\n#verlir #vergil #lir #dmc #ocxcc https://t.co/FwzIxeTpbE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087669517703061693",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 74,
+          "like_count": 2307,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1070
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-24T20:53:41.000Z",
+        "description": "31🩶\nArchive of all my fangirling~\nCreative sometimes :}",
+        "id": "1981826222696144896",
+        "is_identity_verified": false,
+        "location": "🤠",
+        "most_recent_tweet_id": "2087666583439126853",
+        "name": "Hydrazine_Heart",
+        "pinned_tweet_id": "2080789474984730692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981826222696144896/1774963871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029406241374515201/0zRWH7j2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 711,
+          "like_count": 13832,
+          "listed_count": 8,
+          "media_count": 661,
+          "tweet_count": 2846
+        },
+        "url": "",
+        "username": "in_derpetuity",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

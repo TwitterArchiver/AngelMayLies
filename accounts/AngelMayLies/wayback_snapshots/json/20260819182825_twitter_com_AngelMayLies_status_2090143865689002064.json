@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090141173243580664",
+    "created_at": "2026-08-19T18:28:25.000Z",
+    "display_text_range": [
+      15,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090143865689002064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764120054097195008",
+          "start": 0,
+          "username": "drug_twt_down"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090143865689002064",
+    "in_reply_to_user_id": "1764120054097195008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090143255396770002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_twt_down 看得清但是变不变形就是另一回事了、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090141173243580664",
+        "created_at": "2026-08-19T18:28:25.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090143865689002064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764120054097195008",
+              "start": 0,
+              "username": "drug_twt_down"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090143865689002064",
+        "in_reply_to_user_id": "1764120054097195008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090143255396770002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_twt_down 看得清但是变不变形就是另一回事了、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764120054097195008",
+        "conversation_id": "2090141173243580664",
+        "created_at": "2026-08-19T18:25:59.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090143255396770002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090143255396770002",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090141173243580664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 嗨大了你应该和我什么都看不清才对呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090143865689002064",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 77,
+          "like_count": 2836,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-03T02:46:22.000Z",
+        "description": "有没有人心疼我的疤，有没有人想听我的原神家庭，有没有人想看我的逼，活着悲伤，死去忧郁，我想笑了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bakps003",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bakps003",
+                "start": 0,
+                "url": "https://t.co/dpo6gVKfTC"
+              }
+            ]
+          }
+        },
+        "id": "1764120054097195008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090143255396770002",
+        "name": "前日本首相新川惠子",
+        "pinned_tweet_id": "2089039928772698186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764120054097195008/1786907596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089355867905015808/h7Q60gCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 85,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/dpo6gVKfTC",
+        "username": "drug_twt_down",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

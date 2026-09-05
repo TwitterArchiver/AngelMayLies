@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090853277537607680",
+        "3_2090853288509939712"
+      ],
+      "media_source_tweet_id": [
+        "2090853294025417177",
+        "2090853294025417177"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091078269215105335",
+    "created_at": "2026-08-22T08:21:24.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091078269215105335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982968143481012224",
+          "start": 3,
+          "username": "ml4motth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcQW9C4BfO",
+          "end": 121,
+          "expanded_url": "https://x.com/ml4motth/status/2090853294025417177/photo/1",
+          "media_key": "3_2090853277537607680",
+          "start": 98,
+          "url": "https://t.co/qcQW9C4BfO"
+        },
+        {
+          "display_url": "pic.x.com/qcQW9C4BfO",
+          "end": 121,
+          "expanded_url": "https://x.com/ml4motth/status/2090853294025417177/photo/1",
+          "media_key": "3_2090853288509939712",
+          "start": 98,
+          "url": "https://t.co/qcQW9C4BfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091078269215105335",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2090853277537607680"
+      },
+      {
+        "media_key": "3_2090853288509939712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 652
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090853294025417177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ml4motth: beijamdo meu namorado com a mao na minha própria cintura igual o julian casablancas https://t.co/qcQW9C4BfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2090853277537607680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQz-mUXIAApBqw.jpg",
+        "width": 900
+      },
+      {
+        "height": 801,
+        "media_key": "3_2090853288509939712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQz_PMXoAAPkoa.jpg",
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090853277537607680",
+            "3_2090853288509939712"
+          ],
+          "media_source_tweet_id": [
+            "2090853294025417177",
+            "2090853294025417177"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091078269215105335",
+        "created_at": "2026-08-22T08:21:24.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091078269215105335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1982968143481012224",
+              "start": 3,
+              "username": "ml4motth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcQW9C4BfO",
+              "end": 121,
+              "expanded_url": "https://x.com/ml4motth/status/2090853294025417177/photo/1",
+              "media_key": "3_2090853277537607680",
+              "start": 98,
+              "url": "https://t.co/qcQW9C4BfO"
+            },
+            {
+              "display_url": "pic.x.com/qcQW9C4BfO",
+              "end": 121,
+              "expanded_url": "https://x.com/ml4motth/status/2090853294025417177/photo/1",
+              "media_key": "3_2090853288509939712",
+              "start": 98,
+              "url": "https://t.co/qcQW9C4BfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091078269215105335",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090853277537607680"
+          },
+          {
+            "media_key": "3_2090853288509939712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 652
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090853294025417177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ml4motth: beijamdo meu namorado com a mao na minha própria cintura igual o julian casablancas https://t.co/qcQW9C4BfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090853277537607680",
+            "3_2090853288509939712"
+          ]
+        },
+        "author_id": "1982968143481012224",
+        "conversation_id": "2090853294025417177",
+        "created_at": "2026-08-21T17:27:26.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090853294025417177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcQW9C4BfO",
+              "end": 107,
+              "expanded_url": "https://x.com/ml4motth/status/2090853294025417177/photo/1",
+              "media_key": "3_2090853277537607680",
+              "start": 84,
+              "url": "https://t.co/qcQW9C4BfO"
+            },
+            {
+              "display_url": "pic.x.com/qcQW9C4BfO",
+              "end": 107,
+              "expanded_url": "https://x.com/ml4motth/status/2090853294025417177/photo/1",
+              "media_key": "3_2090853288509939712",
+              "start": 84,
+              "url": "https://t.co/qcQW9C4BfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090853294025417177",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090853277537607680"
+          },
+          {
+            "media_key": "3_2090853288509939712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1187,
+          "impression_count": 315926,
+          "like_count": 24012,
+          "quote_count": 189,
+          "reply_count": 36,
+          "retweet_count": 652
+        },
+        "reply_settings": "everyone",
+        "text": "beijamdo meu namorado com a mao na minha própria cintura igual o julian casablancas https://t.co/qcQW9C4BfO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2091078269215105335",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090735505453568000/YduFkUmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 77,
+          "like_count": 3043,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-28T00:30:59.000Z",
+        "description": "é a kami",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ml4motth?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ml4motth?igsh=MnQzaDhuOTdnenVj",
+                "start": 0,
+                "url": "https://t.co/Har6BooX3U"
+              }
+            ]
+          }
+        },
+        "id": "1982968143481012224",
+        "is_identity_verified": false,
+        "location": "satan andre",
+        "most_recent_tweet_id": "2091074979022393622",
+        "name": "kami heitora🇾🇪",
+        "pinned_tweet_id": "2036247158089773563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982968143481012224/1761614455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089564631790403585/Kz4h5gCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 65,
+          "like_count": 4065,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2675
+        },
+        "url": "https://t.co/Har6BooX3U",
+        "username": "ml4motth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

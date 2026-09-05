@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090507780465549312"
+      ],
+      "media_source_tweet_id": [
+        "2090507790150242746"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090719292291784828",
+    "created_at": "2026-08-21T08:34:57.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090719292291784828"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "MGR"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823376781329534976",
+          "start": 3,
+          "username": "Miako120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/noxOZJNZGz",
+          "end": 42,
+          "expanded_url": "https://x.com/Miako120/status/2090507790150242746/photo/1",
+          "media_key": "3_2090507780465549312",
+          "start": 19,
+          "url": "https://t.co/noxOZJNZGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090719292291784828",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090507780465549312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 355
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090507790150242746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miako120: #MGR https://t.co/noxOZJNZGz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3212,
+        "media_key": "3_2090507780465549312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQL5wBbW4AA5_PC.jpg",
+        "width": 2030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090507780465549312"
+          ],
+          "media_source_tweet_id": [
+            "2090507790150242746"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090719292291784828",
+        "created_at": "2026-08-21T08:34:57.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090719292291784828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "MGR"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823376781329534976",
+              "start": 3,
+              "username": "Miako120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/noxOZJNZGz",
+              "end": 42,
+              "expanded_url": "https://x.com/Miako120/status/2090507790150242746/photo/1",
+              "media_key": "3_2090507780465549312",
+              "start": 19,
+              "url": "https://t.co/noxOZJNZGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090719292291784828",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090507780465549312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 355
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090507790150242746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miako120: #MGR https://t.co/noxOZJNZGz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090507780465549312"
+          ]
+        },
+        "author_id": "1823376781329534976",
+        "conversation_id": "2090507790150242746",
+        "created_at": "2026-08-20T18:34:31.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090507790150242746"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "MGR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/noxOZJNZGz",
+              "end": 28,
+              "expanded_url": "https://x.com/Miako120/status/2090507790150242746/photo/1",
+              "media_key": "3_2090507780465549312",
+              "start": 5,
+              "url": "https://t.co/noxOZJNZGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090507790150242746",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090507780465549312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 14380,
+          "like_count": 2159,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 355
+        },
+        "reply_settings": "everyone",
+        "text": "#MGR https://t.co/noxOZJNZGz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090719292291784828",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090702406304858112/Xhyy3FKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 77,
+          "like_count": 2935,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1380
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T15:12:32.000Z",
+        "description": "Trying to draw | commission open | https://t.co/tZB9zHwqdx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miako1200.carrd.co",
+                "end": 58,
+                "expanded_url": "https://miako1200.carrd.co/",
+                "start": 35,
+                "url": "https://t.co/tZB9zHwqdx"
+              }
+            ]
+          }
+        },
+        "id": "1823376781329534976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090507790150242746",
+        "name": "Miako120",
+        "pinned_tweet_id": "2083579144290369991",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823376781329534976/1742719002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823377103200436224/dJb5ITYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 120,
+          "like_count": 1136,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "Miako120",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

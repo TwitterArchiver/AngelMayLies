@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1634252156348801024"
+      ],
+      "media_source_tweet_id": [
+        "1634252600961802241"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092190474409046328",
+    "created_at": "2026-08-25T10:00:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092190474409046328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1428131754536226817",
+          "start": 3,
+          "username": "adoradorademilf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5pw7zTeIm",
+          "end": 140,
+          "expanded_url": "https://x.com/benheta/status/1634252600961802241/video/1",
+          "media_key": "7_1634252156348801024",
+          "start": 117,
+          "url": "https://t.co/A5pw7zTeIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092190474409046328",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "7_1634252156348801024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091530298672525480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adoradorademilf: quando um gay aleatório te para no meio da festa toca no seu rosto e fala: “você é muito linda” https://t.co/A5pw7zTeIm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71499,
+        "height": 720,
+        "media_key": "7_1634252156348801024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1634252156348801024/pu/img/jz-WHj357nQcEtE3.jpg",
+        "public_metrics": {
+          "view_count": 3113735
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1634252156348801024/pu/vid/342x270/Z1dvuDsUz_zsjMC2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1634252156348801024/pu/vid/456x360/U79IjUjXMYeMDS51.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1634252156348801024/pu/vid/912x720/BsIOmCRfJbaimWpr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1634252156348801024/pu/pl/bGbdp8_TAMpCO6CW.m3u8?tag=12"
+          }
+        ],
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1634252156348801024"
+          ],
+          "media_source_tweet_id": [
+            "1634252600961802241"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092190474409046328",
+        "created_at": "2026-08-25T10:00:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092190474409046328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1428131754536226817",
+              "start": 3,
+              "username": "adoradorademilf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5pw7zTeIm",
+              "end": 140,
+              "expanded_url": "https://x.com/benheta/status/1634252600961802241/video/1",
+              "media_key": "7_1634252156348801024",
+              "start": 117,
+              "url": "https://t.co/A5pw7zTeIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092190474409046328",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1634252156348801024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091530298672525480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adoradorademilf: quando um gay aleatório te para no meio da festa toca no seu rosto e fala: “você é muito linda” https://t.co/A5pw7zTeIm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1634252156348801024"
+          ],
+          "media_source_tweet_id": [
+            "1634252600961802241"
+          ]
+        },
+        "author_id": "1428131754536226817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091530298672525480",
+        "created_at": "2026-08-23T14:17:36.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091530298672525480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5pw7zTeIm",
+              "end": 119,
+              "expanded_url": "https://x.com/benheta/status/1634252600961802241/video/1",
+              "media_key": "7_1634252156348801024",
+              "start": 96,
+              "url": "https://t.co/A5pw7zTeIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091530298672525480",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1634252156348801024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1587,
+          "impression_count": 808761,
+          "like_count": 50868,
+          "quote_count": 1721,
+          "reply_count": 222,
+          "retweet_count": 10124
+        },
+        "reply_settings": "everyone",
+        "text": "quando um gay aleatório te para no meio da festa toca no seu rosto e fala: “você é muito linda” https://t.co/A5pw7zTeIm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1634252156348801024"
+          ]
+        },
+        "author_id": "1174283347423576065",
+        "conversation_id": "1634252600961802241",
+        "created_at": "2023-03-10T17:59:17.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2023-03-10T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1634252600961802241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 65,
+              "tag": "cobraselagartos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/93lgxP1R57",
+              "end": 105,
+              "expanded_url": "https://x.com/benheta/status/1634252600961802241/video/1",
+              "media_key": "7_1634252156348801024",
+              "start": 82,
+              "url": "https://t.co/93lgxP1R57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1634252600961802241",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1634252156348801024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1209,
+          "impression_count": 541839,
+          "like_count": 331,
+          "quote_count": 15,
+          "reply_count": 14,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "só essa cen surra a vingança da bel e das outras mocinhas do jec #cobraselagartos https://t.co/93lgxP1R57"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092190474409046328",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 88,
+          "like_count": 3807,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-18T23:08:49.000Z",
+        "description": "cheiro de hello kitty baby colônia e camel amarelo",
+        "id": "1428131754536226817",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092045508437016623",
+        "name": "bibi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428131754536226817/1756751858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740211274133221376/GbeyDxNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 225,
+          "like_count": 14998,
+          "listed_count": 0,
+          "media_count": 1607,
+          "tweet_count": 10925
+        },
+        "url": "",
+        "username": "adoradorademilf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

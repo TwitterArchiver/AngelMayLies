@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086495369857474560"
+      ],
+      "media_source_tweet_id": [
+        "2086495423636951551"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091180580713173184",
+    "created_at": "2026-08-22T15:07:57.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091180580713173184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055376212751470593",
+          "start": 3,
+          "username": "AngelMayLies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYNrZpgg6p",
+          "end": 48,
+          "expanded_url": "https://x.com/AngelMayLies/status/2086495423636951551/photo/1",
+          "media_key": "3_2086495369857474560",
+          "start": 25,
+          "url": "https://t.co/nYNrZpgg6p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091180580713173184",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086495369857474560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086495423636951551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelMayLies: 大毒枭落网： https://t.co/nYNrZpgg6p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2086495369857474560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS4e_HaIAA3pE6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086495369857474560"
+          ],
+          "media_source_tweet_id": [
+            "2086495423636951551"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091180580713173184",
+        "created_at": "2026-08-22T15:07:57.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091180580713173184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055376212751470593",
+              "start": 3,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYNrZpgg6p",
+              "end": 48,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086495423636951551/photo/1",
+              "media_key": "3_2086495369857474560",
+              "start": 25,
+              "url": "https://t.co/nYNrZpgg6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091180580713173184",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086495369857474560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086495423636951551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelMayLies: 大毒枭落网： https://t.co/nYNrZpgg6p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086495369857474560"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2086495423636951551",
+        "created_at": "2026-08-09T16:50:48.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086495423636951551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYNrZpgg6p",
+              "end": 30,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086495423636951551/photo/1",
+              "media_key": "3_2086495369857474560",
+              "start": 7,
+              "url": "https://t.co/nYNrZpgg6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086495423636951551",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086495369857474560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 83988,
+          "like_count": 340,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大毒枭落网： https://t.co/nYNrZpgg6p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2091180580713173184",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091104926353248256/gqmNp0VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 81,
+          "like_count": 3191,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

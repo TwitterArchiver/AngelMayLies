@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091114190056645104",
+    "created_at": "2026-08-22T10:44:08.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091114190056645104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QuimeraVermelh…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/QuimeraVermelha/status/2090818902292828663",
+          "start": 11,
+          "url": "https://t.co/4F8g84WfP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091114190056645104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090818902292828663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "omg slay…… https://t.co/4F8g84WfP4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090818881052925952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQUsdbW4AAcZkj.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090818881078132738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQUsdhXgAISFD2.jpg",
+        "width": 1682
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090818881073946624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQUsdgXoAAk_1N.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090818881073848320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQUsdgWIAA-vuN.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091114190056645104",
+        "created_at": "2026-08-22T10:44:08.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091114190056645104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QuimeraVermelh…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/QuimeraVermelha/status/2090818902292828663",
+              "start": 11,
+              "url": "https://t.co/4F8g84WfP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091114190056645104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090818902292828663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "omg slay…… https://t.co/4F8g84WfP4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090818881052925952",
+            "3_2090818881078132738",
+            "3_2090818881073946624",
+            "3_2090818881073848320"
+          ]
+        },
+        "author_id": "1621527786",
+        "conversation_id": "2090818902292828663",
+        "created_at": "2026-08-21T15:10:46.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090818902292828663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wndKrQlPFP",
+              "end": 92,
+              "expanded_url": "https://x.com/QuimeraVermelha/status/2090818902292828663/photo/1",
+              "media_key": "3_2090818881052925952",
+              "start": 69,
+              "url": "https://t.co/wndKrQlPFP"
+            },
+            {
+              "display_url": "pic.x.com/wndKrQlPFP",
+              "end": 92,
+              "expanded_url": "https://x.com/QuimeraVermelha/status/2090818902292828663/photo/1",
+              "media_key": "3_2090818881078132738",
+              "start": 69,
+              "url": "https://t.co/wndKrQlPFP"
+            },
+            {
+              "display_url": "pic.x.com/wndKrQlPFP",
+              "end": 92,
+              "expanded_url": "https://x.com/QuimeraVermelha/status/2090818902292828663/photo/1",
+              "media_key": "3_2090818881073946624",
+              "start": 69,
+              "url": "https://t.co/wndKrQlPFP"
+            },
+            {
+              "display_url": "pic.x.com/wndKrQlPFP",
+              "end": 92,
+              "expanded_url": "https://x.com/QuimeraVermelha/status/2090818902292828663/photo/1",
+              "media_key": "3_2090818881073848320",
+              "start": 69,
+              "url": "https://t.co/wndKrQlPFP"
+            },
+            {
+              "display_url": "x.com/valyanarts/sta…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/valyanarts/status/2090683007556325835",
+              "start": 93,
+              "url": "https://t.co/0VzV7JddHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090818902292828663",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090818881052925952"
+          },
+          {
+            "media_key": "3_2090818881078132738"
+          },
+          {
+            "media_key": "3_2090818881073946624"
+          },
+          {
+            "media_key": "3_2090818881073848320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2321,
+          "impression_count": 1102523,
+          "like_count": 23183,
+          "quote_count": 60,
+          "reply_count": 3,
+          "retweet_count": 1043
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090683007556325835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "Hi my name is Quimera! \nYou’ve doom scrolled your way my art. Enjoy! https://t.co/wndKrQlPFP https://t.co/0VzV7JddHm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2091114190056645104",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091104926353248256/gqmNp0VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 78,
+          "like_count": 3104,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1471
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-25T23:47:26.000Z",
+        "description": "⚧️ NB 🦇Digital and Tatto Artist.\nSão Paulo.\n#neverAI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 44,
+                "tag": "neverAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "quimeravermelha.com",
+                "end": 23,
+                "expanded_url": "https://www.quimeravermelha.com",
+                "start": 0,
+                "url": "https://t.co/5Oj12Sx1R1"
+              }
+            ]
+          }
+        },
+        "id": "1621527786",
+        "is_identity_verified": false,
+        "location": " Brasil",
+        "most_recent_tweet_id": "2091013488000766071",
+        "name": "QUIMERA",
+        "pinned_tweet_id": "2090818902292828663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621527786/1785353330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088477873673842688/7HE-1wxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45465,
+          "following_count": 939,
+          "like_count": 118993,
+          "listed_count": 66,
+          "media_count": 10404,
+          "tweet_count": 68164
+        },
+        "url": "https://t.co/5Oj12Sx1R1",
+        "username": "QuimeraVermelha",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

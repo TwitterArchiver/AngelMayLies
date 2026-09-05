@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087948140506693632"
+      ],
+      "media_source_tweet_id": [
+        "2087948146336821319"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088042518919496104",
+    "created_at": "2026-08-13T23:18:25.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088042518919496104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "855172820875309056",
+          "start": 3,
+          "username": "MetalwoContext"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BB3myApcAS",
+          "end": 43,
+          "expanded_url": "https://x.com/MetalwoContext/status/2087948146336821319/photo/1",
+          "media_key": "3_2087948140506693632",
+          "start": 20,
+          "url": "https://t.co/BB3myApcAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088042518919496104",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087948140506693632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087948146336821319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MetalwoContext: https://t.co/BB3myApcAS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2087948140506693632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnhxXhWwAAe4jt.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087948140506693632"
+          ]
+        },
+        "author_id": "855172820875309056",
+        "conversation_id": "2087948146336821319",
+        "created_at": "2026-08-13T17:03:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087948146336821319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BB3myApcAS",
+              "end": 23,
+              "expanded_url": "https://x.com/MetalwoContext/status/2087948146336821319/photo/1",
+              "media_key": "3_2087948140506693632",
+              "start": 0,
+              "url": "https://t.co/BB3myApcAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087948146336821319",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087948140506693632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 519,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BB3myApcAS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087948140506693632"
+          ],
+          "media_source_tweet_id": [
+            "2087948146336821319"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088042518919496104",
+        "created_at": "2026-08-13T23:18:25.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088042518919496104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "855172820875309056",
+              "start": 3,
+              "username": "MetalwoContext"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BB3myApcAS",
+              "end": 43,
+              "expanded_url": "https://x.com/MetalwoContext/status/2087948146336821319/photo/1",
+              "media_key": "3_2087948140506693632",
+              "start": 20,
+              "url": "https://t.co/BB3myApcAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088042518919496104",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087948140506693632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087948146336821319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MetalwoContext: https://t.co/BB3myApcAS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088042518919496104",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 76,
+          "like_count": 2476,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1156
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-20T21:34:23.000Z",
+        "description": "Pictures, gifs, and videos from the metal world presented without context. Instagram: MetalWithoutContext",
+        "id": "855172820875309056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087948146336821319",
+        "name": "Metal Without Context",
+        "pinned_tweet_id": "1692586479187288375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/855172820875309056/1623528478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/855174475246993408/i36NiWPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13548,
+          "following_count": 108,
+          "like_count": 401,
+          "listed_count": 56,
+          "media_count": 9206,
+          "tweet_count": 9532
+        },
+        "url": "",
+        "username": "MetalwoContext",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

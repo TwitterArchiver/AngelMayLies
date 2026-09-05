@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092094734454100000",
+    "created_at": "2026-08-25T03:40:28.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T04:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092094734454100000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Isolation8964/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Isolation8964/status/2091733382715887650",
+          "start": 31,
+          "url": "https://t.co/ZVpTlzwKOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092094734454100000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091733382715887650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中推圈的号被封麻了\n推特AI封号封爽了\n马斯克的奶子也涨疼了 https://t.co/ZVpTlzwKOZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091708565832810496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQc927gbQAAQxVn.jpg",
+        "width": 803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092094734454100000",
+        "created_at": "2026-08-25T03:40:28.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092094734454100000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Isolation8964/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Isolation8964/status/2091733382715887650",
+              "start": 31,
+              "url": "https://t.co/ZVpTlzwKOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092094734454100000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091733382715887650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中推圈的号被封麻了\n推特AI封号封爽了\n马斯克的奶子也涨疼了 https://t.co/ZVpTlzwKOZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091708565832810496"
+          ]
+        },
+        "author_id": "1972497129550860288",
+        "conversation_id": "2091733382715887650",
+        "created_at": "2026-08-24T03:44:35.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T04:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091733382715887650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3GUoEwuX2",
+              "end": 32,
+              "expanded_url": "https://x.com/Isolation8964/status/2091733382715887650/photo/1",
+              "media_key": "3_2091708565832810496",
+              "start": 9,
+              "url": "https://t.co/I3GUoEwuX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091733382715887650",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091708565832810496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 94424,
+          "like_count": 1542,
+          "quote_count": 28,
+          "reply_count": 290,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "来看马斯克的奶子 https://t.co/I3GUoEwuX2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092094734454100000",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 87,
+          "like_count": 3756,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1882
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "查成分fo|INTP-A|CN/TW/EN|什么都发|友跨非跨|自由主义|音游人|C-PTSD|生活健全\n能拥抱文明 能批判野蛮 / 永远与霸凌敌对\nAsk: https://t.co/mUxacbCW24\nOtherX:@Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 103,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 80,
+                "url": "https://t.co/mUxacbCW24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInGWdc"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2092088325096276272",
+        "name": "𝓘𝓼𝓸.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050975410301849600/VTYUpb2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 135,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/lEYNInGWdc",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

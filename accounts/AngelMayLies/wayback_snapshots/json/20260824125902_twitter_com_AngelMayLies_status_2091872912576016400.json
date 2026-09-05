@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2091647557294264321"
+      ],
+      "media_source_tweet_id": [
+        "2091647644502216828"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2091872912576016400",
+    "created_at": "2026-08-24T12:59:02.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091872912576016400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "131722229",
+          "start": 3,
+          "username": "FroggyTonicRedo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tghjZ9fkj6",
+          "end": 76,
+          "expanded_url": "https://x.com/FroggyTonicRedo/status/2091647644502216828/photo/1",
+          "media_key": "16_2091647557294264321",
+          "start": 53,
+          "url": "https://t.co/tghjZ9fkj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091872912576016400",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2091647557294264321"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091647644502216828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FroggyTonicRedo: Wait, Mr President, who's that? https://t.co/tghjZ9fkj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_2091647557294264321",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQcGXw_WkAEnCA2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQcGXw_WkAEnCA2.mp4"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091647557294264321"
+          ],
+          "media_source_tweet_id": [
+            "2091647644502216828"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2091872912576016400",
+        "created_at": "2026-08-24T12:59:02.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091872912576016400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "131722229",
+              "start": 3,
+              "username": "FroggyTonicRedo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tghjZ9fkj6",
+              "end": 76,
+              "expanded_url": "https://x.com/FroggyTonicRedo/status/2091647644502216828/photo/1",
+              "media_key": "16_2091647557294264321",
+              "start": 53,
+              "url": "https://t.co/tghjZ9fkj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091872912576016400",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2091647557294264321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091647644502216828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FroggyTonicRedo: Wait, Mr President, who's that? https://t.co/tghjZ9fkj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091647557294264321"
+          ]
+        },
+        "author_id": "131722229",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2091647644502216828",
+        "created_at": "2026-08-23T22:03:54.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T23:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091647644502216828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tghjZ9fkj6",
+              "end": 55,
+              "expanded_url": "https://x.com/FroggyTonicRedo/status/2091647644502216828/photo/1",
+              "media_key": "16_2091647557294264321",
+              "start": 32,
+              "url": "https://t.co/tghjZ9fkj6"
+            },
+            {
+              "display_url": "x.com/RoseBensonDC/s…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/RoseBensonDC/status/2091586072568311869",
+              "start": 56,
+              "url": "https://t.co/a4H3QmQWrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091647644502216828",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2091647557294264321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4952,
+          "impression_count": 3225234,
+          "like_count": 162364,
+          "quote_count": 91,
+          "reply_count": 142,
+          "retweet_count": 12361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091586072568311869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Wait, Mr President, who's that? https://t.co/tghjZ9fkj6 https://t.co/a4H3QmQWrj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091872912576016400",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 83,
+          "like_count": 3651,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1814
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-11T03:59:57.000Z",
+        "description": "",
+        "id": "131722229",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091843018064019653",
+        "name": "Froggy Tonic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131722229/1755479878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980602538240933888/y_N9qZgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 616,
+          "like_count": 1434,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "FroggyTonicRedo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

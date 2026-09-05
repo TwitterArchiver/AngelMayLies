@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041287240748314624"
+      ],
+      "media_source_tweet_id": [
+        "2041287305013477630"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091670717343703503",
+    "created_at": "2026-08-23T23:35:35.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T00:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091670717343703503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876990317725184000",
+          "start": 3,
+          "username": "gabyforeveer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lnEKvFXOsX",
+          "end": 102,
+          "expanded_url": "https://x.com/patixacervo/status/2041287305013477630/video/1?s=46",
+          "media_key": "13_2041287240748314624",
+          "start": 79,
+          "url": "https://t.co/lnEKvFXOsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091670717343703503",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2041287240748314624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2599
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091539667023753231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gabyforeveer: ai que saudade daquela fanfic que nunca mais foi atualizada  https://t.co/lnEKvFXOsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20532,
+        "height": 790,
+        "media_key": "13_2041287240748314624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041287240748314624/img/hkptnAYY6yr6iq6Q.jpg",
+        "public_metrics": {
+          "view_count": 5421699
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041287240748314624/vid/avc1/320x350/dAGZ2gaC7G69K19X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041287240748314624/vid/avc1/480x526/3GlZyQgnI_f1-hEQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041287240748314624/vid/avc1/720x790/dDPdHIyMlpvxuSXD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041287240748314624/pl/lW5RaLQZ1M0WfyKF.m3u8?v=bd6"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041287240748314624"
+          ],
+          "media_source_tweet_id": [
+            "2041287305013477630"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091670717343703503",
+        "created_at": "2026-08-23T23:35:35.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T00:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091670717343703503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876990317725184000",
+              "start": 3,
+              "username": "gabyforeveer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnEKvFXOsX",
+              "end": 102,
+              "expanded_url": "https://x.com/patixacervo/status/2041287305013477630/video/1?s=46",
+              "media_key": "13_2041287240748314624",
+              "start": 79,
+              "url": "https://t.co/lnEKvFXOsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091670717343703503",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2041287240748314624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2599
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091539667023753231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gabyforeveer: ai que saudade daquela fanfic que nunca mais foi atualizada  https://t.co/lnEKvFXOsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041287240748314624"
+          ],
+          "media_source_tweet_id": [
+            "2041287305013477630"
+          ]
+        },
+        "author_id": "1876990317725184000",
+        "conversation_id": "2091539667023753231",
+        "created_at": "2026-08-23T14:54:50.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091539667023753231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnEKvFXOsX",
+              "end": 84,
+              "expanded_url": "https://x.com/patixacervo/status/2041287305013477630/video/1?s=46",
+              "media_key": "13_2041287240748314624",
+              "start": 61,
+              "url": "https://t.co/lnEKvFXOsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091539667023753231",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2041287240748314624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 69308,
+          "like_count": 8035,
+          "quote_count": 368,
+          "reply_count": 67,
+          "retweet_count": 2599
+        },
+        "reply_settings": "everyone",
+        "text": "ai que saudade daquela fanfic que nunca mais foi atualizada  https://t.co/lnEKvFXOsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041287240748314624"
+          ]
+        },
+        "author_id": "1890572298890969088",
+        "conversation_id": "2041287305013477630",
+        "created_at": "2026-04-06T22:49:53.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041287305013477630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pw7mRLBIJL",
+              "end": 108,
+              "expanded_url": "https://x.com/patixacervo/status/2041287305013477630/video/1",
+              "media_key": "13_2041287240748314624",
+              "start": 85,
+              "url": "https://t.co/pw7mRLBIJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041287305013477630",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2041287240748314624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2368,
+          "impression_count": 3302512,
+          "like_count": 1185,
+          "quote_count": 25,
+          "reply_count": 9,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "patixa teló chorando emocionada com seu fone de ouvido no avião ao som de wildflower https://t.co/pw7mRLBIJL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091670717343703503",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 84,
+          "like_count": 3605,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1793
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-08T13:52:59.000Z",
+        "description": "𓍼multifandom porque a vida é mais bonita sendo fã 𓍼",
+        "id": "1876990317725184000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091654489597989204",
+        "name": "mah",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876990317725184000/1787239822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062211359849230336/Q_lvmVrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 309,
+          "like_count": 7377,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 10042
+        },
+        "url": "",
+        "username": "gabyforeveer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089731543006613504",
+          "name": "test (us,en)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732538029793280",
+          "name": "test (other,en)"
+        }
+      }
+    ],
+    "conversation_id": "2090204554063384966",
+    "created_at": "2026-08-19T22:29:34.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T23:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090204554063384966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 86,
+          "id": "868831876315848705",
+          "start": 77,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "DMC Test",
+          "display_url": "idrlabs.com/devil-may-cry/…",
+          "end": 72,
+          "expanded_url": "https://www.idrlabs.com/devil-may-cry/100-65-100-80-45-60-100-75/result.php",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2090204555317538816/DDq075Mb?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2090204555317538816/DDq075Mb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "DMC Test: I am tied between multiple characters.",
+          "unwound_url": "https://www.idrlabs.com/devil-may-cry/100-65-100-80-45-60-100-75/result.php",
+          "url": "https://t.co/XIjhqZ8kqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090204554063384966",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DMC Test: I am tied between multiple characters. https://t.co/XIjhqZ8kqG via @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2090204554063384966",
+        "created_at": "2026-08-19T22:29:34.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090204554063384966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "868831876315848705",
+              "start": 77,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "DMC Test",
+              "display_url": "idrlabs.com/devil-may-cry/…",
+              "end": 72,
+              "expanded_url": "https://www.idrlabs.com/devil-may-cry/100-65-100-80-45-60-100-75/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2090204555317538816/DDq075Mb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090204555317538816/DDq075Mb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "DMC Test: I am tied between multiple characters.",
+              "unwound_url": "https://www.idrlabs.com/devil-may-cry/100-65-100-80-45-60-100-75/result.php",
+              "url": "https://t.co/XIjhqZ8kqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090204554063384966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DMC Test: I am tied between multiple characters. https://t.co/XIjhqZ8kqG via @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090204554063384966",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 77,
+          "like_count": 2860,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088413006296133744",
+        "name": "IDRlabs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/868831876315848705/1519302772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9617,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 39,
+          "media_count": 19,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

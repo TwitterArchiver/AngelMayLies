@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090239358171578518",
+    "created_at": "2026-08-20T00:47:52.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T01:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090239358171578518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lola_Scarlet_/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Lola_Scarlet_/status/2090239239946658234",
+          "start": 8,
+          "url": "https://t.co/gcHqmrgR39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090239358171578518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090239239946658234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有公路旅行？ https://t.co/gcHqmrgR39"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090239358171578518",
+        "created_at": "2026-08-20T00:47:52.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090239358171578518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lola_Scarlet_/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Lola_Scarlet_/status/2090239239946658234",
+              "start": 8,
+              "url": "https://t.co/gcHqmrgR39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090239358171578518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090239239946658234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有公路旅行？ https://t.co/gcHqmrgR39"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014844239004442624",
+        "conversation_id": "2090238942385996192",
+        "created_at": "2026-08-20T00:47:24.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090239239946658234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090239239946658234",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090238942385996192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 打电话并不代表在场现在无证驾驶过来快点快点！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090239358171578518",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 77,
+          "like_count": 2875,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T23:34:57.000Z",
+        "description": "保持爱与和平直到AI智能将我们折磨",
+        "id": "2014844239004442624",
+        "is_identity_verified": false,
+        "location": "🌏",
+        "most_recent_tweet_id": "2090239239946658234",
+        "name": "LU",
+        "pinned_tweet_id": "2082717630474191193",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014844239004442624/1786314991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086580999580991488/UeElTAYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 29,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "Lola_Scarlet_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

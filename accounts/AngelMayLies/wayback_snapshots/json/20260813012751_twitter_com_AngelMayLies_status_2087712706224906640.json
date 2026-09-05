@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      }
+    ],
+    "conversation_id": "2087712706224906640",
+    "created_at": "2026-08-13T01:27:51.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087712706224906640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/creepydotorg/s…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/creepydotorg/status/2087620974225019116",
+          "start": 56,
+          "url": "https://t.co/Da8r7S5Gw8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087712706224906640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087620974225019116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我24年还是25年的时候有一次精神错乱把自己吸毒之后吐的东西当成dead的脑浆吃了当时特别享受如果是真的就好了 https://t.co/Da8r7S5Gw8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087620966427820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPi4NVGWgAA1byH.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087620966411034625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPi4NVCWYAEGgEa.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "2087712706224906640",
+        "created_at": "2026-08-13T01:27:51.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087712706224906640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/creepydotorg/s…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/creepydotorg/status/2087620974225019116",
+              "start": 56,
+              "url": "https://t.co/Da8r7S5Gw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087712706224906640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087620974225019116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我24年还是25年的时候有一次精神错乱把自己吸毒之后吐的东西当成dead的脑浆吃了当时特别享受如果是真的就好了 https://t.co/Da8r7S5Gw8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087620966427820032",
+            "3_2087620966411034625"
+          ]
+        },
+        "author_id": "1625843518643085312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "2087620974225019116",
+        "created_at": "2026-08-12T19:23:21.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087620974225019116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdQ7y1u3QQ",
+              "end": 296,
+              "expanded_url": "https://x.com/creepydotorg/status/2087620974225019116/photo/1",
+              "media_key": "3_2087620966427820032",
+              "start": 273,
+              "url": "https://t.co/OdQ7y1u3QQ"
+            },
+            {
+              "display_url": "pic.x.com/OdQ7y1u3QQ",
+              "end": 296,
+              "expanded_url": "https://x.com/creepydotorg/status/2087620974225019116/photo/1",
+              "media_key": "3_2087620966411034625",
+              "start": 273,
+              "url": "https://t.co/OdQ7y1u3QQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087620974225019116",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087620966427820032"
+          },
+          {
+            "media_key": "3_2087620966411034625"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Per Ohlin, better known by his stage name Dead, was the lead singer of the Norwegian black metal band Mayhem.\n\nWhen he was 10, he was attacked by some bullies who injured him so badly that he was briefly declared clinically dead at the hospital.\n\nAfter the incident, Ohlin developed an intense obsession with anything related to death.\n\nHe collected dead birds, wore corpse paint during performances and routinely cut himself onstage and in front of friends.\n\nHe was believed to have suffered from Cotard syndrome, a mental disorder characterized by the belief that you are truly dead and don’t exist in reality.\n\nIn 1991, at age 22, Dead cut his wrists and throat before shooting himself in the head with a shotgun.\n\nHe left a brief note beginning “Excuse all the blood” and apologized for firing the gun indoors.\n\nHis body was soon discovered by one of his bandmates, who immediately ran to a nearby store and bought a disposable camera instead of contacting the police.\n\nHe took multiple photos of his dead friend and would later use one of them as cover art for a Mayhem bootleg album called The Dawn of the Black Hearts."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 440,
+          "impression_count": 121466,
+          "like_count": 1683,
+          "quote_count": 24,
+          "reply_count": 57,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "Per Ohlin, better known by his stage name Dead, was the lead singer of the Norwegian black metal band Mayhem.\n\nWhen he was 10, he was attacked by some bullies who injured him so badly that he was briefly declared clinically dead at the hospital.\n\nAfter the incident, Ohlin https://t.co/OdQ7y1u3QQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087712706224906640",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 74,
+          "like_count": 2369,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1092
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-15T13:04:51.000Z",
+        "description": "Your leading source for all things creepy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "creepy.org",
+                "end": 23,
+                "expanded_url": "http://creepy.org",
+                "start": 0,
+                "url": "https://t.co/2ZxWwBdMXm"
+              }
+            ]
+          }
+        },
+        "id": "1625843518643085312",
+        "is_identity_verified": true,
+        "location": "Transylvania ",
+        "most_recent_tweet_id": "2087639991895707836",
+        "name": "Creepy.org",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625843518643085312/1759498082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070956131342532609/A6PbWNNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771044,
+          "following_count": 665,
+          "like_count": 4397,
+          "listed_count": 2884,
+          "media_count": 10320,
+          "tweet_count": 12250
+        },
+        "url": "https://t.co/2ZxWwBdMXm",
+        "username": "creepydotorg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091976862943879317",
+    "created_at": "2026-08-24T19:52:05.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091976862943879317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/One_Alasco/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/One_Alasco/status/2091737890266939794",
+          "start": 4,
+          "url": "https://t.co/ZwN2RVj3sL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091976862943879317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091737890266939794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我惨遭 https://t.co/ZwN2RVj3sL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45033,
+        "height": 640,
+        "media_key": "13_2091737859543699456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091737859543699456/img/DqveXa42p6JqUVs9.jpg",
+        "public_metrics": {
+          "view_count": 1593776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091737859543699456/vid/avc1/320x568/p-ocrc-n3HzFa8YA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091737859543699456/vid/avc1/360x640/ovix0v1-OKxES4b4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091737859543699456/pl/Srca_2nsJ63u1Nss.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091976862943879317",
+        "created_at": "2026-08-24T19:52:05.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091976862943879317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/One_Alasco/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/One_Alasco/status/2091737890266939794",
+              "start": 4,
+              "url": "https://t.co/ZwN2RVj3sL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091976862943879317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091737890266939794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我惨遭 https://t.co/ZwN2RVj3sL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091737859543699456"
+          ]
+        },
+        "author_id": "1494180766904946688",
+        "conversation_id": "2091737890266939794",
+        "created_at": "2026-08-24T04:02:30.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091737890266939794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8WiIs5WWO",
+              "end": 136,
+              "expanded_url": "https://x.com/One_Alasco/status/2091737890266939794/video/1",
+              "media_key": "13_2091737859543699456",
+              "start": 113,
+              "url": "https://t.co/Y8WiIs5WWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091737890266939794",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2091737859543699456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2128,
+          "impression_count": 2798523,
+          "like_count": 26169,
+          "quote_count": 63,
+          "reply_count": 182,
+          "retweet_count": 1455
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🚨💢 La police brésilienne 🇧🇷 a enfin capturé avec humour ce grand bandit armé qui était longtemps recherché. 🤣🤣🤣 https://t.co/Y8WiIs5WWO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091976862943879317",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 87,
+          "like_count": 3703,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-17T05:24:11.000Z",
+        "description": "//Africain de Côte d’Ivoire //Anti-néocolonialiste //Propriétaire d’entreprise // Passionné des informations d’Afrique et du monde // Vive l’Afrique libre//",
+        "id": "1494180766904946688",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091974186382086210",
+        "name": "One Alasco🐘🇨🇮",
+        "pinned_tweet_id": "2086458463006159224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494180766904946688/1724978193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690124638834003968/ZMzbqhAv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46916,
+          "following_count": 923,
+          "like_count": 104322,
+          "listed_count": 74,
+          "media_count": 7008,
+          "tweet_count": 52170
+        },
+        "url": "",
+        "username": "One_Alasco",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

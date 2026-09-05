@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086694079040200704",
+        "3_2086694079354884096",
+        "3_2086694079191306240",
+        "3_2086694079761678337"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2086694096664698898",
+    "created_at": "2026-08-10T06:00:16.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086694096664698898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1592172867189293057",
+          "start": 2,
+          "username": "cxszb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O263rQHm8I",
+          "end": 50,
+          "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+          "media_key": "3_2086694079040200704",
+          "start": 27,
+          "url": "https://t.co/O263rQHm8I"
+        },
+        {
+          "display_url": "pic.x.com/O263rQHm8I",
+          "end": 50,
+          "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+          "media_key": "3_2086694079354884096",
+          "start": 27,
+          "url": "https://t.co/O263rQHm8I"
+        },
+        {
+          "display_url": "pic.x.com/O263rQHm8I",
+          "end": 50,
+          "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+          "media_key": "3_2086694079191306240",
+          "start": 27,
+          "url": "https://t.co/O263rQHm8I"
+        },
+        {
+          "display_url": "pic.x.com/O263rQHm8I",
+          "end": 50,
+          "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+          "media_key": "3_2086694079761678337",
+          "start": 27,
+          "url": "https://t.co/O263rQHm8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086694096664698898",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086694079040200704"
+      },
+      {
+        "media_key": "3_2086694079354884096"
+      },
+      {
+        "media_key": "3_2086694079191306240"
+      },
+      {
+        "media_key": "3_2086694079761678337"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和 @cxszb 还有我们的好闺闺小熊猫儿，好酥服呀 https://t.co/O263rQHm8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086694079040200704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVtNYgaIAA6Qca.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2086694079354884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVtNZrb0AAaN6d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086694079191306240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVtNZEb0AAII1l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086694079761678337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVtNbMbAAEb-DM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086694079040200704",
+            "3_2086694079354884096",
+            "3_2086694079191306240",
+            "3_2086694079761678337"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086694096664698898",
+        "created_at": "2026-08-10T06:00:16.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086694096664698898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1592172867189293057",
+              "start": 2,
+              "username": "cxszb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O263rQHm8I",
+              "end": 50,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+              "media_key": "3_2086694079040200704",
+              "start": 27,
+              "url": "https://t.co/O263rQHm8I"
+            },
+            {
+              "display_url": "pic.x.com/O263rQHm8I",
+              "end": 50,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+              "media_key": "3_2086694079354884096",
+              "start": 27,
+              "url": "https://t.co/O263rQHm8I"
+            },
+            {
+              "display_url": "pic.x.com/O263rQHm8I",
+              "end": 50,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+              "media_key": "3_2086694079191306240",
+              "start": 27,
+              "url": "https://t.co/O263rQHm8I"
+            },
+            {
+              "display_url": "pic.x.com/O263rQHm8I",
+              "end": 50,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086694096664698898/photo/1",
+              "media_key": "3_2086694079761678337",
+              "start": 27,
+              "url": "https://t.co/O263rQHm8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086694096664698898",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086694079040200704"
+          },
+          {
+            "media_key": "3_2086694079354884096"
+          },
+          {
+            "media_key": "3_2086694079191306240"
+          },
+          {
+            "media_key": "3_2086694079761678337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和 @cxszb 还有我们的好闺闺小熊猫儿，好酥服呀 https://t.co/O263rQHm8I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2086694096664698898",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 67,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "非二元/无性吸引/s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "is_identity_verified": false,
+        "location": "🚪好友位188",
+        "most_recent_tweet_id": "2086483564418433180",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1895930921351823445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592172867189293057/1742847301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 216,
+          "like_count": 17613,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 16254
+        },
+        "url": "",
+        "username": "cxszb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

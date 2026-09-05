@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087255632701505579",
+    "created_at": "2026-08-11T19:11:36.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087255632701505579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1764120054097195008",
+          "start": 3,
+          "username": "soulhusk_dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087255632701505579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087255562346213751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soulhusk_dead: 我不会原谅那些抛弃过我的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087255632701505579",
+        "created_at": "2026-08-11T19:11:36.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087255632701505579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1764120054097195008",
+              "start": 3,
+              "username": "soulhusk_dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087255632701505579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087255562346213751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soulhusk_dead: 我不会原谅那些抛弃过我的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764120054097195008",
+        "conversation_id": "2087255562346213751",
+        "created_at": "2026-08-11T19:11:20.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087255562346213751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087255562346213751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不会原谅那些抛弃过我的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087255632701505579",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 73,
+          "like_count": 2212,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-03T02:46:22.000Z",
+        "description": "希望夏天快一点，希望冬天慢一点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bakps003",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bakps003",
+                "start": 0,
+                "url": "https://t.co/dpo6gVKfTC"
+              }
+            ]
+          }
+        },
+        "id": "1764120054097195008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087255562346213751",
+        "name": "Søulhusk",
+        "pinned_tweet_id": "2087064590261878874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764120054097195008/1786213125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086133500219117568/tvm_oknk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/dpo6gVKfTC",
+        "username": "soulhusk_dead",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

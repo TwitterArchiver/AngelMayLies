@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091611983015796824",
+    "created_at": "2026-08-23T19:42:11.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T20:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091611983015796824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nabastajla/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nabastajla/status/2091431563791917161",
+          "start": 2,
+          "url": "https://t.co/7xRnoNgwSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091611983015796824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091431563791917161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/7xRnoNgwSh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2091431557760499713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZB68BbQAE5-Rd.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091611983015796824",
+        "created_at": "2026-08-23T19:42:11.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091611983015796824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nabastajla/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nabastajla/status/2091431563791917161",
+              "start": 2,
+              "url": "https://t.co/7xRnoNgwSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091611983015796824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091431563791917161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/7xRnoNgwSh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091431557760499713"
+          ]
+        },
+        "author_id": "1081742312202371077",
+        "conversation_id": "2091431563791917161",
+        "created_at": "2026-08-23T07:45:16.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091431563791917161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKsZQGiWcu",
+              "end": 26,
+              "expanded_url": "https://x.com/nabastajla/status/2091431563791917161/photo/1",
+              "media_key": "3_2091431557760499713",
+              "start": 3,
+              "url": "https://t.co/hKsZQGiWcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091431563791917161",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091431557760499713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 311346,
+          "like_count": 14335,
+          "quote_count": 130,
+          "reply_count": 586,
+          "retweet_count": 1309
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭 https://t.co/hKsZQGiWcu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091611983015796824",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 85,
+          "like_count": 3554,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-06T02:40:39.000Z",
+        "description": "relatable stuff—there are things here that aren’t mine",
+        "id": "1081742312202371077",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091431563791917161",
+        "name": "sky",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081742312202371077/1745732355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916364159153008640/dOYrgoKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33422,
+          "following_count": 2011,
+          "like_count": 314483,
+          "listed_count": 39,
+          "media_count": 1867,
+          "tweet_count": 315079
+        },
+        "url": "",
+        "username": "nabastajla",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

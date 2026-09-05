@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092502584833843685",
+    "created_at": "2026-08-26T18:30:16.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092681049507844118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050195658603483136",
+          "start": 0,
+          "username": "Idontwanttmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092681049507844118",
+    "in_reply_to_user_id": "2050195658603483136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092502584833843685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontwanttmf 谁拉这了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092502570199896064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoQAERbUAA2Y9P.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092502584833843685",
+        "created_at": "2026-08-26T18:30:16.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092681049507844118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050195658603483136",
+              "start": 0,
+              "username": "Idontwanttmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092681049507844118",
+        "in_reply_to_user_id": "2050195658603483136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092502584833843685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontwanttmf 谁拉这了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092502570199896064"
+          ]
+        },
+        "author_id": "2050195658603483136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092502584833843685",
+        "created_at": "2026-08-26T06:41:07.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092502584833843685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Bf4LCodRe",
+              "end": 27,
+              "expanded_url": "https://x.com/Idontwanttmf/status/2092502584833843685/photo/1",
+              "media_key": "3_2092502570199896064",
+              "start": 4,
+              "url": "https://t.co/3Bf4LCodRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092502584833843685",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092502570199896064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淘金中 https://t.co/3Bf4LCodRe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自歹戋自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠️#5htwt #drugtwt ⚠️|我是Dizzy也可以叫我枭儿| he/them | 防绑架备用：@_DerLiebe ｜𝑳𝒐𝒗𝒆 𝑪𝒖𝒕𝒔 𝑴𝒆 𝑳𝒊𝒌𝒆 𝒀𝒂𝒎𝒂𝒕𝒐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "5htwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_DerLiebe"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092681049507844118",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680232574869504/YnS77iuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 88,
+          "like_count": 3832,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T12:49:21.000Z",
+        "description": "🚪88\n第四世\n前世：\n@kira20194922529\n@keaiiea\n@TheFirstKidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "kira20194922529"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "keaiiea"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "TheFirstKidz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/YpqUDCP61D"
+              }
+            ]
+          }
+        },
+        "id": "2050195658603483136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092622408155062526",
+        "name": "Jonas（4.0）",
+        "pinned_tweet_id": "2091201445618225564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050195658603483136/1784164826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077563930407546880/oMF7brlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 294,
+          "like_count": 5276,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/YpqUDCP61D",
+        "username": "Idontwanttmf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

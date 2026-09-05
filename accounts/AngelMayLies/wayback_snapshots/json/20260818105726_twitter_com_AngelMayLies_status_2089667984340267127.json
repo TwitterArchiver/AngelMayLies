@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2089667334722195819",
+    "created_at": "2026-08-18T10:57:26.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089667984340267127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ],
+      "urls": [
+        {
+          "description": "实体药房，营业时间12：00-次日02：00，有会讲中文的药师 推特回复比较慢还请尽量通过tg联系我！https://t.co/MiFm8gxTfA 店铺地址https://t.co/AzpJvoumgS",
+          "display_url": "x.com/kannarunrun",
+          "end": 35,
+          "expanded_url": "https://x.com/kannarunrun",
+          "start": 12,
+          "status": 200,
+          "title": "kanna大药房 (@kannarunrun) on X",
+          "unwound_url": "https://x.com/kannarunrun",
+          "url": "https://t.co/mY6lMVtDKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089667984340267127",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089667334722195819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog https://t.co/mY6lMVtDKn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2089667334722195819",
+        "created_at": "2026-08-18T10:57:26.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089667984340267127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ],
+          "urls": [
+            {
+              "description": "实体药房，营业时间12：00-次日02：00，有会讲中文的药师 推特回复比较慢还请尽量通过tg联系我！https://t.co/MiFm8gxTfA 店铺地址https://t.co/AzpJvoumgS",
+              "display_url": "x.com/kannarunrun",
+              "end": 35,
+              "expanded_url": "https://x.com/kannarunrun",
+              "start": 12,
+              "status": 200,
+              "title": "kanna大药房 (@kannarunrun) on X",
+              "unwound_url": "https://x.com/kannarunrun",
+              "url": "https://t.co/mY6lMVtDKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089667984340267127",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089667334722195819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog https://t.co/mY6lMVtDKn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2089667334722195819",
+        "created_at": "2026-08-18T10:54:51.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089667334722195819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089667334722195819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃十一酸胶囊到底有用没，或者谁给我推荐点药商啊。。不hrt好难受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2089667984340267127",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 79,
+          "like_count": 2775,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1294
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": ":可以叫我竹霖/霖，\nftx(概率使用男性代词) 无性恋/aegosexual\n左手酒瓶右手J，左脚踩右脚直接升天\n哲学&推理小说爱好者   安那其\n#GNR#dmc#cybpk偶尔 随缘产出 同人",
+        "id": "1974688655513096192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089667334722195819",
+        "name": "竹霖",
+        "pinned_tweet_id": "2034712622327898524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974688655513096192/1786720755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033542781080408065/SwlGhoGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 187,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 2981
+        },
+        "url": "",
+        "username": "lin_dialog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

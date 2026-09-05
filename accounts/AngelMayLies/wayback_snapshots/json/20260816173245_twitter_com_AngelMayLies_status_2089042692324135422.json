@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089006226307010560",
+        "3_2089006226353098752",
+        "3_2089006226273423360",
+        "3_2089006226298552320"
+      ],
+      "media_source_tweet_id": [
+        "2089006238399082548",
+        "2089006238399082548",
+        "2089006238399082548",
+        "2089006238399082548"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2089042692324135422",
+    "created_at": "2026-08-16T17:32:45.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089042692324135422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810062703823847425",
+          "start": 3,
+          "username": "Kuruma8686"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kk0JDsuIvr",
+          "end": 50,
+          "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+          "media_key": "3_2089006226307010560",
+          "start": 27,
+          "url": "https://t.co/Kk0JDsuIvr"
+        },
+        {
+          "display_url": "pic.x.com/Kk0JDsuIvr",
+          "end": 50,
+          "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+          "media_key": "3_2089006226353098752",
+          "start": 27,
+          "url": "https://t.co/Kk0JDsuIvr"
+        },
+        {
+          "display_url": "pic.x.com/Kk0JDsuIvr",
+          "end": 50,
+          "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+          "media_key": "3_2089006226273423360",
+          "start": 27,
+          "url": "https://t.co/Kk0JDsuIvr"
+        },
+        {
+          "display_url": "pic.x.com/Kk0JDsuIvr",
+          "end": 50,
+          "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+          "media_key": "3_2089006226298552320",
+          "start": 27,
+          "url": "https://t.co/Kk0JDsuIvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089042692324135422",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2089006226307010560"
+      },
+      {
+        "media_key": "3_2089006226353098752"
+      },
+      {
+        "media_key": "3_2089006226273423360"
+      },
+      {
+        "media_key": "3_2089006226298552320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089006238399082548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuruma8686: 1⃣2⃣3️⃣4️⃣ https://t.co/Kk0JDsuIvr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2089006226307010560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2kGESb0AAGvwv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089006226353098752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2kGEdbEAAAUh5.jpg",
+        "width": 1452
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089006226273423360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2kGEKbUAAVjYp.jpg",
+        "width": 1586
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089006226298552320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2kGEQawAAjeAD.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089006226307010560",
+            "3_2089006226353098752",
+            "3_2089006226273423360",
+            "3_2089006226298552320"
+          ],
+          "media_source_tweet_id": [
+            "2089006238399082548",
+            "2089006238399082548",
+            "2089006238399082548",
+            "2089006238399082548"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2089042692324135422",
+        "created_at": "2026-08-16T17:32:45.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089042692324135422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810062703823847425",
+              "start": 3,
+              "username": "Kuruma8686"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 50,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226307010560",
+              "start": 27,
+              "url": "https://t.co/Kk0JDsuIvr"
+            },
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 50,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226353098752",
+              "start": 27,
+              "url": "https://t.co/Kk0JDsuIvr"
+            },
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 50,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226273423360",
+              "start": 27,
+              "url": "https://t.co/Kk0JDsuIvr"
+            },
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 50,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226298552320",
+              "start": 27,
+              "url": "https://t.co/Kk0JDsuIvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089042692324135422",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089006226307010560"
+          },
+          {
+            "media_key": "3_2089006226353098752"
+          },
+          {
+            "media_key": "3_2089006226273423360"
+          },
+          {
+            "media_key": "3_2089006226298552320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089006238399082548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuruma8686: 1⃣2⃣3️⃣4️⃣ https://t.co/Kk0JDsuIvr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089006226307010560",
+            "3_2089006226353098752",
+            "3_2089006226273423360",
+            "3_2089006226298552320"
+          ]
+        },
+        "author_id": "1810062703823847425",
+        "conversation_id": "2089006238399082548",
+        "created_at": "2026-08-16T15:07:53.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089006238399082548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 34,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226307010560",
+              "start": 11,
+              "url": "https://t.co/Kk0JDsuIvr"
+            },
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 34,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226353098752",
+              "start": 11,
+              "url": "https://t.co/Kk0JDsuIvr"
+            },
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 34,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226273423360",
+              "start": 11,
+              "url": "https://t.co/Kk0JDsuIvr"
+            },
+            {
+              "display_url": "pic.x.com/Kk0JDsuIvr",
+              "end": 34,
+              "expanded_url": "https://x.com/Kuruma8686/status/2089006238399082548/photo/1",
+              "media_key": "3_2089006226298552320",
+              "start": 11,
+              "url": "https://t.co/Kk0JDsuIvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089006238399082548",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089006226307010560"
+          },
+          {
+            "media_key": "3_2089006226353098752"
+          },
+          {
+            "media_key": "3_2089006226273423360"
+          },
+          {
+            "media_key": "3_2089006226298552320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 193,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣2⃣3️⃣4️⃣ https://t.co/Kk0JDsuIvr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2089042692324135422",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 76,
+          "like_count": 2718,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1270
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T21:26:53.000Z",
+        "description": "illustration 高３ ただの車🤓🏎️✍(^q^) ホラーとメカ\n美大志望(絵の練習してる) \n映画鑑賞🎥趣味なのでたまに呟きます。\n受験勉強中浮上中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/39j7zs8fdzvfiz…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/39j7zs8fdzvfizc?t=FK9tEn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3ldsZGd02v"
+              }
+            ]
+          }
+        },
+        "id": "1810062703823847425",
+        "is_identity_verified": false,
+        "location": "羽生蛇村の宮田ジャガー付近",
+        "most_recent_tweet_id": "2089006559020068937",
+        "name": "ただの車好き",
+        "pinned_tweet_id": "2076200371220042041",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810062703823847425/1786261878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089002739670159360/NIahoLbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 223,
+          "like_count": 34849,
+          "listed_count": 5,
+          "media_count": 502,
+          "tweet_count": 11222
+        },
+        "url": "https://t.co/3ldsZGd02v",
+        "username": "Kuruma8686",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

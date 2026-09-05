@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087638610887720960"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087638462925349065",
+    "created_at": "2026-08-12T20:33:27.000Z",
+    "display_text_range": [
+      14,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T21:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087638618664005652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014844239004442624",
+          "start": 0,
+          "username": "Lola_Scarlet_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HEJGfMzF0r",
+          "end": 38,
+          "expanded_url": "https://x.com/AngelMayLies/status/2087638618664005652/photo/1",
+          "media_key": "3_2087638610887720960",
+          "start": 15,
+          "url": "https://t.co/HEJGfMzF0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087638618664005652",
+    "in_reply_to_user_id": "2014844239004442624",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2087638610887720960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087638462925349065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lola_Scarlet_ https://t.co/HEJGfMzF0r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2087638610887720960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjIQX1aQAA2gYa.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087638610887720960"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087638462925349065",
+        "created_at": "2026-08-12T20:33:27.000Z",
+        "display_text_range": [
+          14,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087638618664005652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014844239004442624",
+              "start": 0,
+              "username": "Lola_Scarlet_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEJGfMzF0r",
+              "end": 38,
+              "expanded_url": "https://x.com/AngelMayLies/status/2087638618664005652/photo/1",
+              "media_key": "3_2087638610887720960",
+              "start": 15,
+              "url": "https://t.co/HEJGfMzF0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087638618664005652",
+        "in_reply_to_user_id": "2014844239004442624",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087638610887720960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087638462925349065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lola_Scarlet_ https://t.co/HEJGfMzF0r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014844239004442624",
+        "conversation_id": "2087638462925349065",
+        "created_at": "2026-08-12T20:32:50.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087638462925349065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087638462925349065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我和阿片类没有缘分吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087638618664005652",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 74,
+          "like_count": 2286,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T23:34:57.000Z",
+        "description": "保持爱与和平直到AI智能将我们折磨",
+        "id": "2014844239004442624",
+        "is_identity_verified": false,
+        "location": "🌏",
+        "most_recent_tweet_id": "2087638462925349065",
+        "name": "LU",
+        "pinned_tweet_id": "2082717630474191193",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014844239004442624/1786314991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086580999580991488/UeElTAYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "Lola_Scarlet_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

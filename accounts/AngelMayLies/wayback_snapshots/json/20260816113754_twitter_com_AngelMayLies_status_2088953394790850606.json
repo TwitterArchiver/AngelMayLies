@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088953394790850606",
+    "created_at": "2026-08-16T11:37:54.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088953394790850606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/soulhusk_dead/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/soulhusk_dead/status/2088949734937624964",
+          "start": 7,
+          "url": "https://t.co/uAfxx4B0OP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088953394790850606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088949734937624964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帽帽来源：我 https://t.co/uAfxx4B0OP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_2088949726796472320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1wtXNaYAAPHRd.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088953394790850606",
+        "created_at": "2026-08-16T11:37:54.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088953394790850606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soulhusk_dead/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/soulhusk_dead/status/2088949734937624964",
+              "start": 7,
+              "url": "https://t.co/uAfxx4B0OP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088953394790850606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088949734937624964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帽帽来源：我 https://t.co/uAfxx4B0OP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088949726796472320"
+          ]
+        },
+        "author_id": "1764120054097195008",
+        "conversation_id": "2088949734937624964",
+        "created_at": "2026-08-16T11:23:22.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088949734937624964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6aap31UB6",
+              "end": 33,
+              "expanded_url": "https://x.com/soulhusk_dead/status/2088949734937624964/photo/1",
+              "media_key": "3_2088949726796472320",
+              "start": 10,
+              "url": "https://t.co/n6aap31UB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088949734937624964",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088949726796472320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马赛克才是最美的我 https://t.co/n6aap31UB6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088953394790850606",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 76,
+          "like_count": 2655,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1240
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-03T02:46:22.000Z",
+        "description": "希望夏天快一点，希望冬天慢一点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bakps003",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bakps003",
+                "start": 0,
+                "url": "https://t.co/dpo6gVKfTC"
+              }
+            ]
+          }
+        },
+        "id": "1764120054097195008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088952501957689583",
+        "name": "前日本首相惠豆子",
+        "pinned_tweet_id": "2087064590261878874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764120054097195008/1786877818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088942558840053761/HSJpZnEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 58,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/dpo6gVKfTC",
+        "username": "soulhusk_dead",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

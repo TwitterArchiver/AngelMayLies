@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092036908436349176",
+    "created_at": "2026-08-24T23:50:41.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T00:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092036908436349176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1050425663742795776",
+          "start": 3,
+          "username": "tostyart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092036908436349176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15770
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091584061391380956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tostyart: This shit is fucked up why is there border patrol in Mexican heaven"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092036908436349176",
+        "created_at": "2026-08-24T23:50:41.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092036908436349176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1050425663742795776",
+              "start": 3,
+              "username": "tostyart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092036908436349176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15770
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091584061391380956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tostyart: This shit is fucked up why is there border patrol in Mexican heaven"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1050425663742795776",
+        "conversation_id": "2091584061391380956",
+        "created_at": "2026-08-23T17:51:14.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091584061391380956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ember_arab/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/ember_arab/status/2091529476006101424",
+              "start": 68,
+              "url": "https://t.co/XgoBqB89Yj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091584061391380956",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12122,
+          "impression_count": 4773441,
+          "like_count": 305287,
+          "quote_count": 347,
+          "reply_count": 411,
+          "retweet_count": 15770
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091529476006101424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This shit is fucked up why is there border patrol in Mexican heaven https://t.co/XgoBqB89Yj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092036908436349176",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 86,
+          "like_count": 3740,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-11T16:39:28.000Z",
+        "description": "label system ⭐️-original work 💧-observational/study ❤️-fanart 🦊 contact: tostybiz@gmail.com pfp @traxfunky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "traxfunky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Tostyart?utm_c…",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/Tostyart?utm_campaign=creatorshare_creator",
+                "start": 0,
+                "url": "https://t.co/hK3nNg7KdF"
+              }
+            ]
+          }
+        },
+        "id": "1050425663742795776",
+        "is_identity_verified": false,
+        "location": "ballsack USA",
+        "most_recent_tweet_id": "2091953081248514166",
+        "name": "toasty",
+        "pinned_tweet_id": "2014459865176105435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1050425663742795776/1741650621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998188699381866497/nATbsbZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36713,
+          "following_count": 554,
+          "like_count": 50889,
+          "listed_count": 244,
+          "media_count": 397,
+          "tweet_count": 4078
+        },
+        "url": "https://t.co/hK3nNg7KdF",
+        "username": "tostyart",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

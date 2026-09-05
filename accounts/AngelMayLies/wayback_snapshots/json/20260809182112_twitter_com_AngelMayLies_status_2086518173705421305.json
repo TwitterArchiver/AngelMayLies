@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2086515661187277052",
+    "created_at": "2026-08-09T18:21:12.000Z",
+    "display_text_range": [
+      15,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086518173705421305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859425154486632448",
+          "start": 0,
+          "username": "SegerAnderson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086518173705421305",
+    "in_reply_to_user_id": "1859425154486632448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086516308875886864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SegerAnderson 是我闺蜜儿点的猫山王外卖🥺吃不了太多就点了特别少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2086515661187277052",
+        "created_at": "2026-08-09T18:21:12.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086518173705421305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859425154486632448",
+              "start": 0,
+              "username": "SegerAnderson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086518173705421305",
+        "in_reply_to_user_id": "1859425154486632448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086516308875886864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SegerAnderson 是我闺蜜儿点的猫山王外卖🥺吃不了太多就点了特别少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859425154486632448",
+        "conversation_id": "2086515661187277052",
+        "created_at": "2026-08-09T18:13:48.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086516308875886864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086516308875886864",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086515661187277052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 烤榴莲嘛好香！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2086518173705421305",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 67,
+          "like_count": 1987,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-21T02:35:24.000Z",
+        "description": "",
+        "id": "1859425154486632448",
+        "is_identity_verified": false,
+        "location": "西格尼亚",
+        "most_recent_tweet_id": "2086516588921118991",
+        "name": "Seger Anderson",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859425154486632448/1732159337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068031733271007232/o3jLWVqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 99,
+          "like_count": 2346,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "SegerAnderson",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

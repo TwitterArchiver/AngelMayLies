@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088444802342019244",
+    "created_at": "2026-08-15T01:56:56.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088444802342019244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《I've Seen That Movie Too》，由 Elton John 演唱，收录于《Goodbye Yellow Brick Road》专辑中，《I've Seen That Movie Too》下载，《I've Seen That Movie Too》在线试听，更多I've Seen That Movie Too相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bc7REAEc",
+          "end": 23,
+          "expanded_url": "https://163cn.tv/bc7REAEc",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/2088428575875842048/1_4MWwcI?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2088428575875842048/1_4MWwcI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "I've Seen That Movie Too - Elton John - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=17550102&uct2=3%2FMRvbrV0tkJ9Iv09KvyqQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5391505&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+          "url": "https://t.co/BQoATPCsMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088444802342019244",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BQoATPCsMj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088444802342019244",
+        "created_at": "2026-08-15T01:56:56.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088444802342019244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《I've Seen That Movie Too》，由 Elton John 演唱，收录于《Goodbye Yellow Brick Road》专辑中，《I've Seen That Movie Too》下载，《I've Seen That Movie Too》在线试听，更多I've Seen That Movie Too相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bc7REAEc",
+              "end": 23,
+              "expanded_url": "https://163cn.tv/bc7REAEc",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2088428575875842048/1_4MWwcI?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088428575875842048/1_4MWwcI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "I've Seen That Movie Too - Elton John - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=17550102&uct2=3%2FMRvbrV0tkJ9Iv09KvyqQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=5391505&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.61&sc=wm&tn=",
+              "url": "https://t.co/BQoATPCsMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088444802342019244",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BQoATPCsMj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088444802342019244",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 77,
+          "like_count": 2567,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

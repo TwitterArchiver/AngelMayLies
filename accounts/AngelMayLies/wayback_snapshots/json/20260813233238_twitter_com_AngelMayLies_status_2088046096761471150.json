@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088001792315392000",
+        "3_2088001792311271424"
+      ],
+      "media_source_tweet_id": [
+        "2088001809973486004",
+        "2088001809973486004"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088046096761471150",
+    "created_at": "2026-08-13T23:32:38.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088046096761471150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2055806802290151424",
+          "start": 3,
+          "username": "phosgorewhore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P843d7O0re",
+          "end": 71,
+          "expanded_url": "https://x.com/phosgorewhore/status/2088001809973486004/photo/1",
+          "media_key": "3_2088001792315392000",
+          "start": 48,
+          "url": "https://t.co/P843d7O0re"
+        },
+        {
+          "display_url": "pic.x.com/P843d7O0re",
+          "end": 71,
+          "expanded_url": "https://x.com/phosgorewhore/status/2088001809973486004/photo/1",
+          "media_key": "3_2088001792311271424",
+          "start": 48,
+          "url": "https://t.co/P843d7O0re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088046096761471150",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088001792315392000"
+      },
+      {
+        "media_key": "3_2088001792311271424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088001809973486004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @phosgorewhore: Kiss the hand that hits you. https://t.co/P843d7O0re"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2088001792315392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoSkUFWgAAhxiF.jpg",
+        "width": 736
+      },
+      {
+        "height": 728,
+        "media_key": "3_2088001792311271424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoSkUEXoAAdmj-.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088001792315392000",
+            "3_2088001792311271424"
+          ]
+        },
+        "author_id": "2055806802290151424",
+        "conversation_id": "2088001809973486004",
+        "created_at": "2026-08-13T20:36:39.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088001809973486004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P843d7O0re",
+              "end": 52,
+              "expanded_url": "https://x.com/phosgorewhore/status/2088001809973486004/photo/1",
+              "media_key": "3_2088001792315392000",
+              "start": 29,
+              "url": "https://t.co/P843d7O0re"
+            },
+            {
+              "display_url": "pic.x.com/P843d7O0re",
+              "end": 52,
+              "expanded_url": "https://x.com/phosgorewhore/status/2088001809973486004/photo/1",
+              "media_key": "3_2088001792311271424",
+              "start": 29,
+              "url": "https://t.co/P843d7O0re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088001809973486004",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088001792315392000"
+          },
+          {
+            "media_key": "3_2088001792311271424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 18914,
+          "like_count": 1312,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "Kiss the hand that hits you. https://t.co/P843d7O0re"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088001792315392000",
+            "3_2088001792311271424"
+          ],
+          "media_source_tweet_id": [
+            "2088001809973486004",
+            "2088001809973486004"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088046096761471150",
+        "created_at": "2026-08-13T23:32:38.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088046096761471150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2055806802290151424",
+              "start": 3,
+              "username": "phosgorewhore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P843d7O0re",
+              "end": 71,
+              "expanded_url": "https://x.com/phosgorewhore/status/2088001809973486004/photo/1",
+              "media_key": "3_2088001792315392000",
+              "start": 48,
+              "url": "https://t.co/P843d7O0re"
+            },
+            {
+              "display_url": "pic.x.com/P843d7O0re",
+              "end": 71,
+              "expanded_url": "https://x.com/phosgorewhore/status/2088001809973486004/photo/1",
+              "media_key": "3_2088001792311271424",
+              "start": 48,
+              "url": "https://t.co/P843d7O0re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088046096761471150",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088001792315392000"
+          },
+          {
+            "media_key": "3_2088001792311271424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088001809973486004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @phosgorewhore: Kiss the hand that hits you. https://t.co/P843d7O0re"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088046096761471150",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 77,
+          "like_count": 2478,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T00:27:43.000Z",
+        "description": "CW mdni 🔞 // I love the girls and the money and the shame of life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wanttoseeadeadbody.com",
+                "end": 23,
+                "expanded_url": "http://wanttoseeadeadbody.com",
+                "start": 0,
+                "url": "https://t.co/mSsTFkJbtE"
+              }
+            ]
+          }
+        },
+        "id": "2055806802290151424",
+        "is_identity_verified": false,
+        "location": "she/her ✚ 18",
+        "most_recent_tweet_id": "2088031664270131615",
+        "name": "sweetheart 💉🩹",
+        "pinned_tweet_id": "2056797921476055110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055806802290151424/1786393292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086910795615502336/S2MrqjHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3588,
+          "following_count": 160,
+          "like_count": 8298,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/mSsTFkJbtE",
+        "username": "phosgorewhore",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

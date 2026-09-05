@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090576798048206848"
+      ],
+      "media_source_tweet_id": [
+        "2090576803526312407"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090761834244735024",
+    "created_at": "2026-08-21T11:24:00.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090761834244735024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916327504476000256",
+          "start": 3,
+          "username": "KeybladerHer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9rnnAem7h",
+          "end": 139,
+          "expanded_url": "https://x.com/KeybladerHer/status/2090576803526312407/photo/1",
+          "media_key": "3_2090576798048206848",
+          "start": 116,
+          "url": "https://t.co/J9rnnAem7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090761834244735024",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2090576798048206848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2825
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090576803526312407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KeybladerHer: el otro día mi mamá me dijo \"por tus actitudes me recordás mucho a tú tío que se terminó matando\" https://t.co/J9rnnAem7h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_2090576798048206848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQM4hX9WQAADFjM.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090576798048206848"
+          ],
+          "media_source_tweet_id": [
+            "2090576803526312407"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090761834244735024",
+        "created_at": "2026-08-21T11:24:00.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090761834244735024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916327504476000256",
+              "start": 3,
+              "username": "KeybladerHer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9rnnAem7h",
+              "end": 139,
+              "expanded_url": "https://x.com/KeybladerHer/status/2090576803526312407/photo/1",
+              "media_key": "3_2090576798048206848",
+              "start": 116,
+              "url": "https://t.co/J9rnnAem7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090761834244735024",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2090576798048206848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2825
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090576803526312407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KeybladerHer: el otro día mi mamá me dijo \"por tus actitudes me recordás mucho a tú tío que se terminó matando\" https://t.co/J9rnnAem7h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090576798048206848"
+          ]
+        },
+        "author_id": "1916327504476000256",
+        "conversation_id": "2090576803526312407",
+        "created_at": "2026-08-20T23:08:45.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090576803526312407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9rnnAem7h",
+              "end": 121,
+              "expanded_url": "https://x.com/KeybladerHer/status/2090576803526312407/photo/1",
+              "media_key": "3_2090576798048206848",
+              "start": 98,
+              "url": "https://t.co/J9rnnAem7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090576803526312407",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2090576798048206848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1829,
+          "impression_count": 227865,
+          "like_count": 31111,
+          "quote_count": 59,
+          "reply_count": 32,
+          "retweet_count": 2825
+        },
+        "reply_settings": "everyone",
+        "text": "el otro día mi mamá me dijo \"por tus actitudes me recordás mucho a tú tío que se terminó matando\" https://t.co/J9rnnAem7h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090761834244735024",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090735505453568000/YduFkUmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 77,
+          "like_count": 2971,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-27T03:04:22.000Z",
+        "description": "♡@lumaeris♡\n\nno sé qué poner acá, tuiteo todo lo que se me pasa por la cabeza, fan de sbr y peque a tiempo parcial.\n\nhe/him.\n02, ARG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 1,
+                "username": "lumaeris"
+              }
+            ]
+          }
+        },
+        "id": "1916327504476000256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090576803526312407",
+        "name": "her",
+        "pinned_tweet_id": "1956881905485242536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916327504476000256/1745776769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916345258989772800/w8nMh8Fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 194,
+          "like_count": 11487,
+          "listed_count": 0,
+          "media_count": 1030,
+          "tweet_count": 5249
+        },
+        "url": "",
+        "username": "KeybladerHer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

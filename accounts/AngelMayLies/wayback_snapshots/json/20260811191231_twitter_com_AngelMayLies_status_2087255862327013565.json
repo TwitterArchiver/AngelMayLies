@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087176131346911232",
+        "3_2087176146475716608"
+      ],
+      "media_source_tweet_id": [
+        "2087176155447328886",
+        "2087176155447328886"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087255862327013565",
+    "created_at": "2026-08-11T19:12:31.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087255862327013565"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "atm"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "上贡"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1592172867189293057",
+          "start": 3,
+          "username": "cxszb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HuXdOmGgmZ",
+          "end": 52,
+          "expanded_url": "https://x.com/cxszb/status/2087176155447328886/photo/1",
+          "media_key": "3_2087176131346911232",
+          "start": 29,
+          "url": "https://t.co/HuXdOmGgmZ"
+        },
+        {
+          "display_url": "pic.x.com/HuXdOmGgmZ",
+          "end": 52,
+          "expanded_url": "https://x.com/cxszb/status/2087176155447328886/photo/1",
+          "media_key": "3_2087176146475716608",
+          "start": 29,
+          "url": "https://t.co/HuXdOmGgmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087255862327013565",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087176131346911232"
+      },
+      {
+        "media_key": "3_2087176146475716608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087176155447328886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cxszb: 吃干抹净\n#atm #上贡 #压榨 https://t.co/HuXdOmGgmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2379,
+        "media_key": "3_2087176131346911232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcjohSbUAALgeU.jpg",
+        "width": 2577
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2087176146475716608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcjpZpakAA3hFd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087176131346911232",
+            "3_2087176146475716608"
+          ]
+        },
+        "author_id": "1592172867189293057",
+        "conversation_id": "2087176155447328886",
+        "created_at": "2026-08-11T13:55:47.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087176155447328886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "atm"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "上贡"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuXdOmGgmZ",
+              "end": 41,
+              "expanded_url": "https://x.com/cxszb/status/2087176155447328886/photo/1",
+              "media_key": "3_2087176131346911232",
+              "start": 18,
+              "url": "https://t.co/HuXdOmGgmZ"
+            },
+            {
+              "display_url": "pic.x.com/HuXdOmGgmZ",
+              "end": 41,
+              "expanded_url": "https://x.com/cxszb/status/2087176155447328886/photo/1",
+              "media_key": "3_2087176146475716608",
+              "start": 18,
+              "url": "https://t.co/HuXdOmGgmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087176155447328886",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087176131346911232"
+          },
+          {
+            "media_key": "3_2087176146475716608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3172,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吃干抹净\n#atm #上贡 #压榨 https://t.co/HuXdOmGgmZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087176131346911232",
+            "3_2087176146475716608"
+          ],
+          "media_source_tweet_id": [
+            "2087176155447328886",
+            "2087176155447328886"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087255862327013565",
+        "created_at": "2026-08-11T19:12:31.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087255862327013565"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "atm"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "上贡"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "压榨"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1592172867189293057",
+              "start": 3,
+              "username": "cxszb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuXdOmGgmZ",
+              "end": 52,
+              "expanded_url": "https://x.com/cxszb/status/2087176155447328886/photo/1",
+              "media_key": "3_2087176131346911232",
+              "start": 29,
+              "url": "https://t.co/HuXdOmGgmZ"
+            },
+            {
+              "display_url": "pic.x.com/HuXdOmGgmZ",
+              "end": 52,
+              "expanded_url": "https://x.com/cxszb/status/2087176155447328886/photo/1",
+              "media_key": "3_2087176146475716608",
+              "start": 29,
+              "url": "https://t.co/HuXdOmGgmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087255862327013565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087176131346911232"
+          },
+          {
+            "media_key": "3_2087176146475716608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087176155447328886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cxszb: 吃干抹净\n#atm #上贡 #压榨 https://t.co/HuXdOmGgmZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087255862327013565",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 73,
+          "like_count": 2214,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "非二元/无性吸引/s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "is_identity_verified": false,
+        "location": "🚪好友位188",
+        "most_recent_tweet_id": "2087231565109813390",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1895930921351823445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592172867189293057/1742847301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5525,
+          "following_count": 214,
+          "like_count": 17619,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 16265
+        },
+        "url": "",
+        "username": "cxszb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090079478299177125",
+    "created_at": "2026-08-19T14:12:34.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090079478299177125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ovum0000/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ovum0000/status/2090079309398733212",
+          "start": 6,
+          "url": "https://t.co/WgOv8HYl4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090079478299177125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090079309398733212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "：我是犹大 https://t.co/WgOv8HYl4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_2090079301966409730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF0DSoasAI0IkB.jpg",
+        "width": 1502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090079478299177125",
+        "created_at": "2026-08-19T14:12:34.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090079478299177125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovum0000/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ovum0000/status/2090079309398733212",
+              "start": 6,
+              "url": "https://t.co/WgOv8HYl4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090079478299177125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090079309398733212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "：我是犹大 https://t.co/WgOv8HYl4E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090079301966409730"
+          ]
+        },
+        "author_id": "2057497111718166531",
+        "conversation_id": "2090075164717572588",
+        "created_at": "2026-08-19T14:11:53.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090079309398733212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e32ZW6THeC",
+              "end": 37,
+              "expanded_url": "https://x.com/ovum0000/status/2090079309398733212/photo/1",
+              "media_key": "3_2090079301966409730",
+              "start": 14,
+              "url": "https://t.co/e32ZW6THeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090079309398733212",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090079301966409730"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090075164717572588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies https://t.co/e32ZW6THeC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090079478299177125",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 77,
+          "like_count": 2798,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "天造地设操你妈",
+        "id": "2057497111718166531",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090079309398733212",
+        "name": "支国人种美学讲师",
+        "pinned_tweet_id": "2084666841298067575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057497111718166531/1779839623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089061458533605376/nYAqbyf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 55,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

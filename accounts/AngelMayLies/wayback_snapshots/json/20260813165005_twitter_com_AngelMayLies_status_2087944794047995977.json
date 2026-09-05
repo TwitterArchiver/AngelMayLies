@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087936066099835227",
+    "created_at": "2026-08-13T16:50:05.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087944794047995977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "877473366684221440",
+          "start": 0,
+          "username": "083001c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087944794047995977",
+    "in_reply_to_user_id": "877473366684221440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087937812083646961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@083001c1 😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087936066099835227",
+        "created_at": "2026-08-13T16:50:05.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087944794047995977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "877473366684221440",
+              "start": 0,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087944794047995977",
+        "in_reply_to_user_id": "877473366684221440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087937812083646961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@083001c1 😇😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877473366684221440",
+        "conversation_id": "2087936066099835227",
+        "created_at": "2026-08-13T16:22:21.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087937812083646961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087937812083646961",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087936066099835227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 美之味"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087944794047995977",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 75,
+          "like_count": 2393,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1112
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-21T10:28:48.000Z",
+        "description": "💊/🔪/同类互fo(:3っ )っ\n可以叫我奥七\n\n*私信功能无法使用，联系可评论区问我邮箱\n防炸小号@KrishnaBha9e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "KrishnaBha9e"
+              }
+            ]
+          }
+        },
+        "id": "877473366684221440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087941121569857898",
+        "name": "O seven (3.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/877473366684221440/1785530023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 115,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "083001c1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

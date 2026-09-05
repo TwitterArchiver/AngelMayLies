@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087936066099835227",
+    "created_at": "2026-08-13T23:14:42.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088041586307580133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1504824817937264643",
+          "start": 0,
+          "username": "AwMaryDude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088041586307580133",
+    "in_reply_to_user_id": "1504824817937264643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088039692193481197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwMaryDude 美1概念有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087936066099835227",
+        "created_at": "2026-08-13T23:14:42.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088041586307580133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504824817937264643",
+              "start": 0,
+              "username": "AwMaryDude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088041586307580133",
+        "in_reply_to_user_id": "1504824817937264643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088039692193481197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwMaryDude 美1概念有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504824817937264643",
+        "conversation_id": "2087936066099835227",
+        "created_at": "2026-08-13T23:07:11.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088039692193481197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088039692193481197",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087936066099835227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 特别有气质的老父亲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088041586307580133",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 76,
+          "like_count": 2475,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T14:19:47.000Z",
+        "description": "21♥人还在呢 ★VN    ❌🔄❌🔀\n发的图均为我约的稿件，我不是画手喔\n我写文发在Ao3请搜索：AwwMary\n📬匿名箱：https://t.co/zKg6IUXwCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/AwwMary",
+                "end": 86,
+                "expanded_url": "https://qntwx.cn/AwwMary",
+                "start": 63,
+                "url": "https://t.co/zKg6IUXwCk"
+              }
+            ]
+          }
+        },
+        "id": "1504824817937264643",
+        "is_identity_verified": false,
+        "location": "→→→",
+        "most_recent_tweet_id": "2088039692193481197",
+        "name": "AwwMary",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504824817937264643/1765615453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854172847037726720/nsoshKwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 447,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "AwMaryDude",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

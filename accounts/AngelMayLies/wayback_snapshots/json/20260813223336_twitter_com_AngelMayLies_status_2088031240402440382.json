@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "card_uri": "https://t.co/NfbvUIXCNB",
+    "conversation_id": "2088031240402440382",
+    "created_at": "2026-08-13T22:33:36.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T23:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088031240402440382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1rxmq…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1rxmqpplDgDxy",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 画画计时不说话",
+          "unwound_url": "https://twitter.com/i/spaces/1rxmqpplDgDxy/peek",
+          "url": "https://t.co/NfbvUIXCNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088031240402440382",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NfbvUIXCNB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "card_uri": "https://t.co/NfbvUIXCNB",
+        "conversation_id": "2088031240402440382",
+        "created_at": "2026-08-13T22:33:36.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088031240402440382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1rxmq…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1rxmqpplDgDxy",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 画画计时不说话",
+              "unwound_url": "https://twitter.com/i/spaces/1rxmqpplDgDxy/peek",
+              "url": "https://t.co/NfbvUIXCNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088031240402440382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NfbvUIXCNB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088031240402440382",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 76,
+          "like_count": 2466,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1151
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

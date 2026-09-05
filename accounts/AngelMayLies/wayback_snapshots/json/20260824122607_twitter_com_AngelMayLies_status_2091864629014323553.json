@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091864629014323553",
+    "created_at": "2026-08-24T12:26:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091864629014323553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1511892186509582346",
+          "start": 3,
+          "username": "HOWLSMUSAH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/rnH2aDqz",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/rnH2aDqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091864629014323553",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2068
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091699111946854889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HOWLSMUSAH: eu nunca faço drunk text, pq geralmente quando bebo, fico ocupada demais agindo assim com meus amigos https://t.co/rnH2aDqz…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26656,
+        "height": 330,
+        "media_key": "13_2091699090895581184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091699090895581184/img/ni-a7_xhFqgndqjk.jpg",
+        "public_metrics": {
+          "view_count": 41126
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091699090895581184/vid/avc1/320x330/xUvoz-xyeE_12Qms.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091699090895581184/pl/3i7Z0im1swanReIQ.m3u8?v=bc8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091864629014323553",
+        "created_at": "2026-08-24T12:26:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091864629014323553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1511892186509582346",
+              "start": 3,
+              "username": "HOWLSMUSAH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/rnH2aDqz",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/rnH2aDqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091864629014323553",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2068
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091699111946854889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HOWLSMUSAH: eu nunca faço drunk text, pq geralmente quando bebo, fico ocupada demais agindo assim com meus amigos https://t.co/rnH2aDqz…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091699090895581184"
+          ]
+        },
+        "author_id": "1511892186509582346",
+        "conversation_id": "2091699111946854889",
+        "created_at": "2026-08-24T01:28:24.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T02:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091699111946854889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnH2aDqzjE",
+              "end": 125,
+              "expanded_url": "https://x.com/HOWLSMUSAH/status/2091699111946854889/video/1",
+              "media_key": "13_2091699090895581184",
+              "start": 102,
+              "url": "https://t.co/rnH2aDqzjE"
+            },
+            {
+              "display_url": "x.com/baladuvaaa/sta…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/baladuvaaa/status/2091247303650652190",
+              "start": 126,
+              "url": "https://t.co/BSDMVfFIYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091699111946854889",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2091699090895581184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 101860,
+          "like_count": 10315,
+          "quote_count": 154,
+          "reply_count": 49,
+          "retweet_count": 2068
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091247303650652190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "eu nunca faço drunk text, pq geralmente quando bebo, fico ocupada demais agindo assim com meus amigos https://t.co/rnH2aDqzjE https://t.co/BSDMVfFIYw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091864629014323553",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 83,
+          "like_count": 3647,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1813
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-07T02:23:09.000Z",
+        "description": "♦️ artista♦️\n♣️neguinha & queer♣️\n♥️ insta: @musah_mu ♥️♠️ OUÇAM MEU SOM https://t.co/6q1D4a4keT ♠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "musah_mu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/5S7Cl0JI…",
+                "end": 96,
+                "expanded_url": "https://open.spotify.com/track/5S7Cl0JIEj7tX3Qasuemdu",
+                "start": 73,
+                "url": "https://t.co/6q1D4a4keT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/musah_mu?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/musah_mu?igsh=MTB2ZDZrcTJkcWN0cw==",
+                "start": 0,
+                "url": "https://t.co/wArYYiJqno"
+              }
+            ]
+          }
+        },
+        "id": "1511892186509582346",
+        "is_identity_verified": false,
+        "location": "caipirolandia",
+        "most_recent_tweet_id": "2091795993788330282",
+        "name": "MUSAH ⛓️",
+        "pinned_tweet_id": "1886856034469421197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511892186509582346/1779828403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058730264587603969/YhUSbLGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18099,
+          "following_count": 4771,
+          "like_count": 174657,
+          "listed_count": 14,
+          "media_count": 4345,
+          "tweet_count": 57018
+        },
+        "url": "https://t.co/wArYYiJqno",
+        "username": "HOWLSMUSAH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

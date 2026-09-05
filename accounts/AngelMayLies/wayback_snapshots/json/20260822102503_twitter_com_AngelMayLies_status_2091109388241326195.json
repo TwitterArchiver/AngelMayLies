@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2090854693668839424"
+      ],
+      "media_source_tweet_id": [
+        "2090854710752206971"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091109388241326195",
+    "created_at": "2026-08-22T10:25:03.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091109388241326195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960451416704643072",
+          "start": 3,
+          "username": "clervette"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pEBl4GRaXY",
+          "end": 81,
+          "expanded_url": "https://x.com/clervette/status/2090854710752206971/photo/1",
+          "media_key": "16_2090854693668839424",
+          "start": 58,
+          "url": "https://t.co/pEBl4GRaXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091109388241326195",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2090854693668839424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1002
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090854710752206971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clervette: How I feel taking my prescribed medication https://t.co/pEBl4GRaXY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 370,
+        "media_key": "16_2090854693668839424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQQ1RB0W4AAoAgP.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQQ1RB0W4AAoAgP.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090854693668839424"
+          ],
+          "media_source_tweet_id": [
+            "2090854710752206971"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091109388241326195",
+        "created_at": "2026-08-22T10:25:03.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091109388241326195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960451416704643072",
+              "start": 3,
+              "username": "clervette"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEBl4GRaXY",
+              "end": 81,
+              "expanded_url": "https://x.com/clervette/status/2090854710752206971/photo/1",
+              "media_key": "16_2090854693668839424",
+              "start": 58,
+              "url": "https://t.co/pEBl4GRaXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091109388241326195",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2090854693668839424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1002
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090854710752206971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clervette: How I feel taking my prescribed medication https://t.co/pEBl4GRaXY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090854693668839424"
+          ]
+        },
+        "author_id": "1960451416704643072",
+        "conversation_id": "2090854710752206971",
+        "created_at": "2026-08-21T17:33:03.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090854710752206971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEBl4GRaXY",
+              "end": 66,
+              "expanded_url": "https://x.com/clervette/status/2090854710752206971/photo/1",
+              "media_key": "16_2090854693668839424",
+              "start": 43,
+              "url": "https://t.co/pEBl4GRaXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090854710752206971",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2090854693668839424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 61757,
+          "like_count": 5386,
+          "quote_count": 60,
+          "reply_count": 13,
+          "retweet_count": 1002
+        },
+        "reply_settings": "everyone",
+        "text": "How I feel taking my prescribed medication https://t.co/pEBl4GRaXY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2091109388241326195",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091104926353248256/gqmNp0VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 77,
+          "like_count": 3076,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-26T21:17:04.000Z",
+        "description": "je né hier désolé \nbeau prince-fille des roses",
+        "id": "1960451416704643072",
+        "is_identity_verified": false,
+        "location": "3 metres away",
+        "most_recent_tweet_id": "2091108631651463179",
+        "name": "🐁☕️",
+        "pinned_tweet_id": "2090120800401543679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960451416704643072/1786831760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090128199644545024/9AYN9Adn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 139,
+          "like_count": 70299,
+          "listed_count": 8,
+          "media_count": 2458,
+          "tweet_count": 12617
+        },
+        "url": "",
+        "username": "clervette",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

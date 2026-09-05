@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086719551534985216"
+      ],
+      "media_source_tweet_id": [
+        "2086719564419907843"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091180522697588865",
+    "created_at": "2026-08-22T15:07:43.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091180522697588865"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "人妖"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "CD"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "ts"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055376212751470593",
+          "start": 3,
+          "username": "AngelMayLies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0sGgqDlqDo",
+          "end": 61,
+          "expanded_url": "https://x.com/AngelMayLies/status/2086719564419907843/photo/1",
+          "media_key": "3_2086719551534985216",
+          "start": 38,
+          "url": "https://t.co/0sGgqDlqDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091180522697588865",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086719551534985216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086719564419907843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelMayLies: 人妖坐等老公入\n#人妖 #CD #ts https://t.co/0sGgqDlqDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086719551534985216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWEYE8a8AAV6kV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086719551534985216"
+          ],
+          "media_source_tweet_id": [
+            "2086719564419907843"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091180522697588865",
+        "created_at": "2026-08-22T15:07:43.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091180522697588865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "人妖"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "CD"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "ts"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055376212751470593",
+              "start": 3,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sGgqDlqDo",
+              "end": 61,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086719564419907843/photo/1",
+              "media_key": "3_2086719551534985216",
+              "start": 38,
+              "url": "https://t.co/0sGgqDlqDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091180522697588865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086719551534985216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086719564419907843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelMayLies: 人妖坐等老公入\n#人妖 #CD #ts https://t.co/0sGgqDlqDo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086719551534985216"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2086719564419907843",
+        "created_at": "2026-08-10T07:41:28.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086719564419907843"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "人妖"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "CD"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "ts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sGgqDlqDo",
+              "end": 43,
+              "expanded_url": "https://x.com/AngelMayLies/status/2086719564419907843/photo/1",
+              "media_key": "3_2086719551534985216",
+              "start": 20,
+              "url": "https://t.co/0sGgqDlqDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086719564419907843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086719551534985216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9528,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人妖坐等老公入\n#人妖 #CD #ts https://t.co/0sGgqDlqDo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2091180540280070623",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091104926353248256/gqmNp0VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 81,
+          "like_count": 3191,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

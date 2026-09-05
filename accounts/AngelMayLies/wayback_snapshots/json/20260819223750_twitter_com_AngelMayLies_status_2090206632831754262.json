@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090204554063384966",
+    "created_at": "2026-08-19T22:37:50.000Z",
+    "display_text_range": [
+      27,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T23:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090206632831754262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057497111718166531",
+          "start": 0,
+          "username": "ovum0000"
+        },
+        {
+          "end": 26,
+          "id": "2002670122767667200",
+          "start": 10,
+          "username": "Lotus_LianHua04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090206632831754262",
+    "in_reply_to_user_id": "2057497111718166531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090206082308427785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovum0000 @Lotus_LianHua04 哦哦哦，鉴定为，知性大姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2090206075249455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHnWd6bcAAlODN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090204554063384966",
+        "created_at": "2026-08-19T22:37:50.000Z",
+        "display_text_range": [
+          27,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090206632831754262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057497111718166531",
+              "start": 0,
+              "username": "ovum0000"
+            },
+            {
+              "end": 26,
+              "id": "2002670122767667200",
+              "start": 10,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090206632831754262",
+        "in_reply_to_user_id": "2057497111718166531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090206082308427785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovum0000 @Lotus_LianHua04 哦哦哦，鉴定为，知性大姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090206075249455104"
+          ]
+        },
+        "author_id": "2057497111718166531",
+        "conversation_id": "2090204554063384966",
+        "created_at": "2026-08-19T22:35:38.000Z",
+        "display_text_range": [
+          31,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090206082308427785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            },
+            {
+              "end": 30,
+              "id": "2002670122767667200",
+              "start": 14,
+              "username": "Lotus_LianHua04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFW64kl7IE",
+              "end": 95,
+              "expanded_url": "https://x.com/ovum0000/status/2090206082308427785/photo/1",
+              "media_key": "3_2090206075249455104",
+              "start": 72,
+              "url": "https://t.co/cFW64kl7IE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090206082308427785",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090206075249455104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090204743759241642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies @Lotus_LianHua04 没玩过那个什么传说之中的二十五人民币的鬼灭之刃。请问这是什么意思？帮我分析一下。 https://t.co/cFW64kl7IE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090206632831754262",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 77,
+          "like_count": 2863,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "天造地设操你妈",
+        "id": "2057497111718166531",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090206333052301522",
+        "name": "支国人种美学讲师",
+        "pinned_tweet_id": "2084666841298067575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057497111718166531/1779839623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089061458533605376/nYAqbyf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 55,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "is_identity_verified": false,
+        "location": "骨多摩多星球",
+        "most_recent_tweet_id": "2090188719462474115",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002670122767667200/1786639550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 24,
+          "like_count": 1904,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 3923
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

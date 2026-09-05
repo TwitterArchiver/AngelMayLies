@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090792451367989464",
+    "created_at": "2026-08-21T13:25:40.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090792451367989464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1301946865466867715",
+          "start": 3,
+          "username": "AugustEichel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090792451367989464",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 591
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090482737811480687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AugustEichel: My most autistic trait is I don't really understand therapeutic/spiritual injunction like \"open your heart\", \"clear your…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090792451367989464",
+        "created_at": "2026-08-21T13:25:40.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090792451367989464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1301946865466867715",
+              "start": 3,
+              "username": "AugustEichel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090792451367989464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 591
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090482737811480687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AugustEichel: My most autistic trait is I don't really understand therapeutic/spiritual injunction like \"open your heart\", \"clear your…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1301946865466867715",
+        "conversation_id": "2090482737811480687",
+        "created_at": "2026-08-20T16:54:58.000Z",
+        "display_text_range": [
+          0,
+          247
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090482737811480687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uncledoomer/st…",
+              "end": 271,
+              "expanded_url": "https://twitter.com/uncledoomer/status/2090426814342496599",
+              "start": 248,
+              "url": "https://t.co/dRsoVQLop9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090482737811480687",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2082,
+          "impression_count": 1986116,
+          "like_count": 17755,
+          "quote_count": 166,
+          "reply_count": 1212,
+          "retweet_count": 591
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090426814342496599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My most autistic trait is I don't really understand therapeutic/spiritual injunction like \"open your heart\", \"clear your mind\", \"find yourself\", and so on. I don't understand what people are actually doing when they say they're doing these things. https://t.co/dRsoVQLop9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090792451367989464",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090735505453568000/YduFkUmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 77,
+          "like_count": 2982,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1400
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-04T18:15:16.000Z",
+        "description": "Turbo-American.  Lusty Trad. Nurse appreciator. TRT advocate.",
+        "id": "1301946865466867715",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090632783492198483",
+        "name": "August",
+        "pinned_tweet_id": "2085058812659036295",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049458803704246273/1Qck1r0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 925,
+          "like_count": 80576,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 3900
+        },
+        "url": "",
+        "username": "AugustEichel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

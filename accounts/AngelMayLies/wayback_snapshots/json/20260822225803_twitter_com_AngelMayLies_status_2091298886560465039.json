@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091269125394112512"
+      ],
+      "media_source_tweet_id": [
+        "2091269132352377233"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091298886560465039",
+    "created_at": "2026-08-22T22:58:03.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T23:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091298886560465039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879635696358703104",
+          "start": 3,
+          "username": "darlingd1va"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XB3OenEjjb",
+          "end": 40,
+          "expanded_url": "https://x.com/darlingd1va/status/2091269132352377233/photo/1",
+          "media_key": "3_2091269125394112512",
+          "start": 17,
+          "url": "https://t.co/XB3OenEjjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091298886560465039",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091269125394112512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091269132352377233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darlingd1va: https://t.co/XB3OenEjjb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_2091269125394112512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWuMITboAAqf2W.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091269125394112512"
+          ],
+          "media_source_tweet_id": [
+            "2091269132352377233"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091298886560465039",
+        "created_at": "2026-08-22T22:58:03.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T23:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091298886560465039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879635696358703104",
+              "start": 3,
+              "username": "darlingd1va"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XB3OenEjjb",
+              "end": 40,
+              "expanded_url": "https://x.com/darlingd1va/status/2091269132352377233/photo/1",
+              "media_key": "3_2091269125394112512",
+              "start": 17,
+              "url": "https://t.co/XB3OenEjjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091298886560465039",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091269125394112512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091269132352377233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darlingd1va: https://t.co/XB3OenEjjb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091269125394112512"
+          ]
+        },
+        "author_id": "1879635696358703104",
+        "conversation_id": "2091269132352377233",
+        "created_at": "2026-08-22T20:59:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091269132352377233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XB3OenEjjb",
+              "end": 23,
+              "expanded_url": "https://x.com/darlingd1va/status/2091269132352377233/photo/1",
+              "media_key": "3_2091269125394112512",
+              "start": 0,
+              "url": "https://t.co/XB3OenEjjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091269132352377233",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091269125394112512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1073,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XB3OenEjjb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091298886560465039",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091296558134513665/TizkhK0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 82,
+          "like_count": 3286,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1604
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-15T21:04:19.000Z",
+        "description": "",
+        "id": "1879635696358703104",
+        "is_identity_verified": false,
+        "location": "dead",
+        "most_recent_tweet_id": "2091269132352377233",
+        "name": "tu vampira",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879635696358703104/1785283771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084151359243534336/otPPUMd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 8,
+          "like_count": 1040,
+          "listed_count": 7,
+          "media_count": 240,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "darlingd1va",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

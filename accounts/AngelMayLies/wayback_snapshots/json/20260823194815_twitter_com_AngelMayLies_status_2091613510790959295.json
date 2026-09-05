@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091546241041887232"
+      ],
+      "media_source_tweet_id": [
+        "2091546318103773479"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091613510790959295",
+    "created_at": "2026-08-23T19:48:15.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T20:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091613510790959295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1704329484579885056",
+          "start": 3,
+          "username": "huaying370"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ylRdE1TjPp",
+          "end": 64,
+          "expanded_url": "https://x.com/huaying370/status/2091546318103773479/video/1",
+          "media_key": "13_2091546241041887232",
+          "start": 41,
+          "url": "https://t.co/ylRdE1TjPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091613510790959295",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091546241041887232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091546318103773479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaying370: 专门定了烫金的诗集……拿这个来拍战损好舍不得🏳️ https://t.co/ylRdE1TjPp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7023,
+        "height": 1280,
+        "media_key": "13_2091546241041887232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091546241041887232/img/fcjLH5Oueq9xJ05L.jpg",
+        "public_metrics": {
+          "view_count": 81
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091546241041887232/vid/avc1/320x568/vYeMrPcDUonEw6Vh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091546241041887232/vid/avc1/480x852/T07DyJMdI2D5DjMa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091546241041887232/vid/avc1/720x1280/mlyend7CyovsZNrf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091546241041887232/pl/EouidltDcQdhf8Mn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091546241041887232"
+          ],
+          "media_source_tweet_id": [
+            "2091546318103773479"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091613510790959295",
+        "created_at": "2026-08-23T19:48:15.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091613510790959295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1704329484579885056",
+              "start": 3,
+              "username": "huaying370"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylRdE1TjPp",
+              "end": 64,
+              "expanded_url": "https://x.com/huaying370/status/2091546318103773479/video/1",
+              "media_key": "13_2091546241041887232",
+              "start": 41,
+              "url": "https://t.co/ylRdE1TjPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091613510790959295",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091546241041887232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091546318103773479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaying370: 专门定了烫金的诗集……拿这个来拍战损好舍不得🏳️ https://t.co/ylRdE1TjPp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091546241041887232"
+          ]
+        },
+        "author_id": "1704329484579885056",
+        "conversation_id": "2091546318103773479",
+        "created_at": "2026-08-23T15:21:15.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091546318103773479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylRdE1TjPp",
+              "end": 48,
+              "expanded_url": "https://x.com/huaying370/status/2091546318103773479/video/1",
+              "media_key": "13_2091546241041887232",
+              "start": 25,
+              "url": "https://t.co/ylRdE1TjPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091546318103773479",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091546241041887232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 145,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "专门定了烫金的诗集……拿这个来拍战损好舍不得🏳️ https://t.co/ylRdE1TjPp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091613510790959295",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 85,
+          "like_count": 3558,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-20T02:59:59.000Z",
+        "description": "我是花楹｜20↑｜DMC｜VN💙🩵only｜Not my art but my commision",
+        "id": "1704329484579885056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091554602915340593",
+        "name": "正在学习使用社交媒体",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704329484579885056/1763947979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992767761295298560/L6FASaua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 39,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "huaying370",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

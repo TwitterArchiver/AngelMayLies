@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091981065971744768"
+      ],
+      "media_source_tweet_id": [
+        "2091981153502740835"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092275150087770517",
+    "created_at": "2026-08-25T15:37:23.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T16:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092275150087770517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2085795576298323968",
+          "start": 3,
+          "username": "glasgowsmiler"
+        },
+        {
+          "end": 32,
+          "id": "2087434655339323392",
+          "start": 19,
+          "username": "asahikawaezo"
+        },
+        {
+          "end": 47,
+          "id": "2061934247880122369",
+          "start": 33,
+          "username": "spockrockcock"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOteEvKKgz",
+          "end": 82,
+          "expanded_url": "https://x.com/glasgowsmiler/status/2091981153502740835/video/1",
+          "media_key": "13_2091981065971744768",
+          "start": 59,
+          "url": "https://t.co/LOteEvKKgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092275150087770517",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091981065971744768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091981153502740835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @glasgowsmiler: @asahikawaezo @spockrockcock i found it https://t.co/LOteEvKKgz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83000,
+        "height": 576,
+        "media_key": "13_2091981065971744768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091981065971744768/img/V1G7-7Tn_13MW4io.jpg",
+        "public_metrics": {
+          "view_count": 3850923
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091981065971744768/vid/avc1/346x270/vkAEJe6-UYrA6pb5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091981065971744768/vid/avc1/462x360/uB7-gm4PSuIqVzIf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091981065971744768/vid/avc1/742x576/rA51MI5JhqnyCW5H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091981065971744768/pl/roLCe6voHFn1FoTM.m3u8"
+          }
+        ],
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091981065971744768"
+          ],
+          "media_source_tweet_id": [
+            "2091981153502740835"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092275150087770517",
+        "created_at": "2026-08-25T15:37:23.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092275150087770517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2085795576298323968",
+              "start": 3,
+              "username": "glasgowsmiler"
+            },
+            {
+              "end": 32,
+              "id": "2087434655339323392",
+              "start": 19,
+              "username": "asahikawaezo"
+            },
+            {
+              "end": 47,
+              "id": "2061934247880122369",
+              "start": 33,
+              "username": "spockrockcock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOteEvKKgz",
+              "end": 82,
+              "expanded_url": "https://x.com/glasgowsmiler/status/2091981153502740835/video/1",
+              "media_key": "13_2091981065971744768",
+              "start": 59,
+              "url": "https://t.co/LOteEvKKgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092275150087770517",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091981065971744768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091981153502740835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @glasgowsmiler: @asahikawaezo @spockrockcock i found it https://t.co/LOteEvKKgz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091981065971744768"
+          ]
+        },
+        "author_id": "2085795576298323968",
+        "conversation_id": "2091879106619084871",
+        "created_at": "2026-08-24T20:09:08.000Z",
+        "display_text_range": [
+          29,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091981153502740835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087434655339323392",
+              "start": 0,
+              "username": "asahikawaezo"
+            },
+            {
+              "end": 28,
+              "id": "2061934247880122369",
+              "start": 14,
+              "username": "spockrockcock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOteEvKKgz",
+              "end": 63,
+              "expanded_url": "https://x.com/glasgowsmiler/status/2091981153502740835/video/1",
+              "media_key": "13_2091981065971744768",
+              "start": 40,
+              "url": "https://t.co/LOteEvKKgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091981153502740835",
+        "in_reply_to_user_id": "2087434655339323392",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091981065971744768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5784,
+          "impression_count": 11002609,
+          "like_count": 8051,
+          "quote_count": 246,
+          "reply_count": 26,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091980834328698888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahikawaezo @spockrockcock i found it https://t.co/LOteEvKKgz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092275150087770517",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 88,
+          "like_count": 3853,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T18:33:56.000Z",
+        "description": "i'm taking back my heart, you were digging a hole for it six feet deep at the state park",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sleepingwithstrangers.straw.page",
+                "end": 23,
+                "expanded_url": "https://sleepingwithstrangers.straw.page",
+                "start": 0,
+                "url": "https://t.co/Dpvb5iXTGo"
+              }
+            ]
+          }
+        },
+        "id": "2085795576298323968",
+        "is_identity_verified": false,
+        "location": "MA",
+        "most_recent_tweet_id": "2092250871220351432",
+        "name": "edweird",
+        "pinned_tweet_id": "2089041566904021343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085795576298323968/1787666200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092246800820264960/Te1-rd21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 128,
+          "like_count": 1965,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/Dpvb5iXTGo",
+        "username": "glasgowsmiler",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T07:04:04.000Z",
+        "description": "what good are words when a smile says it all, priv/nsfw acc: @kurozettonokuno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "kurozettonokuno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fag.com",
+                "end": 23,
+                "expanded_url": "http://fag.com",
+                "start": 0,
+                "url": "https://t.co/mKJiC0pfzB"
+              }
+            ]
+          }
+        },
+        "id": "2087434655339323392",
+        "is_identity_verified": false,
+        "location": "Qiandongnan Miao and Dong Auto",
+        "most_recent_tweet_id": "2092267219967164768",
+        "name": "schuyler ☭",
+        "pinned_tweet_id": "2090455915782651983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087434655339323392/1787431270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091264390129487872/pi3N50pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 499,
+          "like_count": 1452,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/mKJiC0pfzB",
+        "username": "asahikawaezo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T22:14:09.000Z",
+        "description": "#musictwt #emotwt ; avid jeromes dream & orchid glazer || 🇲🇽🇪🇸 transmasc , 3yrs on t",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "musictwt"
+              },
+              {
+                "end": 17,
+                "start": 10,
+                "tag": "emotwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "i.airbuds.fm/combatwoundedv…",
+                "end": 23,
+                "expanded_url": "https://i.airbuds.fm/combatwoundedveteran/LirNjwBIbx",
+                "start": 0,
+                "url": "https://t.co/QI3o9YWBYq"
+              }
+            ]
+          }
+        },
+        "id": "2061934247880122369",
+        "is_identity_verified": false,
+        "location": "7teen ",
+        "most_recent_tweet_id": "2092275021926547469",
+        "name": "zeke ♫⃠",
+        "pinned_tweet_id": "2092061738304966942",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061934247880122369/1780438616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068914187905138688/gG6mla4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 296,
+          "like_count": 12923,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/QI3o9YWBYq",
+        "username": "spockrockcock",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

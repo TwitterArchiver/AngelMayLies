@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092209683201507592",
+    "created_at": "2026-08-25T11:21:12.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092210680950907362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753252496217374720",
+          "start": 0,
+          "username": "ZakkysBabypink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092210680950907362",
+    "in_reply_to_user_id": "1753252496217374720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092209683201507592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZakkysBabypink 马上成为我的热门必拍打卡点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2092209478028713984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkFb22bYAAgXZZ.jpg",
+        "width": 2992
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2092209509829849088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkFdtUaMAAaU2K.jpg",
+        "width": 2992
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2092209530860158976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkFe7qbQAA66a8.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092209683201507592",
+        "created_at": "2026-08-25T11:21:12.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092210680950907362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753252496217374720",
+              "start": 0,
+              "username": "ZakkysBabypink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092210680950907362",
+        "in_reply_to_user_id": "1753252496217374720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092209683201507592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZakkysBabypink 马上成为我的热门必拍打卡点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092209478028713984",
+            "3_2092209509829849088",
+            "3_2092209530860158976"
+          ]
+        },
+        "author_id": "1753252496217374720",
+        "conversation_id": "2092209683201507592",
+        "created_at": "2026-08-25T11:17:14.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092209683201507592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKZrQiMVlB",
+              "end": 50,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092209683201507592/photo/1",
+              "media_key": "3_2092209478028713984",
+              "start": 27,
+              "url": "https://t.co/lKZrQiMVlB"
+            },
+            {
+              "display_url": "pic.x.com/lKZrQiMVlB",
+              "end": 50,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092209683201507592/photo/1",
+              "media_key": "3_2092209509829849088",
+              "start": 27,
+              "url": "https://t.co/lKZrQiMVlB"
+            },
+            {
+              "display_url": "pic.x.com/lKZrQiMVlB",
+              "end": 50,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092209683201507592/photo/1",
+              "media_key": "3_2092209530860158976",
+              "start": 27,
+              "url": "https://t.co/lKZrQiMVlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092209683201507592",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092209478028713984"
+          },
+          {
+            "media_key": "3_2092209509829849088"
+          },
+          {
+            "media_key": "3_2092209530860158976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去给车贴了个新货同款色号的Baby Pink，我欣赏 https://t.co/lKZrQiMVlB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092210680950907362",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 88,
+          "like_count": 3830,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1906
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T03:02:34.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉 ↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/vNCEKjdqh2"
+              }
+            ]
+          }
+        },
+        "id": "1753252496217374720",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基，新墨西哥州",
+        "most_recent_tweet_id": "2092209683201507592",
+        "name": "扎鸡叔 第15世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753252496217374720/1787642059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092148489149161473/pAITmmYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 34,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/vNCEKjdqh2",
+        "username": "ZakkysBabypink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

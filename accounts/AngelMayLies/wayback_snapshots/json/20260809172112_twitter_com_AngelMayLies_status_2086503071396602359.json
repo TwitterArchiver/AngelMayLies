@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2086501377937911920",
+    "created_at": "2026-08-09T17:21:12.000Z",
+    "display_text_range": [
+      13,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086503071396602359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843735518401703937",
+          "start": 0,
+          "username": "momokoo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086503071396602359",
+    "in_reply_to_user_id": "1843735518401703937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086501377937911920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momokoo8964 卧槽这么大风，我桃儿这么瘦别给我桃吹飞了😭😔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 1280,
+        "media_key": "13_2086501280076517376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086501280076517376/img/1bc-ArDa5sGqu4aW.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086501280076517376/vid/avc1/320x568/ncDecY1fN7KgQS-0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086501280076517376/vid/avc1/480x852/rLN_yaHosZWLj70B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086501280076517376/vid/avc1/720x1280/vk6JfxCKQaGI_emV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086501280076517376/pl/7TyQgwqp8i-LYVO4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2086501377937911920",
+        "created_at": "2026-08-09T17:21:12.000Z",
+        "display_text_range": [
+          13,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086503071396602359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843735518401703937",
+              "start": 0,
+              "username": "momokoo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086503071396602359",
+        "in_reply_to_user_id": "1843735518401703937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086501377937911920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momokoo8964 卧槽这么大风，我桃儿这么瘦别给我桃吹飞了😭😔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086501280076517376"
+          ]
+        },
+        "author_id": "1843735518401703937",
+        "conversation_id": "2086501377937911920",
+        "created_at": "2026-08-09T17:14:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086501377937911920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btr1bZ6dMj",
+              "end": 23,
+              "expanded_url": "https://x.com/momokoo8964/status/2086501377937911920/video/1",
+              "media_key": "13_2086501280076517376",
+              "start": 0,
+              "url": "https://t.co/btr1bZ6dMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086501377937911920",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086501280076517376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/btr1bZ6dMj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2086503071396602359",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 67,
+          "like_count": 1973,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 924
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "我对生活充满了希望",
+        "id": "1843735518401703937",
+        "is_identity_verified": false,
+        "location": "🚪88 288",
+        "most_recent_tweet_id": "2086502206707315051",
+        "name": "苦桃",
+        "pinned_tweet_id": "2084532202680029431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843735518401703937/1779114438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083833048358162432/4qdpy-Bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 155,
+          "like_count": 5489,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 1835
+        },
+        "url": "",
+        "username": "momokoo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

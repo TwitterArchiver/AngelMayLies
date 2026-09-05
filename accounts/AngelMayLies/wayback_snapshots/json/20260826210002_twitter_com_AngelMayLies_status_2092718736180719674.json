@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092536401871204467",
+    "created_at": "2026-08-26T21:00:02.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092718736180719674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050195658603483136",
+          "start": 0,
+          "username": "Idontwanttmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092718736180719674",
+    "in_reply_to_user_id": "2050195658603483136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092536401871204467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontwanttmf 幺幺😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4851,
+        "height": 1280,
+        "media_key": "13_2092536369356914688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092536369356914688/img/XUZdTsQCGvE7Y2Wl.jpg",
+        "public_metrics": {
+          "view_count": 201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092536369356914688/vid/avc1/320x568/9P564I7lgaaJ8484.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092536369356914688/vid/avc1/480x852/Yu-DZzlVGrG_r1Ye.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092536369356914688/vid/avc1/720x1280/cEBq1I9BS7m_SRlw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092536369356914688/pl/jBm5C6VWghorCYB8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092536401871204467",
+        "created_at": "2026-08-26T21:00:02.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092718736180719674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050195658603483136",
+              "start": 0,
+              "username": "Idontwanttmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092718736180719674",
+        "in_reply_to_user_id": "2050195658603483136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092536401871204467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontwanttmf 幺幺😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092536369356914688"
+          ]
+        },
+        "author_id": "2050195658603483136",
+        "conversation_id": "2092536401871204467",
+        "created_at": "2026-08-26T08:55:30.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092536401871204467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7A5Eh5dXY",
+              "end": 26,
+              "expanded_url": "https://x.com/Idontwanttmf/status/2092536401871204467/video/1",
+              "media_key": "13_2092536369356914688",
+              "start": 3,
+              "url": "https://t.co/A7A5Eh5dXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092536401871204467",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092536369356914688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 692,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "野泳 https://t.co/A7A5Eh5dXY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自歹戋自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠️#5htwt #drugtwt ⚠️|我是Dizzy也可以叫我枭儿| he/them | 防绑架备用：@_DerLiebe ｜𝑳𝒐𝒗𝒆 𝑪𝒖𝒕𝒔 𝑴𝒆 𝑳𝒊𝒌𝒆 𝒀𝒂𝒎𝒂𝒕𝒐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "5htwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_DerLiebe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cabr_lies1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cabr_lies1",
+                "start": 0,
+                "url": "https://t.co/CQk5Qxfs8t"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092718736180719674",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680232574869504/YnS77iuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 88,
+          "like_count": 3871,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/CQk5Qxfs8t",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T12:49:21.000Z",
+        "description": "🚪88\n第四世\n前世：\n@kira20194922529\n@keaiiea\n@TheFirstKidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "kira20194922529"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "keaiiea"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "TheFirstKidz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/YpqUDCP61D"
+              }
+            ]
+          }
+        },
+        "id": "2050195658603483136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092622408155062526",
+        "name": "Jonas（4.0）",
+        "pinned_tweet_id": "2091201445618225564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050195658603483136/1784164826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077563930407546880/oMF7brlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 295,
+          "like_count": 5332,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/YpqUDCP61D",
+        "username": "Idontwanttmf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

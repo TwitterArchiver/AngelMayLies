@@ -1,0 +1,640 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1803072370292244480"
+      ],
+      "media_source_tweet_id": [
+        "1803072383781069189"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091675923674493341",
+    "created_at": "2026-08-23T23:56:16.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T00:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091675923674493341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019195897251237888",
+          "start": 3,
+          "username": "remyrayner"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fep3lQUHbV",
+          "end": 107,
+          "expanded_url": "https://x.com/shmunkyvids/status/1803072383781069189/video/1",
+          "media_key": "7_1803072370292244480",
+          "start": 84,
+          "url": "https://t.co/fep3lQUHbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091675923674493341",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "7_1803072370292244480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091356970909311359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @remyrayner: quando você percebe que ta se humilhando para conversar com alguém  https://t.co/fep3lQUHbV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16550,
+        "height": 460,
+        "media_key": "7_1803072370292244480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1803072370292244480/pu/img/HnjZv0O6QQqjK7IN.jpg",
+        "public_metrics": {
+          "view_count": 214617
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803072370292244480/pu/vid/avc1/326x270/3zMZ4Q1g2jNFBu7t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803072370292244480/pu/vid/avc1/558x460/w95FMY3IIl3zQ7Wb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803072370292244480/pu/pl/qHVyi-SvYzMcWDtl.m3u8?tag=12&v=eb2"
+          }
+        ],
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1803072370292244480"
+          ],
+          "media_source_tweet_id": [
+            "1803072383781069189"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091675923674493341",
+        "created_at": "2026-08-23T23:56:16.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T00:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091675923674493341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019195897251237888",
+              "start": 3,
+              "username": "remyrayner"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fep3lQUHbV",
+              "end": 107,
+              "expanded_url": "https://x.com/shmunkyvids/status/1803072383781069189/video/1",
+              "media_key": "7_1803072370292244480",
+              "start": 84,
+              "url": "https://t.co/fep3lQUHbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091675923674493341",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1803072370292244480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091356970909311359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @remyrayner: quando você percebe que ta se humilhando para conversar com alguém  https://t.co/fep3lQUHbV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1803072370292244480"
+          ],
+          "media_source_tweet_id": [
+            "1803072383781069189"
+          ]
+        },
+        "author_id": "2019195897251237888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091356970909311359",
+        "created_at": "2026-08-23T02:48:52.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091356970909311359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fep3lQUHbV",
+              "end": 91,
+              "expanded_url": "https://x.com/shmunkyvids/status/1803072383781069189/video/1",
+              "media_key": "7_1803072370292244480",
+              "start": 68,
+              "url": "https://t.co/fep3lQUHbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091356970909311359",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1803072370292244480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 46506,
+          "like_count": 6740,
+          "quote_count": 41,
+          "reply_count": 10,
+          "retweet_count": 1555
+        },
+        "reply_settings": "everyone",
+        "text": "quando você percebe que ta se humilhando para conversar com alguém  https://t.co/fep3lQUHbV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1803072370292244480"
+          ]
+        },
+        "author_id": "1610499461054169089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The adventures of an eccentric family living in New England.\n\nPhoto via @FamilyGuyonFOX",
+              "id": "10000614450",
+              "name": "Family Guy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Sick, twisted and politically incorrect, the animated series features the adventures of the Griffin family. Endearingly ignorant Peter and stay-at-home wife Lois reside in Quahog, R.I., and have three kids. Meg, the eldest child, is a social outcast, and teenage Chris is awkward and clueless when it comes to the opposite sex. The youngest, Stewie, is a genius baby bent on killing his mother and destroying the world. The talking dog, Brian, keeps Stewie in check while sipping martinis and sorting through his own life issues.",
+              "id": "10027336708",
+              "name": "Family Guy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British singer-songwriter FKA twigs.",
+              "id": "1189261706955902976",
+              "name": "FKA twigs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "British singer-songwriter FKA twigs.",
+              "id": "1189261706955902976",
+              "name": "FKA twigs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Ballet",
+              "id": "1075097515064623104",
+              "name": "Ballet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ballet",
+              "id": "1075097515064623104",
+              "name": "Ballet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British singer-songwriter FKA twigs.",
+              "id": "1189261706955902976",
+              "name": "FKA twigs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255601767376515072",
+              "name": "Family Guy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1255601767376515072",
+              "name": "Family Guy"
+            }
+          }
+        ],
+        "conversation_id": "1803072383781069189",
+        "created_at": "2024-06-18T14:28:50.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2024-06-18T15:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803072383781069189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A37bPGVjNq",
+              "end": 100,
+              "expanded_url": "https://x.com/shmunkyvids/status/1803072383781069189/video/1",
+              "media_key": "7_1803072370292244480",
+              "start": 77,
+              "url": "https://t.co/A37bPGVjNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803072383781069189",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1803072370292244480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 447,
+          "impression_count": 116854,
+          "like_count": 216,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "meg griffin ballerina performing in an empty theater to fka twigs cellophane https://t.co/A37bPGVjNq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091675923674493341",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 84,
+          "like_count": 3606,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1794
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T23:47:07.000Z",
+        "description": "amo café",
+        "id": "2019195897251237888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091659450964721980",
+        "name": "remy com café",
+        "pinned_tweet_id": "2019766238017130576",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019195897251237888/1787433247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089347042443210752/hZ98EU4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 87,
+          "like_count": 4396,
+          "listed_count": 1,
+          "media_count": 992,
+          "tweet_count": 2772
+        },
+        "url": "",
+        "username": "remyrayner",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092196222266470400"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092194241791635905",
+    "created_at": "2026-08-25T10:23:45.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092196225017921603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRceYUDicI",
+          "end": 40,
+          "expanded_url": "https://x.com/AngelMayLies/status/2092196225017921603/photo/1",
+          "media_key": "3_2092196222266470400",
+          "start": 17,
+          "url": "https://t.co/QRceYUDicI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092196225017921603",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092196222266470400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092194241791635905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 我嗑嗨了 https://t.co/QRceYUDicI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092196222266470400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQj5YRSbcAACe9M.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092196222266470400"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092194241791635905",
+        "created_at": "2026-08-25T10:23:45.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092196225017921603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRceYUDicI",
+              "end": 40,
+              "expanded_url": "https://x.com/AngelMayLies/status/2092196225017921603/photo/1",
+              "media_key": "3_2092196222266470400",
+              "start": 17,
+              "url": "https://t.co/QRceYUDicI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092196225017921603",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092196222266470400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092194241791635905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 我嗑嗨了 https://t.co/QRceYUDicI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2092194240101265410"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2092194241791635905",
+        "created_at": "2026-08-25T10:15:52.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092194241791635905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092194241791635905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杀不杀狗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092196225017921603",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 88,
+          "like_count": 3815,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1900
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092195751061582204",
+        "name": "披麻戴孝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429055428374130693/1785878117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092154094517669888/9Uy4Nic6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 333,
+          "like_count": 23141,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 6041
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

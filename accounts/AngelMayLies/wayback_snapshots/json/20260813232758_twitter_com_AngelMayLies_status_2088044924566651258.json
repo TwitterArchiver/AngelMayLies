@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087952532291108864"
+      ],
+      "media_source_tweet_id": [
+        "2087952539752751233"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088044924566651258",
+    "created_at": "2026-08-13T23:27:58.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088044924566651258"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 53,
+          "tag": "HELLSING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1387477341170028551",
+          "start": 3,
+          "username": "mah0vany"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ukCuKg8zDw",
+          "end": 86,
+          "expanded_url": "https://x.com/mah0vany/status/2087952539752751233/photo/1",
+          "media_key": "3_2087952532291108864",
+          "start": 63,
+          "url": "https://t.co/ukCuKg8zDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088044924566651258",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087952532291108864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 703
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087952539752751233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mah0vany: What are they some kind of soul eaters #HELLSING https://t.co/ukCuKg8zDw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2814,
+        "media_key": "3_2087952532291108864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnlxAMWwAASvqX.jpg",
+        "width": 2470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087952532291108864"
+          ]
+        },
+        "author_id": "1387477341170028551",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087952539752751233",
+        "created_at": "2026-08-13T17:20:52.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087952539752751233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "HELLSING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ukCuKg8zDw",
+              "end": 72,
+              "expanded_url": "https://x.com/mah0vany/status/2087952539752751233/photo/1",
+              "media_key": "3_2087952532291108864",
+              "start": 49,
+              "url": "https://t.co/ukCuKg8zDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087952539752751233",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087952532291108864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 488,
+          "impression_count": 39742,
+          "like_count": 4713,
+          "quote_count": 22,
+          "reply_count": 18,
+          "retweet_count": 703
+        },
+        "reply_settings": "everyone",
+        "text": "What are they some kind of soul eaters #HELLSING https://t.co/ukCuKg8zDw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087952532291108864"
+          ],
+          "media_source_tweet_id": [
+            "2087952539752751233"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088044924566651258",
+        "created_at": "2026-08-13T23:27:58.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088044924566651258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "HELLSING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1387477341170028551",
+              "start": 3,
+              "username": "mah0vany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ukCuKg8zDw",
+              "end": 86,
+              "expanded_url": "https://x.com/mah0vany/status/2087952539752751233/photo/1",
+              "media_key": "3_2087952532291108864",
+              "start": 63,
+              "url": "https://t.co/ukCuKg8zDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088044924566651258",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087952532291108864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 703
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087952539752751233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mah0vany: What are they some kind of soul eaters #HELLSING https://t.co/ukCuKg8zDw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088044924566651258",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 77,
+          "like_count": 2477,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1158
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-28T18:42:45.000Z",
+        "description": "🏳️‍🌈🇷🇸.🇫🇷🇺🇸 | 23 | Hellsing poster | ⚠️NO REPOSTS⚠️ | rightwing/terfs/maps/zionists DNI | tiktok: mossblunt | tumblr: cry-ptidd | pfp by @discuitbisco🐐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 137,
+                "username": "discuitbisco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mah0vany.straw.page",
+                "end": 23,
+                "expanded_url": "https://mah0vany.straw.page",
+                "start": 0,
+                "url": "https://t.co/6YqKH24AKR"
+              }
+            ]
+          }
+        },
+        "id": "1387477341170028551",
+        "is_identity_verified": false,
+        "location": "She/he/whatever",
+        "most_recent_tweet_id": "2087965657581187550",
+        "name": "nev",
+        "pinned_tweet_id": "2087952539752751233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387477341170028551/1777670383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050322452656373760/sMs1eDlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5107,
+          "following_count": 333,
+          "like_count": 124503,
+          "listed_count": 12,
+          "media_count": 1831,
+          "tweet_count": 27302
+        },
+        "url": "https://t.co/6YqKH24AKR",
+        "username": "mah0vany",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

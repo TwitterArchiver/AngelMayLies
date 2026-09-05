@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090271354738405376",
+        "3_2090271356676096001",
+        "3_2090271353392041984",
+        "3_2090271361352732672"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090271363688972489",
+    "created_at": "2026-08-20T02:55:03.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090271363688972489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0z7wA2MFzw",
+          "end": 134,
+          "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+          "media_key": "3_2090271354738405376",
+          "start": 111,
+          "url": "https://t.co/0z7wA2MFzw"
+        },
+        {
+          "display_url": "pic.x.com/0z7wA2MFzw",
+          "end": 134,
+          "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+          "media_key": "3_2090271356676096001",
+          "start": 111,
+          "url": "https://t.co/0z7wA2MFzw"
+        },
+        {
+          "display_url": "pic.x.com/0z7wA2MFzw",
+          "end": 134,
+          "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+          "media_key": "3_2090271353392041984",
+          "start": 111,
+          "url": "https://t.co/0z7wA2MFzw"
+        },
+        {
+          "display_url": "pic.x.com/0z7wA2MFzw",
+          "end": 134,
+          "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+          "media_key": "3_2090271361352732672",
+          "start": 111,
+          "url": "https://t.co/0z7wA2MFzw"
+        },
+        {
+          "display_url": "x.com/Lola_Scarlet_/…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/Lola_Scarlet_/status/2089626340085600457",
+          "start": 135,
+          "url": "https://t.co/9WhIxVpHVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090271363688972489",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090271354738405376"
+      },
+      {
+        "media_key": "3_2090271356676096001"
+      },
+      {
+        "media_key": "3_2090271353392041984"
+      },
+      {
+        "media_key": "3_2090271361352732672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089626340085600457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想转发，然后把你得了软骨瘤的事情告知全世界，然后告诉所有人，我正在陪我兄弟（同时也是我导死了的导师、我的婊子、我的清真半魔Labubu）进行一个小事化大的抗癌，所以把微信头像换成了杰西平克曼，我就觉得我好逗逼，我好纯爱 https://t.co/0z7wA2MFzw https://t.co/9WhIxVpHVw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1765,
+        "media_key": "3_2090271354738405376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIiuO9bcAAREkm.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1892,
+        "media_key": "3_2090271356676096001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIiuWLaQAECjuV.jpg",
+        "width": 1262
+      },
+      {
+        "height": 1539,
+        "media_key": "3_2090271353392041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIiuJ8bkAAa_cR.jpg",
+        "width": 1264
+      },
+      {
+        "height": 594,
+        "media_key": "3_2090271361352732672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIiunmaEAAKUnn.jpg",
+        "width": 745
+      },
+      {
+        "height": 1207,
+        "media_key": "3_2089626335144706049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_YFJuaAAEEHey.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090271354738405376",
+            "3_2090271356676096001",
+            "3_2090271353392041984",
+            "3_2090271361352732672"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090271363688972489",
+        "created_at": "2026-08-20T02:55:03.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090271363688972489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0z7wA2MFzw",
+              "end": 134,
+              "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+              "media_key": "3_2090271354738405376",
+              "start": 111,
+              "url": "https://t.co/0z7wA2MFzw"
+            },
+            {
+              "display_url": "pic.x.com/0z7wA2MFzw",
+              "end": 134,
+              "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+              "media_key": "3_2090271356676096001",
+              "start": 111,
+              "url": "https://t.co/0z7wA2MFzw"
+            },
+            {
+              "display_url": "pic.x.com/0z7wA2MFzw",
+              "end": 134,
+              "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+              "media_key": "3_2090271353392041984",
+              "start": 111,
+              "url": "https://t.co/0z7wA2MFzw"
+            },
+            {
+              "display_url": "pic.x.com/0z7wA2MFzw",
+              "end": 134,
+              "expanded_url": "https://x.com/AngelMayLies/status/2090271363688972489/photo/1",
+              "media_key": "3_2090271361352732672",
+              "start": 111,
+              "url": "https://t.co/0z7wA2MFzw"
+            },
+            {
+              "display_url": "x.com/Lola_Scarlet_/…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/Lola_Scarlet_/status/2089626340085600457",
+              "start": 135,
+              "url": "https://t.co/9WhIxVpHVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090271363688972489",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090271354738405376"
+          },
+          {
+            "media_key": "3_2090271356676096001"
+          },
+          {
+            "media_key": "3_2090271353392041984"
+          },
+          {
+            "media_key": "3_2090271361352732672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089626340085600457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想转发，然后把你得了软骨瘤的事情告知全世界，然后告诉所有人，我正在陪我兄弟（同时也是我导死了的导师、我的婊子、我的清真半魔Labubu）进行一个小事化大的抗癌，所以把微信头像换成了杰西平克曼，我就觉得我好逗逼，我好纯爱 https://t.co/0z7wA2MFzw https://t.co/9WhIxVpHVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089626335144706049"
+          ]
+        },
+        "author_id": "2014844239004442624",
+        "conversation_id": "2089626340085600457",
+        "created_at": "2026-08-18T08:11:57.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089626340085600457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruFTqGNuso",
+              "end": 27,
+              "expanded_url": "https://x.com/Lola_Scarlet_/status/2089626340085600457/photo/1",
+              "media_key": "3_2089626335144706049",
+              "start": 4,
+              "url": "https://t.co/ruFTqGNuso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089626340085600457",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089626335144706049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在 https://t.co/ruFTqGNuso"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090271363688972489",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 77,
+          "like_count": 2888,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T23:34:57.000Z",
+        "description": "保持爱与和平直到AI智能将我们折磨",
+        "id": "2014844239004442624",
+        "is_identity_verified": false,
+        "location": "🌏",
+        "most_recent_tweet_id": "2090240564902150645",
+        "name": "LU",
+        "pinned_tweet_id": "2082717630474191193",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014844239004442624/1786314991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086580999580991488/UeElTAYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 29,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Lola_Scarlet_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

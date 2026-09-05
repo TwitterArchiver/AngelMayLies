@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085878109799391232"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2085739227741098215",
+    "created_at": "2026-08-07T23:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085878116677996830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041517561272299520",
+          "start": 0,
+          "username": "Lovingyou13579"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Ack6DznoD",
+          "end": 39,
+          "expanded_url": "https://x.com/AngelMayLies/status/2085878116677996830/photo/1",
+          "media_key": "3_2085878109799391232",
+          "start": 16,
+          "url": "https://t.co/9Ack6DznoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085878116677996830",
+    "in_reply_to_user_id": "2041517561272299520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085740853398761945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovingyou13579 https://t.co/9Ack6DznoD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1530,
+        "media_key": "3_2085878109799391232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKHFuNbIAAbiCv.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085878109799391232"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2085739227741098215",
+        "created_at": "2026-08-07T23:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085878116677996830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041517561272299520",
+              "start": 0,
+              "username": "Lovingyou13579"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ack6DznoD",
+              "end": 39,
+              "expanded_url": "https://x.com/AngelMayLies/status/2085878116677996830/photo/1",
+              "media_key": "3_2085878109799391232",
+              "start": 16,
+              "url": "https://t.co/9Ack6DznoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085878116677996830",
+        "in_reply_to_user_id": "2041517561272299520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085740853398761945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovingyou13579 https://t.co/9Ack6DznoD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041517561272299520",
+        "conversation_id": "2085739227741098215",
+        "created_at": "2026-08-07T14:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085740853398761945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085740853398761945",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085739227741098215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 亿万人。爱彼此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 65,
+          "like_count": 1924,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 899
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T14:06:38.000Z",
+        "description": "薇薇狂热女粉丝",
+        "id": "2041517561272299520",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084193851091357696/edlkZJTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 50,
+          "like_count": 2156,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "Lovingyou13579",
+        "verified": false
+      }
+    ]
+  }
+}

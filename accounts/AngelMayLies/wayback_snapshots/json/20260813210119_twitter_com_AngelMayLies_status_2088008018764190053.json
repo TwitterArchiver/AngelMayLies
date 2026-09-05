@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087764584581025792"
+      ],
+      "media_source_tweet_id": [
+        "2087764592923496888"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088008018764190053",
+    "created_at": "2026-08-13T21:01:19.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088008018764190053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1912346262625501184",
+          "start": 3,
+          "username": "bab0oshk44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ap8IuSH1Mw",
+          "end": 39,
+          "expanded_url": "https://x.com/bab0oshk44/status/2087764592923496888/photo/1",
+          "media_key": "3_2087764584581025792",
+          "start": 16,
+          "url": "https://t.co/ap8IuSH1Mw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088008018764190053",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087764584581025792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 503
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087764592923496888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bab0oshk44: https://t.co/ap8IuSH1Mw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2087764584581025792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPk61AaX0AA59t1.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087764584581025792"
+          ]
+        },
+        "author_id": "1912346262625501184",
+        "conversation_id": "2087764592923496888",
+        "created_at": "2026-08-13T04:54:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087764592923496888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ap8IuSH1Mw",
+              "end": 23,
+              "expanded_url": "https://x.com/bab0oshk44/status/2087764592923496888/photo/1",
+              "media_key": "3_2087764584581025792",
+              "start": 0,
+              "url": "https://t.co/ap8IuSH1Mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087764592923496888",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087764584581025792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 412,
+          "impression_count": 34522,
+          "like_count": 3921,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 503
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ap8IuSH1Mw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087764584581025792"
+          ],
+          "media_source_tweet_id": [
+            "2087764592923496888"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088008018764190053",
+        "created_at": "2026-08-13T21:01:19.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088008018764190053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1912346262625501184",
+              "start": 3,
+              "username": "bab0oshk44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ap8IuSH1Mw",
+              "end": 39,
+              "expanded_url": "https://x.com/bab0oshk44/status/2087764592923496888/photo/1",
+              "media_key": "3_2087764584581025792",
+              "start": 16,
+              "url": "https://t.co/ap8IuSH1Mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088008018764190053",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087764584581025792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 503
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087764592923496888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bab0oshk44: https://t.co/ap8IuSH1Mw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088008018764190053",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 76,
+          "like_count": 2441,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-16T03:24:33.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bab0oshk44?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/bab0oshk44?igsh=d3RmeTB2N2NoZXZ0&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ijvVK0cC1D"
+              }
+            ]
+          }
+        },
+        "id": "1912346262625501184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087769147748864016",
+        "name": "bab0oshka",
+        "pinned_tweet_id": "2001487831785525640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912346262625501184/1745298042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935551193649946624/Mg3tmGXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19660,
+          "following_count": 2775,
+          "like_count": 1318,
+          "listed_count": 37,
+          "media_count": 1205,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/ijvVK0cC1D",
+        "username": "bab0oshk44",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

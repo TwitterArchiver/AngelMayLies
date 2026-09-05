@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2089001829820690677",
+    "created_at": "2026-08-16T15:17:43.000Z",
+    "display_text_range": [
+      15,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089008711759237275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764120054097195008",
+          "start": 0,
+          "username": "soulhusk_dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089008711759237275",
+    "in_reply_to_user_id": "1764120054097195008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089005879937118275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soulhusk_dead 我被美到了我被暂时感化了1秒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2089001829820690677",
+        "created_at": "2026-08-16T15:17:43.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089008711759237275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764120054097195008",
+              "start": 0,
+              "username": "soulhusk_dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089008711759237275",
+        "in_reply_to_user_id": "1764120054097195008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089005879937118275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soulhusk_dead 我被美到了我被暂时感化了1秒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764120054097195008",
+        "conversation_id": "2089001829820690677",
+        "created_at": "2026-08-16T15:06:28.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089005879937118275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089005879937118275",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089001829820690677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 你咋了，你不写苦难回忆录了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2089008711759237275",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 76,
+          "like_count": 2709,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1263
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-03T02:46:22.000Z",
+        "description": "我是一颗豆子呀，就是你，不要再骂我了呀，你一骂我，我就特别，的委屈，特别的，想枯呀、然后我就会变得非常的孤单。然后我就想交友呀啊嗯嗯对呀就是这样子呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bakps003",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bakps003",
+                "start": 0,
+                "url": "https://t.co/dpo6gVKfTC"
+              }
+            ]
+          }
+        },
+        "id": "1764120054097195008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089007810084553131",
+        "name": "前日本首相惠豆子",
+        "pinned_tweet_id": "2088991937491767772",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764120054097195008/1786877818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088942558840053761/HSJpZnEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 70,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/dpo6gVKfTC",
+        "username": "soulhusk_dead",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

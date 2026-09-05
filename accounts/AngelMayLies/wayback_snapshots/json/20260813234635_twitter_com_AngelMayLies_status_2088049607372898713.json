@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087968437653946368"
+      ],
+      "media_source_tweet_id": [
+        "2087968443048005753"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088049607372898713",
+    "created_at": "2026-08-13T23:46:35.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088049607372898713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1986839912994492416",
+          "start": 3,
+          "username": "Mutiilation1995"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VMohtO5PcC",
+          "end": 63,
+          "expanded_url": "https://x.com/Mutiilation1995/status/2087968443048005753/photo/1",
+          "media_key": "3_2087968437653946368",
+          "start": 40,
+          "url": "https://t.co/VMohtO5PcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088049607372898713",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087968437653946368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087968443048005753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mutiilation1995: It's like this one https://t.co/VMohtO5PcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2087968437653946368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn0O0SXQAAfYte.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087968437653946368"
+          ]
+        },
+        "author_id": "1986839912994492416",
+        "conversation_id": "2087968443048005753",
+        "created_at": "2026-08-13T18:24:04.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087968443048005753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMohtO5PcC",
+              "end": 42,
+              "expanded_url": "https://x.com/Mutiilation1995/status/2087968443048005753/photo/1",
+              "media_key": "3_2087968437653946368",
+              "start": 19,
+              "url": "https://t.co/VMohtO5PcC"
+            },
+            {
+              "display_url": "x.com/crfeuamofiatun…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/crfeuamofiatuno/status/2087686442906505485",
+              "start": 43,
+              "url": "https://t.co/pHd3aHwNyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087968443048005753",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087968437653946368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 7859,
+          "like_count": 139,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087686442906505485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It's like this one https://t.co/VMohtO5PcC https://t.co/pHd3aHwNyO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087968437653946368"
+          ],
+          "media_source_tweet_id": [
+            "2087968443048005753"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088049607372898713",
+        "created_at": "2026-08-13T23:46:35.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088049607372898713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1986839912994492416",
+              "start": 3,
+              "username": "Mutiilation1995"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMohtO5PcC",
+              "end": 63,
+              "expanded_url": "https://x.com/Mutiilation1995/status/2087968443048005753/photo/1",
+              "media_key": "3_2087968437653946368",
+              "start": 40,
+              "url": "https://t.co/VMohtO5PcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088049607372898713",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087968437653946368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087968443048005753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mutiilation1995: It's like this one https://t.co/VMohtO5PcC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088049607372898713",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 77,
+          "like_count": 2492,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1167
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T16:56:01.000Z",
+        "description": "𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝑆𝑜𝑎𝑟𝑎  🏳️‍⚧️\n\n♫⃠𝐍𝐨𝐢𝐬𝐞 𝐁𝐞𝐠𝐠𝐢𝐧𝐞𝐫 ♫⃠ \n\n⛧𝕲𝖗𝖎𝖓𝖉𝖈𝖔𝖗𝖊, 𝕯𝖊𝖆𝖙𝖍/𝕭𝖑𝖆𝖈𝖐 𝕸𝖊𝖙𝖆𝖑 𝕰𝖓𝖞𝖔𝖏𝖊𝖗⛧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.youtube.com/watch?v=bJWDOR…",
+                "end": 23,
+                "expanded_url": "https://music.youtube.com/watch?v=bJWDORXdrLI&si=664Mp2I3YfvQIlz2",
+                "start": 0,
+                "url": "https://t.co/PqlPmUxP23"
+              }
+            ]
+          }
+        },
+        "id": "1986839912994492416",
+        "is_identity_verified": false,
+        "location": "``♫⃠ She/Her  ♫⃠",
+        "most_recent_tweet_id": "2088011586338173294",
+        "name": "⛧𝕯𝖞𝖘𝖙𝖍𝖞𝖒𝖎𝖆⛧",
+        "pinned_tweet_id": "2064881952977526926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986839912994492416/1766096353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077919788974714880/c2sakPb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 255,
+          "like_count": 20553,
+          "listed_count": 3,
+          "media_count": 968,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/PqlPmUxP23",
+        "username": "Mutiilation1995",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

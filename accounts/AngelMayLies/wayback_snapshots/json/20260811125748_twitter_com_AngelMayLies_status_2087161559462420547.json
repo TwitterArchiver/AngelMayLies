@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087161559462420547",
+    "created_at": "2026-08-11T12:57:48.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087161559462420547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1592172867189293057",
+          "start": 3,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087161559462420547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087161445331206408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cxszb: 宁住一日之狮，胜过百日全季"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087161559462420547",
+        "created_at": "2026-08-11T12:57:48.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087161559462420547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1592172867189293057",
+              "start": 3,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087161559462420547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087161445331206408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cxszb: 宁住一日之狮，胜过百日全季"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592172867189293057",
+        "conversation_id": "2087161445331206408",
+        "created_at": "2026-08-11T12:57:20.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087161445331206408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngelMayLies/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/AngelMayLies/status/2086711958368378990",
+              "start": 14,
+              "url": "https://t.co/hZChcj6FUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087161445331206408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086711958368378990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宁住一日之狮，胜过百日全季 https://t.co/hZChcj6FUc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087161559462420547",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 70,
+          "like_count": 2196,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1009
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "非二元/无性吸引/s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "is_identity_verified": false,
+        "location": "🚪好友位188",
+        "most_recent_tweet_id": "2087161445331206408",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1895930921351823445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592172867189293057/1742847301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5521,
+          "following_count": 217,
+          "like_count": 17613,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 16260
+        },
+        "url": "",
+        "username": "cxszb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

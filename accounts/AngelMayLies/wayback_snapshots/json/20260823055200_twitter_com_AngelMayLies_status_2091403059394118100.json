@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091402278007984491",
+    "created_at": "2026-08-23T05:52:00.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T06:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091403059394118100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960185335960461312",
+          "start": 0,
+          "username": "feelmypain0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091403059394118100",
+    "in_reply_to_user_id": "1960185335960461312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091402278007984491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feelmypain0000 玩鬼泣，，玩鬼泣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091402278007984491",
+        "created_at": "2026-08-23T05:52:00.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091403059394118100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960185335960461312",
+              "start": 0,
+              "username": "feelmypain0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091403059394118100",
+        "in_reply_to_user_id": "1960185335960461312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091402278007984491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feelmypain0000 玩鬼泣，，玩鬼泣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960185335960461312",
+        "conversation_id": "2091402278007984491",
+        "created_at": "2026-08-23T05:48:54.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091402278007984491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091402278007984491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的技能点都加在哪里了，想和朋友玩王者她段位都不能和我一起打王者，露娜还有小国标之前还在当陪玩……这种合作游戏我没一个玩得好的\n我玩的和狗屎一样连王者都钻石都玩不上去估计就天天玩皮卡堂装修家里就行了\n感觉自己只适合玩单机游戏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091403059394118100",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091296558134513665/TizkhK0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 83,
+          "like_count": 3300,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1607
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-26T03:39:58.000Z",
+        "description": "我的避难所 垃圾桶\n你读这句话的时候我也在看着你哦❤️‍🩹\n给我一丝温暖，让我隐入尘世，谢谢。\n—feelmypain——",
+        "id": "1960185335960461312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091402512792457355",
+        "name": "lucky._p👁",
+        "pinned_tweet_id": "2005062018425045433",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960185335960461312/1765367323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089318411704877056/GBKYeXAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 67,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "feelmypain0000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

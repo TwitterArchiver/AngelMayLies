@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090747422100324501",
+    "created_at": "2026-08-21T16:06:55.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090833031150076320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357176113",
+          "start": 0,
+          "username": "soobin4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090833031150076320",
+    "in_reply_to_user_id": "357176113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090829824197828920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soobin4869 我自豪："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2090829790962176001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQengAa0AEzpId.jpg",
+        "width": 549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090747422100324501",
+        "created_at": "2026-08-21T16:06:55.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090833031150076320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357176113",
+              "start": 0,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090833031150076320",
+        "in_reply_to_user_id": "357176113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090829824197828920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soobin4869 我自豪："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090829790962176001"
+          ]
+        },
+        "author_id": "357176113",
+        "conversation_id": "2090747422100324501",
+        "created_at": "2026-08-21T15:54:10.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090829824197828920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/URgaM26HHa",
+              "end": 45,
+              "expanded_url": "https://x.com/soobin4869/status/2090829824197828920/photo/1",
+              "media_key": "3_2090829790962176001",
+              "start": 22,
+              "url": "https://t.co/URgaM26HHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090829824197828920",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090829790962176001"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090747422100324501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 艺术级别的美甲 https://t.co/URgaM26HHa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090833031150076320",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090735505453568000/YduFkUmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 77,
+          "like_count": 3011,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1408
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉\n上班时间 12:00 - 00:00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090829824197828920",
+        "name": "ZakkysLab扎鸡叔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 32,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

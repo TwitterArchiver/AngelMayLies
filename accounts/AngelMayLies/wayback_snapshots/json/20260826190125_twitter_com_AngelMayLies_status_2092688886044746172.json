@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2092688841639657472"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092688886044746172",
+    "created_at": "2026-08-26T19:01:25.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092688886044746172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nk1ndxSSVn",
+          "end": 53,
+          "expanded_url": "https://x.com/AngelMayLies/status/2092688886044746172/video/1",
+          "media_key": "7_2092688841639657472",
+          "start": 30,
+          "url": "https://t.co/nk1ndxSSVn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092688886044746172",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "7_2092688841639657472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@grok  帮我找一个美甲sissy长发男吸一根烟的视频 https://t.co/nk1ndxSSVn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59791,
+        "height": 850,
+        "media_key": "7_2092688841639657472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2092688841639657472/pu/img/rH-iNtIg4qtdiaFx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2092688841639657472/pu/vid/avc1/320x566/Ob38QVdVQBk7YuI8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2092688841639657472/pu/vid/avc1/480x850/wBqh2qnd5xHHxC5v.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2092688841639657472/pu/pl/p1XCioOqD1aDBY7o.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2092688841639657472"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092688886044746172",
+        "created_at": "2026-08-26T19:01:25.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092688886044746172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nk1ndxSSVn",
+              "end": 53,
+              "expanded_url": "https://x.com/AngelMayLies/status/2092688886044746172/video/1",
+              "media_key": "7_2092688841639657472",
+              "start": 30,
+              "url": "https://t.co/nk1ndxSSVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092688886044746172",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2092688841639657472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok  帮我找一个美甲sissy长发男吸一根烟的视频 https://t.co/nk1ndxSSVn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自歹戋自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠️#5htwt #drugtwt ⚠️|我是Dizzy也可以叫我枭儿| he/them | 防绑架备用：@_DerLiebe ｜𝑳𝒐𝒗𝒆 𝑪𝒖𝒕𝒔 𝑴𝒆 𝑳𝒊𝒌𝒆 𝒀𝒂𝒎𝒂𝒕𝒐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "5htwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_DerLiebe"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092688886044746172",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680232574869504/YnS77iuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 88,
+          "like_count": 3845,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1933
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092688902687519145",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9010076,
+          "following_count": 6,
+          "like_count": 134,
+          "listed_count": 7451,
+          "media_count": 9306641,
+          "tweet_count": 137508315
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092642501089959936"
+      ],
+      "media_source_tweet_id": [
+        "2092642510200037572"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092694982876692801",
+    "created_at": "2026-08-26T19:25:38.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092694982876692801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691933896559214593",
+          "start": 3,
+          "username": "demo37237"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/30vNMkqS7S",
+          "end": 41,
+          "expanded_url": "https://x.com/demo37237/status/2092642510200037572/photo/1",
+          "media_key": "3_2092642501089959936",
+          "start": 18,
+          "url": "https://t.co/30vNMkqS7S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092694982876692801",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092642501089959936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092642510200037572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @demo37237: 實力 https://t.co/30vNMkqS7S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1778,
+        "media_key": "3_2092642501089959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqPRHdaIAAKw2j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092642501089959936"
+          ],
+          "media_source_tweet_id": [
+            "2092642510200037572"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092694982876692801",
+        "created_at": "2026-08-26T19:25:38.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092694982876692801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691933896559214593",
+              "start": 3,
+              "username": "demo37237"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30vNMkqS7S",
+              "end": 41,
+              "expanded_url": "https://x.com/demo37237/status/2092642510200037572/photo/1",
+              "media_key": "3_2092642501089959936",
+              "start": 18,
+              "url": "https://t.co/30vNMkqS7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092694982876692801",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092642501089959936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092642510200037572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @demo37237: 實力 https://t.co/30vNMkqS7S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092642501089959936"
+          ]
+        },
+        "author_id": "1691933896559214593",
+        "conversation_id": "2092642510200037572",
+        "created_at": "2026-08-26T15:57:08.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092642510200037572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30vNMkqS7S",
+              "end": 26,
+              "expanded_url": "https://x.com/demo37237/status/2092642510200037572/photo/1",
+              "media_key": "3_2092642501089959936",
+              "start": 3,
+              "url": "https://t.co/30vNMkqS7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092642510200037572",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092642501089959936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "實力 https://t.co/30vNMkqS7S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自歹戋自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠️#5htwt #drugtwt ⚠️|我是Dizzy也可以叫我枭儿| he/them | 防绑架备用：@_DerLiebe ｜𝑳𝒐𝒗𝒆 𝑪𝒖𝒕𝒔 𝑴𝒆 𝑳𝒊𝒌𝒆 𝒀𝒂𝒎𝒂𝒕𝒐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "5htwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "_DerLiebe"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092694982876692801",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680232574869504/YnS77iuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 88,
+          "like_count": 3856,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1939
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-16T22:04:38.000Z",
+        "description": "fxxk everyone I hate everyone Everyone should be killed",
+        "id": "1691933896559214593",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092690543478554963",
+        "name": "一切只為暗無天日",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691933896559214593/1786038147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092337714591100928/6YHQrg0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 228,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "demo37237",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

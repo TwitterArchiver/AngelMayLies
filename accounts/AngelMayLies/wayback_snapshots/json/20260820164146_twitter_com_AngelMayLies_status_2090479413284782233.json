@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090405984326094848"
+      ],
+      "media_source_tweet_id": [
+        "2090405992685330452"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090479413284782233",
+    "created_at": "2026-08-20T16:41:46.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090479413284782233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1065598862952255488",
+          "start": 3,
+          "username": "AAAZIK_BAMF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBQ2FVEt5H",
+          "end": 46,
+          "expanded_url": "https://x.com/AAAZIK_BAMF/status/2090405992685330452/photo/1",
+          "media_key": "3_2090405984326094848",
+          "start": 23,
+          "url": "https://t.co/PBQ2FVEt5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090479413284782233",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "3_2090405984326094848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090405992685330452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AAAZIK_BAMF: Dante https://t.co/PBQ2FVEt5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2090405984326094848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKdKtQbkAAkNa8.jpg",
+        "width": 1324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090405984326094848"
+          ],
+          "media_source_tweet_id": [
+            "2090405992685330452"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090479413284782233",
+        "created_at": "2026-08-20T16:41:46.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090479413284782233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1065598862952255488",
+              "start": 3,
+              "username": "AAAZIK_BAMF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBQ2FVEt5H",
+              "end": 46,
+              "expanded_url": "https://x.com/AAAZIK_BAMF/status/2090405992685330452/photo/1",
+              "media_key": "3_2090405984326094848",
+              "start": 23,
+              "url": "https://t.co/PBQ2FVEt5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090479413284782233",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2090405984326094848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090405992685330452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AAAZIK_BAMF: Dante https://t.co/PBQ2FVEt5H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090405984326094848"
+          ]
+        },
+        "author_id": "1065598862952255488",
+        "conversation_id": "2090405992685330452",
+        "created_at": "2026-08-20T11:50:01.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090405992685330452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBQ2FVEt5H",
+              "end": 29,
+              "expanded_url": "https://x.com/AAAZIK_BAMF/status/2090405992685330452/photo/1",
+              "media_key": "3_2090405984326094848",
+              "start": 6,
+              "url": "https://t.co/PBQ2FVEt5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090405992685330452",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2090405984326094848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 6783,
+          "like_count": 1067,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "Dante https://t.co/PBQ2FVEt5H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090479413284782233",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 77,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1373
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-22T13:32:21.000Z",
+        "description": "multi fandoms",
+        "id": "1065598862952255488",
+        "is_identity_verified": false,
+        "location": "Wherever comfortable",
+        "most_recent_tweet_id": "2090478967040217399",
+        "name": "S Λ I Z I K",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065598862952255488/1681660167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023114228622934016/bmxmT9gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4735,
+          "following_count": 235,
+          "like_count": 43644,
+          "listed_count": 13,
+          "media_count": 182,
+          "tweet_count": 10070
+        },
+        "url": "",
+        "username": "AAAZIK_BAMF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

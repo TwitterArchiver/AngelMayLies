@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090132164348366848"
+      ],
+      "media_source_tweet_id": [
+        "2090132174255300744"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090140215222669549",
+    "created_at": "2026-08-19T18:13:54.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090140215222669549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691933896559214593",
+          "start": 3,
+          "username": "demo37237"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KhGFEFgdvH",
+          "end": 58,
+          "expanded_url": "https://x.com/demo37237/status/2090132174255300744/photo/1",
+          "media_key": "3_2090132164348366848",
+          "start": 35,
+          "url": "https://t.co/KhGFEFgdvH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090140215222669549",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090132164348366848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090132174255300744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @demo37237: 邪笑雪茄㊙㊙️️用於表達心胸開闊的場景 https://t.co/KhGFEFgdvH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090132164348366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGkISWaUAAYgQd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090132164348366848"
+          ],
+          "media_source_tweet_id": [
+            "2090132174255300744"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090140215222669549",
+        "created_at": "2026-08-19T18:13:54.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090140215222669549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691933896559214593",
+              "start": 3,
+              "username": "demo37237"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhGFEFgdvH",
+              "end": 58,
+              "expanded_url": "https://x.com/demo37237/status/2090132174255300744/photo/1",
+              "media_key": "3_2090132164348366848",
+              "start": 35,
+              "url": "https://t.co/KhGFEFgdvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090140215222669549",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090132164348366848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090132174255300744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @demo37237: 邪笑雪茄㊙㊙️️用於表達心胸開闊的場景 https://t.co/KhGFEFgdvH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090132164348366848"
+          ]
+        },
+        "author_id": "1691933896559214593",
+        "conversation_id": "2090132174255300744",
+        "created_at": "2026-08-19T17:41:57.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090132174255300744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhGFEFgdvH",
+              "end": 43,
+              "expanded_url": "https://x.com/demo37237/status/2090132174255300744/photo/1",
+              "media_key": "3_2090132164348366848",
+              "start": 20,
+              "url": "https://t.co/KhGFEFgdvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090132174255300744",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090132164348366848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "邪笑雪茄㊙㊙️️用於表達心胸開闊的場景 https://t.co/KhGFEFgdvH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090140215222669549",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 77,
+          "like_count": 2830,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1330
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-16T22:04:38.000Z",
+        "description": "fxxk everyone I hate everyone Everyone should be killed",
+        "id": "1691933896559214593",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090132174255300744",
+        "name": "謙謙君子溫潤如玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691933896559214593/1786038147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088505254434533376/buIJX3Er_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 187,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "demo37237",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

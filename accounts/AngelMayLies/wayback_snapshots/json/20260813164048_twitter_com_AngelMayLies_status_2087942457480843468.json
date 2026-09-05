@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087713695598051328"
+      ],
+      "media_source_tweet_id": [
+        "2087713700920660170"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087942457480843468",
+    "created_at": "2026-08-13T16:40:48.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087942457480843468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595490611309723648",
+          "start": 3,
+          "username": "aooraDS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7vTERUqlKZ",
+          "end": 114,
+          "expanded_url": "https://x.com/aooraDS/status/2087713700920660170/photo/1",
+          "media_key": "3_2087713695598051328",
+          "start": 91,
+          "url": "https://t.co/7vTERUqlKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087942457480843468",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2087713695598051328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087713700920660170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aooraDS: “Extraño la prepa” \nYo en la prepa un martes cualquiera a las 8 de la mañana: https://t.co/7vTERUqlKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1794,
+        "media_key": "3_2087713695598051328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkMi4LXAAAPK_s.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087713695598051328"
+          ]
+        },
+        "author_id": "1595490611309723648",
+        "conversation_id": "2087713700920660170",
+        "created_at": "2026-08-13T01:31:48.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087713700920660170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vTERUqlKZ",
+              "end": 101,
+              "expanded_url": "https://x.com/aooraDS/status/2087713700920660170/photo/1",
+              "media_key": "3_2087713695598051328",
+              "start": 78,
+              "url": "https://t.co/7vTERUqlKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087713700920660170",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2087713695598051328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 13411,
+          "like_count": 1011,
+          "quote_count": 10,
+          "reply_count": 23,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "“Extraño la prepa” \nYo en la prepa un martes cualquiera a las 8 de la mañana: https://t.co/7vTERUqlKZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087713695598051328"
+          ],
+          "media_source_tweet_id": [
+            "2087713700920660170"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087942457480843468",
+        "created_at": "2026-08-13T16:40:48.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087942457480843468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595490611309723648",
+              "start": 3,
+              "username": "aooraDS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vTERUqlKZ",
+              "end": 114,
+              "expanded_url": "https://x.com/aooraDS/status/2087713700920660170/photo/1",
+              "media_key": "3_2087713695598051328",
+              "start": 91,
+              "url": "https://t.co/7vTERUqlKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087942457480843468",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2087713695598051328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087713700920660170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aooraDS: “Extraño la prepa” \nYo en la prepa un martes cualquiera a las 8 de la mañana: https://t.co/7vTERUqlKZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087942457480843468",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 75,
+          "like_count": 2388,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1110
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-23T18:53:43.000Z",
+        "description": "#drugtwt :3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1595490611309723648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087915790167117825",
+        "name": "ao:b",
+        "pinned_tweet_id": "2074294634574983589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595490611309723648/1781292996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084822574643462144/Cx4IqQf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 213,
+          "like_count": 3179,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 998
+        },
+        "url": "",
+        "username": "aooraDS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

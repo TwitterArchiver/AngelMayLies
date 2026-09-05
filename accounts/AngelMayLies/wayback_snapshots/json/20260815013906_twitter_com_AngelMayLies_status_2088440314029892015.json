@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088440314029892015",
+    "created_at": "2026-08-15T01:39:06.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088440314029892015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lovingyou24680…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Lovingyou24680/status/2088242291454677168",
+          "start": 9,
+          "url": "https://t.co/8XpB86a453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088440314029892015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088242291454677168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难受到我想切腹了 https://t.co/8XpB86a453"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088440314029892015",
+        "created_at": "2026-08-15T01:39:06.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088440314029892015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lovingyou24680…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Lovingyou24680/status/2088242291454677168",
+              "start": 9,
+              "url": "https://t.co/8XpB86a453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088440314029892015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088242291454677168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难受到我想切腹了 https://t.co/8XpB86a453"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087898538600771584",
+        "conversation_id": "2088242291454677168",
+        "created_at": "2026-08-14T12:32:14.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088242291454677168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088242291454677168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难受到我想切腹了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088440314029892015",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 77,
+          "like_count": 2564,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T13:48:06.000Z",
+        "description": "🔞⚠️",
+        "id": "2087898538600771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088395962792173853",
+        "name": "Lovingyou",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087898538600771584/1786629352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088237973007716352/Ppfae3jw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "Lovingyou24680",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

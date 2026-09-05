@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087580498113745176",
+    "created_at": "2026-08-13T23:34:22.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088046532499222900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2072676485396381696",
+          "start": 0,
+          "username": "cheatcat2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088046532499222900",
+    "in_reply_to_user_id": "2072676485396381696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087580498113745176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheatcat2005 md笑死我了细节大卫鲍伊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2087580485472112640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiTZByaUAAGwYO.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087580498113745176",
+        "created_at": "2026-08-13T23:34:22.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088046532499222900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2072676485396381696",
+              "start": 0,
+              "username": "cheatcat2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088046532499222900",
+        "in_reply_to_user_id": "2072676485396381696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087580498113745176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheatcat2005 md笑死我了细节大卫鲍伊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087580485472112640"
+          ]
+        },
+        "author_id": "2072676485396381696",
+        "conversation_id": "2087580498113745176",
+        "created_at": "2026-08-12T16:42:30.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087580498113745176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPg6QXZUEG",
+              "end": 104,
+              "expanded_url": "https://x.com/cheatcat2005/status/2087580498113745176/photo/1",
+              "media_key": "3_2087580485472112640",
+              "start": 81,
+              "url": "https://t.co/fPg6QXZUEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087580498113745176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087580485472112640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 328,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "伊甸食堂开业啦！！\n\n点赞，转发，评论此贴的。抽三个人，一等奖一份飘飘糖，二等奖两份冰雹😋😋\n\n日期截止下个星期（既8月20日）\n\n注：此贴仅为分享戒药戒毒体验 https://t.co/fPg6QXZUEG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088046532499222900",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 77,
+          "like_count": 2479,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1162
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T13:40:29.000Z",
+        "description": "Choose Life. Choose a job. Choose a career. Choose a family. Choose a fxxking big television.  Choose a starter home. Choose your friends.",
+        "id": "2072676485396381696",
+        "is_identity_verified": false,
+        "location": "牯岭街",
+        "most_recent_tweet_id": "2087590064398430342",
+        "name": "伊甸园Lab(分享戒药戒毒体验)",
+        "pinned_tweet_id": "2087576559502954754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072676485396381696/1782999924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087553888400691200/VqYcjUxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 14,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "cheatcat2005",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

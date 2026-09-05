@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2088365938429362633",
+    "created_at": "2026-08-15T00:53:42.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088428885935562894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088428885935562894",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088365938429362633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 卧槽我在拔刀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17060,
+        "height": 720,
+        "media_key": "13_2088365864219500544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088365864219500544/img/FHa2fXXKOZq5kN3s.jpg",
+        "public_metrics": {
+          "view_count": 217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088365864219500544/vid/avc1/360x270/473neGQWJ7dAJ-Ew.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088365864219500544/vid/avc1/480x360/L3w1K_mHM4_JCpUK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088365864219500544/vid/avc1/960x720/Nk0fh9Q7ppAAIJML.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088365864219500544/pl/mDCqXIoFOzjoMwdw.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 25351,
+        "height": 720,
+        "media_key": "13_2088365863904899072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088365863904899072/img/9WmfXSoOX-ZR3j0N.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088365863904899072/vid/avc1/360x270/ljuSRptMMUhXj-fm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088365863904899072/vid/avc1/480x360/3y157FwI0hv29iCI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088365863904899072/vid/avc1/960x720/69ApiZ1U3m7KVqpT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088365863904899072/pl/ITKkUMD3fL34Cks2.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2088365938429362633",
+        "created_at": "2026-08-15T00:53:42.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088428885935562894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088428885935562894",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088365938429362633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 卧槽我在拔刀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088365864219500544",
+            "13_2088365863904899072"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2088365938429362633",
+        "created_at": "2026-08-14T20:43:34.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088365938429362633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q923qCz8hz",
+              "end": 47,
+              "expanded_url": "https://x.com/Gamer94469/status/2088365938429362633/video/1",
+              "media_key": "13_2088365864219500544",
+              "start": 24,
+              "url": "https://t.co/q923qCz8hz"
+            },
+            {
+              "display_url": "pic.x.com/q923qCz8hz",
+              "end": 47,
+              "expanded_url": "https://x.com/Gamer94469/status/2088365938429362633/video/1",
+              "media_key": "13_2088365863904899072",
+              "start": 24,
+              "url": "https://t.co/q923qCz8hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088365938429362633",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2088365864219500544"
+          },
+          {
+            "media_key": "13_2088365863904899072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 830,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Which way do u prefer?😀 https://t.co/q923qCz8hz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088428885935562894",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 77,
+          "like_count": 2542,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088365938429362633",
+        "name": "披麻戴孝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429055428374130693/1785878117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088178451870347264/7TtY8-fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 321,
+          "like_count": 22850,
+          "listed_count": 2,
+          "media_count": 783,
+          "tweet_count": 5955
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

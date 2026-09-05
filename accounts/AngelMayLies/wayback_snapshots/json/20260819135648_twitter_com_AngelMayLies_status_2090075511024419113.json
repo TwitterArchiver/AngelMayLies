@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2089748184679456769",
+        "16_2089747720814608384",
+        "16_2089747720843968512",
+        "16_2089748184671129600"
+      ],
+      "media_source_tweet_id": [
+        "2089748296977801569",
+        "2089748296977801569",
+        "2089748296977801569",
+        "2089748296977801569"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2090075511024419113",
+    "created_at": "2026-08-19T13:56:48.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090075511024419113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1240419050112651271",
+          "start": 3,
+          "username": "milfgomery"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b8pRa5kMzj",
+          "end": 60,
+          "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+          "media_key": "16_2089748184679456769",
+          "start": 37,
+          "url": "https://t.co/b8pRa5kMzj"
+        },
+        {
+          "display_url": "pic.x.com/b8pRa5kMzj",
+          "end": 60,
+          "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+          "media_key": "16_2089747720814608384",
+          "start": 37,
+          "url": "https://t.co/b8pRa5kMzj"
+        },
+        {
+          "display_url": "pic.x.com/b8pRa5kMzj",
+          "end": 60,
+          "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+          "media_key": "16_2089747720843968512",
+          "start": 37,
+          "url": "https://t.co/b8pRa5kMzj"
+        },
+        {
+          "display_url": "pic.x.com/b8pRa5kMzj",
+          "end": 60,
+          "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+          "media_key": "16_2089748184671129600",
+          "start": 37,
+          "url": "https://t.co/b8pRa5kMzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090075511024419113",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2089748184679456769"
+      },
+      {
+        "media_key": "16_2089747720814608384"
+      },
+      {
+        "media_key": "16_2089747720843968512"
+      },
+      {
+        "media_key": "16_2089748184671129600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089748296977801569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @milfgomery: the only couple ever https://t.co/b8pRa5kMzj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_2089748184679456769",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQBG5unWIAEn-Af.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQBG5unWIAEn-Af.mp4"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "height": 450,
+        "media_key": "16_2089747720814608384",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQBGeulWQAAnXNQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQBGeulWQAAnXNQ.mp4"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "height": 450,
+        "media_key": "16_2089747720843968512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQBGeusWQAAz_US.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQBGeusWQAAz_US.mp4"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "height": 480,
+        "media_key": "16_2089748184671129600",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQBG5ulXEAAIaPp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQBG5ulXEAAIaPp.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089748184679456769",
+            "16_2089747720814608384",
+            "16_2089747720843968512",
+            "16_2089748184671129600"
+          ],
+          "media_source_tweet_id": [
+            "2089748296977801569",
+            "2089748296977801569",
+            "2089748296977801569",
+            "2089748296977801569"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2090075511024419113",
+        "created_at": "2026-08-19T13:56:48.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090075511024419113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1240419050112651271",
+              "start": 3,
+              "username": "milfgomery"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 60,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089748184679456769",
+              "start": 37,
+              "url": "https://t.co/b8pRa5kMzj"
+            },
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 60,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089747720814608384",
+              "start": 37,
+              "url": "https://t.co/b8pRa5kMzj"
+            },
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 60,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089747720843968512",
+              "start": 37,
+              "url": "https://t.co/b8pRa5kMzj"
+            },
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 60,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089748184671129600",
+              "start": 37,
+              "url": "https://t.co/b8pRa5kMzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090075511024419113",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2089748184679456769"
+          },
+          {
+            "media_key": "16_2089747720814608384"
+          },
+          {
+            "media_key": "16_2089747720843968512"
+          },
+          {
+            "media_key": "16_2089748184671129600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089748296977801569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @milfgomery: the only couple ever https://t.co/b8pRa5kMzj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089748184679456769",
+            "16_2089747720814608384",
+            "16_2089747720843968512",
+            "16_2089748184671129600"
+          ]
+        },
+        "author_id": "1240419050112651271",
+        "conversation_id": "2089748296977801569",
+        "created_at": "2026-08-18T16:16:34.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089748296977801569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 44,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089748184679456769",
+              "start": 21,
+              "url": "https://t.co/b8pRa5kMzj"
+            },
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 44,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089747720814608384",
+              "start": 21,
+              "url": "https://t.co/b8pRa5kMzj"
+            },
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 44,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089747720843968512",
+              "start": 21,
+              "url": "https://t.co/b8pRa5kMzj"
+            },
+            {
+              "display_url": "pic.x.com/b8pRa5kMzj",
+              "end": 44,
+              "expanded_url": "https://x.com/milfgomery/status/2089748296977801569/photo/1",
+              "media_key": "16_2089748184671129600",
+              "start": 21,
+              "url": "https://t.co/b8pRa5kMzj"
+            },
+            {
+              "display_url": "x.com/popbase/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/popbase/status/2089565953419792726",
+              "start": 45,
+              "url": "https://t.co/vrG3ppzynM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089748296977801569",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2089748184679456769"
+          },
+          {
+            "media_key": "16_2089747720814608384"
+          },
+          {
+            "media_key": "16_2089747720843968512"
+          },
+          {
+            "media_key": "16_2089748184671129600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 35736,
+          "like_count": 1635,
+          "quote_count": 25,
+          "reply_count": 11,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089565953419792726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "the only couple ever https://t.co/b8pRa5kMzj https://t.co/vrG3ppzynM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090075511024419113",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 77,
+          "like_count": 2786,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1307
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-18T23:25:36.000Z",
+        "description": "dm me for permission to speak on redheads",
+        "id": "1240419050112651271",
+        "is_identity_verified": false,
+        "location": "she/her  ",
+        "most_recent_tweet_id": "2090072422074503621",
+        "name": "lori",
+        "pinned_tweet_id": "1987216094264758399",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240419050112651271/1784216268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077779842276212736/Fbran6UX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4226,
+          "following_count": 587,
+          "like_count": 26475,
+          "listed_count": 34,
+          "media_count": 8197,
+          "tweet_count": 27983
+        },
+        "url": "",
+        "username": "milfgomery",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

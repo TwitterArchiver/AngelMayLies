@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090437898604802048",
+        "3_2090437895975010304",
+        "3_2090437896377675776"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090437902044123305",
+    "created_at": "2026-08-20T13:56:48.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090437902044123305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 65,
+          "id": "357176113",
+          "start": 54,
+          "username": "soobin4869"
+        },
+        {
+          "end": 74,
+          "id": "1132729630245265408",
+          "start": 66,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vNRnQz4yv6",
+          "end": 123,
+          "expanded_url": "https://x.com/AngelMayLies/status/2090437902044123305/photo/1",
+          "media_key": "3_2090437898604802048",
+          "start": 100,
+          "url": "https://t.co/vNRnQz4yv6"
+        },
+        {
+          "display_url": "pic.x.com/vNRnQz4yv6",
+          "end": 123,
+          "expanded_url": "https://x.com/AngelMayLies/status/2090437902044123305/photo/1",
+          "media_key": "3_2090437895975010304",
+          "start": 100,
+          "url": "https://t.co/vNRnQz4yv6"
+        },
+        {
+          "display_url": "pic.x.com/vNRnQz4yv6",
+          "end": 123,
+          "expanded_url": "https://x.com/AngelMayLies/status/2090437902044123305/photo/1",
+          "media_key": "3_2090437896377675776",
+          "start": 100,
+          "url": "https://t.co/vNRnQz4yv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090437902044123305",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090437898604802048"
+      },
+      {
+        "media_key": "3_2090437895975010304"
+      },
+      {
+        "media_key": "3_2090437896377675776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新墨州老品牌值得信赖，炸鸡白酱已收到 晶体干净漂亮纯度无需多言，吸完吃完再把碟放着听着等药效多是件美事啊\n @soobin4869 @pr80net 操翻DEA和这个世界，Dizzy也爱你们！！🤘🏻 https://t.co/vNRnQz4yv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1895,
+        "media_key": "3_2090437898604802048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK6MXNacAAUxoC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2090437895975010304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK6MNabAAAedY-.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090437896377675776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK6MO6bMAAQpY9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090437898604802048",
+            "3_2090437895975010304",
+            "3_2090437896377675776"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090437902044123305",
+        "created_at": "2026-08-20T13:56:48.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090437902044123305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "357176113",
+              "start": 54,
+              "username": "soobin4869"
+            },
+            {
+              "end": 74,
+              "id": "1132729630245265408",
+              "start": 66,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNRnQz4yv6",
+              "end": 123,
+              "expanded_url": "https://x.com/AngelMayLies/status/2090437902044123305/photo/1",
+              "media_key": "3_2090437898604802048",
+              "start": 100,
+              "url": "https://t.co/vNRnQz4yv6"
+            },
+            {
+              "display_url": "pic.x.com/vNRnQz4yv6",
+              "end": 123,
+              "expanded_url": "https://x.com/AngelMayLies/status/2090437902044123305/photo/1",
+              "media_key": "3_2090437895975010304",
+              "start": 100,
+              "url": "https://t.co/vNRnQz4yv6"
+            },
+            {
+              "display_url": "pic.x.com/vNRnQz4yv6",
+              "end": 123,
+              "expanded_url": "https://x.com/AngelMayLies/status/2090437902044123305/photo/1",
+              "media_key": "3_2090437896377675776",
+              "start": 100,
+              "url": "https://t.co/vNRnQz4yv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090437902044123305",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090437898604802048"
+          },
+          {
+            "media_key": "3_2090437895975010304"
+          },
+          {
+            "media_key": "3_2090437896377675776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新墨州老品牌值得信赖，炸鸡白酱已收到 晶体干净漂亮纯度无需多言，吸完吃完再把碟放着听着等药效多是件美事啊\n @soobin4869 @pr80net 操翻DEA和这个世界，Dizzy也爱你们！！🤘🏻 https://t.co/vNRnQz4yv6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2090437905026363494",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088435084231946242/J0wLMc8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 77,
+          "like_count": 2903,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1371
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉\n上班时间 12:00 - 00:00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090435930498986016",
+        "name": "ZakkysLab扎鸡叔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 30,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090432826919547060",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 577,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

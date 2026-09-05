@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091139733548380669",
+    "created_at": "2026-08-22T12:27:16.000Z",
+    "display_text_range": [
+      16,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091140145097683229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073420644109504513",
+          "start": 0,
+          "username": "IYDKMIGTHTKY23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091140145097683229",
+    "in_reply_to_user_id": "2073420644109504513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091139733548380669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IYDKMIGTHTKY23 但是台湾的麻麻比大陆便宜好多🥺🥺……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091139733548380669",
+        "created_at": "2026-08-22T12:27:16.000Z",
+        "display_text_range": [
+          16,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091140145097683229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073420644109504513",
+              "start": 0,
+              "username": "IYDKMIGTHTKY23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091140145097683229",
+        "in_reply_to_user_id": "2073420644109504513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091139733548380669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IYDKMIGTHTKY23 但是台湾的麻麻比大陆便宜好多🥺🥺……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073420644109504513",
+        "conversation_id": "2091139733548380669",
+        "created_at": "2026-08-22T12:25:38.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091139733548380669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091139733548380669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我買大陸策劃藥是這樣的：\n能寄台灣嗎？\n不行喔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2091140145097683229",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091104926353248256/gqmNp0VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 78,
+          "like_count": 3130,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1492
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆\n同成分會互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/omoeggg",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/omoeggg",
+                "start": 0,
+                "url": "https://t.co/05iFF4nElL"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091139733548380669",
+        "name": "？（3.0）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073420644109504513/1783895478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080376678682087424/stGTfM2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 497,
+          "like_count": 5286,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/05iFF4nElL",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

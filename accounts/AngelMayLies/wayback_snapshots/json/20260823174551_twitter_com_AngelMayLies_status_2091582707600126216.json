@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091318338123153408"
+      ],
+      "media_source_tweet_id": [
+        "2091318344079065239"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2091582707600126216",
+    "created_at": "2026-08-23T17:45:51.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091582707600126216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529557088577396737",
+          "start": 3,
+          "username": "DarkOddCon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TikLgDRV3r",
+          "end": 39,
+          "expanded_url": "https://x.com/DarkOddCon/status/2091318344079065239/photo/1",
+          "media_key": "3_2091318338123153408",
+          "start": 16,
+          "url": "https://t.co/TikLgDRV3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091582707600126216",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091318338123153408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091318344079065239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarkOddCon: https://t.co/TikLgDRV3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2091318338123153408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXa8sAXQAAFejq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091318338123153408"
+          ],
+          "media_source_tweet_id": [
+            "2091318344079065239"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2091582707600126216",
+        "created_at": "2026-08-23T17:45:51.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091582707600126216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529557088577396737",
+              "start": 3,
+              "username": "DarkOddCon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TikLgDRV3r",
+              "end": 39,
+              "expanded_url": "https://x.com/DarkOddCon/status/2091318344079065239/photo/1",
+              "media_key": "3_2091318338123153408",
+              "start": 16,
+              "url": "https://t.co/TikLgDRV3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091582707600126216",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091318338123153408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091318344079065239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarkOddCon: https://t.co/TikLgDRV3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091318338123153408"
+          ]
+        },
+        "author_id": "1529557088577396737",
+        "conversation_id": "2091318344079065239",
+        "created_at": "2026-08-23T00:15:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091318344079065239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TikLgDRV3r",
+              "end": 23,
+              "expanded_url": "https://x.com/DarkOddCon/status/2091318344079065239/photo/1",
+              "media_key": "3_2091318338123153408",
+              "start": 0,
+              "url": "https://t.co/TikLgDRV3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091318344079065239",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091318338123153408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2822,
+          "impression_count": 972003,
+          "like_count": 43731,
+          "quote_count": 47,
+          "reply_count": 58,
+          "retweet_count": 2320
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TikLgDRV3r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091582707600126216",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091296558134513665/TizkhK0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 84,
+          "like_count": 3486,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1704
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-25T20:17:02.000Z",
+        "description": "I just post Dark Humor, Schizo, Conspiracy, Edgy, and Weird/Odd memes/posts along with regular memes too. Trying to be more active, posting regular memes too.",
+        "id": "1529557088577396737",
+        "is_identity_verified": true,
+        "location": "Insane Asylum",
+        "most_recent_tweet_id": "2091319173108379785",
+        "name": "Dark,Odd,Conspiracy",
+        "pinned_tweet_id": "1918862078724407667",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529557088577396737/1653510100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529558209568157697/Sjv9-6f3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326184,
+          "following_count": 128,
+          "like_count": 624,
+          "listed_count": 344,
+          "media_count": 9664,
+          "tweet_count": 10734
+        },
+        "url": "",
+        "username": "DarkOddCon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

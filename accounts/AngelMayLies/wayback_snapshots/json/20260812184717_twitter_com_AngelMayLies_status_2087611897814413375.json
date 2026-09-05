@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087609229687599176",
+    "created_at": "2026-08-12T18:47:17.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087611897814413375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007756085604786176",
+          "start": 0,
+          "username": "DinOs86587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087611897814413375",
+    "in_reply_to_user_id": "2007756085604786176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087609229687599176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DinOs86587 不要喝了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087609214835548160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPithTAa4AAChUd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087609229687599176",
+        "created_at": "2026-08-12T18:47:17.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087611897814413375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007756085604786176",
+              "start": 0,
+              "username": "DinOs86587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087611897814413375",
+        "in_reply_to_user_id": "2007756085604786176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087609229687599176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DinOs86587 不要喝了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087609214835548160"
+          ]
+        },
+        "author_id": "2007756085604786176",
+        "conversation_id": "2087609229687599176",
+        "created_at": "2026-08-12T18:36:40.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087609229687599176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXR3gnm6iL",
+              "end": 46,
+              "expanded_url": "https://x.com/DinOs86587/status/2087609229687599176/photo/1",
+              "media_key": "3_2087609214835548160",
+              "start": 23,
+              "url": "https://t.co/bXR3gnm6iL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087609229687599176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087609214835548160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天喝多了摔地上的战绩你们觉得我还会继续喝吗 https://t.co/bXR3gnm6iL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087611897814413375",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 74,
+          "like_count": 2275,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1053
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-04T10:08:58.000Z",
+        "description": "仅供生理妹子性别独享。谢谢你喜欢。",
+        "id": "2007756085604786176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087609229687599176",
+        "name": "D d Din oS aur",
+        "pinned_tweet_id": "2084548595886473337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007756085604786176/1785782823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007756407744126978/m3bmL3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 28,
+          "like_count": 5250,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "DinOs86587",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

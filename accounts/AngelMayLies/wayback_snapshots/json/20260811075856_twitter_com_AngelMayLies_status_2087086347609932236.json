@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "conversation_id": "2087086347609932236",
+    "created_at": "2026-08-11T07:58:56.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087086347609932236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/M3owYuninaXD/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/M3owYuninaXD/status/2087068346504413664",
+          "start": 16,
+          "url": "https://t.co/ieiJvTvkdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087086347609932236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087068346504413664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "md笑死我了，ps原图是我拍的 https://t.co/ieiJvTvkdU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087068338459643904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbBmJfaEAA0U9d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2087086347609932236",
+        "created_at": "2026-08-11T07:58:56.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087086347609932236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/M3owYuninaXD/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/M3owYuninaXD/status/2087068346504413664",
+              "start": 16,
+              "url": "https://t.co/ieiJvTvkdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087086347609932236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087068346504413664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "md笑死我了，ps原图是我拍的 https://t.co/ieiJvTvkdU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087068338459643904"
+          ]
+        },
+        "author_id": "1482013358924591115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086879020231393674",
+        "created_at": "2026-08-11T06:47:24.000Z",
+        "display_text_range": [
+          7,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087068346504413664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKmzpBYQbx",
+              "end": 39,
+              "expanded_url": "https://x.com/M3owYuninaXD/status/2087068346504413664/photo/1",
+              "media_key": "3_2087068338459643904",
+              "start": 16,
+              "url": "https://t.co/nKmzpBYQbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087068346504413664",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087068338459643904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086879020231393674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb 告诉过你我是天才 https://t.co/nKmzpBYQbx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2087086347609932236",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086888458132611072/l7Clse35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 70,
+          "like_count": 2182,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T15:35:14.000Z",
+        "description": "158/42\n188/220/520/1314\n欢迎咨询",
+        "id": "1482013358924591115",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087085370458751212",
+        "name": "Yuninaa",
+        "pinned_tweet_id": "2032097432297971788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482013358924591115/1773322175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032083942061539328/J9iuBWPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "M3owYuninaXD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092215981011816448",
+        "3_2092215980982403072",
+        "3_2092215980990795776",
+        "3_2092215980990865408"
+      ],
+      "media_source_tweet_id": [
+        "2092216306435264757",
+        "2092216306435264757",
+        "2092216306435264757",
+        "2092216306435264757"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "conversation_id": "2092216486790324685",
+    "created_at": "2026-08-25T11:44:16.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092216486790324685"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "OD"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "pr80"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "普瑞巴林"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753252496217374720",
+          "start": 3,
+          "username": "ZakkysBabypink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IGRtlSA0co",
+          "end": 97,
+          "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+          "media_key": "3_2092215981011816448",
+          "start": 74,
+          "url": "https://t.co/IGRtlSA0co"
+        },
+        {
+          "display_url": "pic.x.com/IGRtlSA0co",
+          "end": 97,
+          "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+          "media_key": "3_2092215980982403072",
+          "start": 74,
+          "url": "https://t.co/IGRtlSA0co"
+        },
+        {
+          "display_url": "pic.x.com/IGRtlSA0co",
+          "end": 97,
+          "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+          "media_key": "3_2092215980990795776",
+          "start": 74,
+          "url": "https://t.co/IGRtlSA0co"
+        },
+        {
+          "display_url": "pic.x.com/IGRtlSA0co",
+          "end": 97,
+          "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+          "media_key": "3_2092215980990865408",
+          "start": 74,
+          "url": "https://t.co/IGRtlSA0co"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092216486790324685",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092215981011816448"
+      },
+      {
+        "media_key": "3_2092215980982403072"
+      },
+      {
+        "media_key": "3_2092215980990795776"
+      },
+      {
+        "media_key": "3_2092215980990865408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092216306435264757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZakkysBabypink: 艺术镜头分享 请勿过度解读，图片为豆包AI生成，教育目的，扎鸡叔艺术收藏。 #OD #pr80 #普瑞巴林 https://t.co/IGRtlSA0co"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092215981011816448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkLWYWa0AAEBjl.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092215980982403072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkLWYPaAAAAb90.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092215980990795776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkLWYRaEAAeosK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092215980990865408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkLWYRbIAAbBb7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092215981011816448",
+            "3_2092215980982403072",
+            "3_2092215980990795776",
+            "3_2092215980990865408"
+          ],
+          "media_source_tweet_id": [
+            "2092216306435264757",
+            "2092216306435264757",
+            "2092216306435264757",
+            "2092216306435264757"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "conversation_id": "2092216486790324685",
+        "created_at": "2026-08-25T11:44:16.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092216486790324685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "OD"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "pr80"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "普瑞巴林"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753252496217374720",
+              "start": 3,
+              "username": "ZakkysBabypink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 97,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215981011816448",
+              "start": 74,
+              "url": "https://t.co/IGRtlSA0co"
+            },
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 97,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215980982403072",
+              "start": 74,
+              "url": "https://t.co/IGRtlSA0co"
+            },
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 97,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215980990795776",
+              "start": 74,
+              "url": "https://t.co/IGRtlSA0co"
+            },
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 97,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215980990865408",
+              "start": 74,
+              "url": "https://t.co/IGRtlSA0co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092216486790324685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092215981011816448"
+          },
+          {
+            "media_key": "3_2092215980982403072"
+          },
+          {
+            "media_key": "3_2092215980990795776"
+          },
+          {
+            "media_key": "3_2092215980990865408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092216306435264757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZakkysBabypink: 艺术镜头分享 请勿过度解读，图片为豆包AI生成，教育目的，扎鸡叔艺术收藏。 #OD #pr80 #普瑞巴林 https://t.co/IGRtlSA0co"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092215981011816448",
+            "3_2092215980982403072",
+            "3_2092215980990795776",
+            "3_2092215980990865408"
+          ]
+        },
+        "author_id": "1753252496217374720",
+        "conversation_id": "2092216306435264757",
+        "created_at": "2026-08-25T11:43:33.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092216306435264757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "OD"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "pr80"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "普瑞巴林"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 77,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215981011816448",
+              "start": 54,
+              "url": "https://t.co/IGRtlSA0co"
+            },
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 77,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215980982403072",
+              "start": 54,
+              "url": "https://t.co/IGRtlSA0co"
+            },
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 77,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215980990795776",
+              "start": 54,
+              "url": "https://t.co/IGRtlSA0co"
+            },
+            {
+              "display_url": "pic.x.com/IGRtlSA0co",
+              "end": 77,
+              "expanded_url": "https://x.com/ZakkysBabypink/status/2092216306435264757/photo/1",
+              "media_key": "3_2092215980990865408",
+              "start": 54,
+              "url": "https://t.co/IGRtlSA0co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092216306435264757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092215981011816448"
+          },
+          {
+            "media_key": "3_2092215980982403072"
+          },
+          {
+            "media_key": "3_2092215980990795776"
+          },
+          {
+            "media_key": "3_2092215980990865408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "艺术镜头分享 请勿过度解读，图片为豆包AI生成，教育目的，扎鸡叔艺术收藏。 #OD #pr80 #普瑞巴林 https://t.co/IGRtlSA0co"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2092216486790324685",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 88,
+          "like_count": 3835,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1908
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T03:02:34.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉 ↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/vNCEKjdqh2"
+              }
+            ]
+          }
+        },
+        "id": "1753252496217374720",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基，新墨西哥州",
+        "most_recent_tweet_id": "2092216306435264757",
+        "name": "扎鸡叔 第15世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753252496217374720/1787642059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092148489149161473/pAITmmYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 34,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/vNCEKjdqh2",
+        "username": "ZakkysBabypink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

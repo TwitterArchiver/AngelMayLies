@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      }
+    ],
+    "conversation_id": "2088027424340787247",
+    "created_at": "2026-08-13T22:18:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T23:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088027424340787247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742643693348069376",
+          "start": 3,
+          "username": "doctornowhere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088027424340787247",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3805
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086933604718752005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doctornowhere_: I’m on Stardust Crusaders right now and decided to draw Clark from the backrooms and his pirate stand consider me a fan…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086933599052288000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZHDSFW0AATaYo.jpg",
+        "width": 1978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2088027424340787247",
+        "created_at": "2026-08-13T22:18:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088027424340787247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742643693348069376",
+              "start": 3,
+              "username": "doctornowhere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088027424340787247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3805
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086933604718752005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doctornowhere_: I’m on Stardust Crusaders right now and decided to draw Clark from the backrooms and his pirate stand consider me a fan…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086933599052288000"
+          ]
+        },
+        "author_id": "1742643693348069376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2086933604718752005",
+        "created_at": "2026-08-10T21:51:59.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086933604718752005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVy20GsUBg",
+              "end": 150,
+              "expanded_url": "https://x.com/doctornowhere_/status/2086933604718752005/photo/1",
+              "media_key": "3_2086933599052288000",
+              "start": 127,
+              "url": "https://t.co/xVy20GsUBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086933604718752005",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086933599052288000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2802,
+          "impression_count": 248050,
+          "like_count": 29915,
+          "quote_count": 36,
+          "reply_count": 146,
+          "retweet_count": 3805
+        },
+        "reply_settings": "everyone",
+        "text": "I’m on Stardust Crusaders right now and decided to draw Clark from the backrooms and his pirate stand consider me a fan so far https://t.co/xVy20GsUBg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜Friendly with everything🙌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2088027424340787247",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088005264629022720/RPMe8M-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 76,
+          "like_count": 2464,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-03T20:27:02.000Z",
+        "description": "19 yr old artist from way over yonder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/DoctorNowhere4…",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/DoctorNowhere473?utm_campaign=creatorshare_creator",
+                "start": 0,
+                "url": "https://t.co/OSymT8T0or"
+              }
+            ]
+          }
+        },
+        "id": "1742643693348069376",
+        "is_identity_verified": false,
+        "location": "the corner of your bedroom",
+        "most_recent_tweet_id": "2087940363373662614",
+        "name": "the doc",
+        "pinned_tweet_id": "1831779565472972919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742643693348069376/1766033146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001514599170920448/hOKydmBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149418,
+          "following_count": 60,
+          "like_count": 10020,
+          "listed_count": 178,
+          "media_count": 728,
+          "tweet_count": 2932
+        },
+        "url": "https://t.co/OSymT8T0or",
+        "username": "doctornowhere_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

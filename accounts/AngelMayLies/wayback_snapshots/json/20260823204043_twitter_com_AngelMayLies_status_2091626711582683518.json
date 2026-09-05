@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091330842391928832",
+        "3_2091330814646550528"
+      ],
+      "media_source_tweet_id": [
+        "2091576199399067726",
+        "2091576199399067726"
+      ]
+    },
+    "author_id": "2055376212751470593",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045599562",
+          "name": "Frozen"
+        }
+      }
+    ],
+    "conversation_id": "2091626711582683518",
+    "created_at": "2026-08-23T20:40:43.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T21:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091626711582683518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "753424463560052736",
+          "start": 3,
+          "username": "AcervoCharts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFxxyWivMK",
+          "end": 126,
+          "expanded_url": "https://x.com/AcervoCharts/status/2091576199399067726/photo/1",
+          "media_key": "3_2091330842391928832",
+          "start": 103,
+          "url": "https://t.co/zFxxyWivMK"
+        },
+        {
+          "display_url": "pic.x.com/zFxxyWivMK",
+          "end": 126,
+          "expanded_url": "https://x.com/AcervoCharts/status/2091576199399067726/photo/1",
+          "media_key": "3_2091330814646550528",
+          "start": 103,
+          "url": "https://t.co/zFxxyWivMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091626711582683518",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2091330842391928832"
+      },
+      {
+        "media_key": "3_2091330814646550528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091576199399067726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcervoCharts: Crianças confundem drag queen com Elsa, de Frozen, e pedem para tirar fotos com ela. https://t.co/zFxxyWivMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2091330842391928832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXmUiCW4AALDyh.jpg",
+        "width": 314
+      },
+      {
+        "height": 1088,
+        "media_key": "3_2091330814646550528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXmS6rWAAAVzim.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091330842391928832",
+            "3_2091330814646550528"
+          ],
+          "media_source_tweet_id": [
+            "2091576199399067726",
+            "2091576199399067726"
+          ]
+        },
+        "author_id": "2055376212751470593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599562",
+              "name": "Frozen"
+            }
+          }
+        ],
+        "conversation_id": "2091626711582683518",
+        "created_at": "2026-08-23T20:40:43.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T21:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091626711582683518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "753424463560052736",
+              "start": 3,
+              "username": "AcervoCharts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFxxyWivMK",
+              "end": 126,
+              "expanded_url": "https://x.com/AcervoCharts/status/2091576199399067726/photo/1",
+              "media_key": "3_2091330842391928832",
+              "start": 103,
+              "url": "https://t.co/zFxxyWivMK"
+            },
+            {
+              "display_url": "pic.x.com/zFxxyWivMK",
+              "end": 126,
+              "expanded_url": "https://x.com/AcervoCharts/status/2091576199399067726/photo/1",
+              "media_key": "3_2091330814646550528",
+              "start": 103,
+              "url": "https://t.co/zFxxyWivMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091626711582683518",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2091330842391928832"
+          },
+          {
+            "media_key": "3_2091330814646550528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091576199399067726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcervoCharts: Crianças confundem drag queen com Elsa, de Frozen, e pedem para tirar fotos com ela. https://t.co/zFxxyWivMK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091330842391928832",
+            "3_2091330814646550528"
+          ]
+        },
+        "author_id": "753424463560052736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599562",
+              "name": "Frozen"
+            }
+          }
+        ],
+        "conversation_id": "2091576199399067726",
+        "created_at": "2026-08-23T17:20:00.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091576199399067726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFxxyWivMK",
+              "end": 108,
+              "expanded_url": "https://x.com/AcervoCharts/status/2091576199399067726/photo/1",
+              "media_key": "3_2091330842391928832",
+              "start": 85,
+              "url": "https://t.co/zFxxyWivMK"
+            },
+            {
+              "display_url": "pic.x.com/zFxxyWivMK",
+              "end": 108,
+              "expanded_url": "https://x.com/AcervoCharts/status/2091576199399067726/photo/1",
+              "media_key": "3_2091330814646550528",
+              "start": 85,
+              "url": "https://t.co/zFxxyWivMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091576199399067726",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2091330842391928832"
+          },
+          {
+            "media_key": "3_2091330814646550528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 84411,
+          "like_count": 5173,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "Crianças confundem drag queen com Elsa, de Frozen, e pedem para tirar fotos com ela. https://t.co/zFxxyWivMK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕｜Friendly with everything🙌｜@Lola_Scarlet_ 坏婊子欺人太甚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Lola_Scarlet_"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸🚪138",
+        "most_recent_tweet_id": "2091626711582683518",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2091110961025564737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091585733870129152/qzVaeQgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 85,
+          "like_count": 3574,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "is_identity_verified": false,
+        "location": "Brasil",
+        "most_recent_tweet_id": "2091626531038617878",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2091294342132474034",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753424463560052736/1741140075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268068,
+          "following_count": 7533,
+          "like_count": 26924,
+          "listed_count": 349,
+          "media_count": 14746,
+          "tweet_count": 15690
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
